@@ -1,0 +1,12 @@
+!*.xml
+*.bak
+*.ini
+*save
+*old
+*.settings
+*.vortag
+*.bak.2
+*.xml1
+*.ok
+.git/*
+*.json
