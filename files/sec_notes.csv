@@ -1,651 +1,651 @@
-﻿SAP-Komponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn
-BC-DOC-TER;2357141;10;Schwachstelle in Bezug auf die Einschleusung von Betriebssystembefehlen im Report für den Terminologieexport;Programmfehler;HotNews;17.05.2018
-BI-RA-CR;1999142;2;Mögliche Remote-Ausführung von Code in BI-RA-CR;Programmfehler;Korrektur mit mittlerer Priorität;14.05.2018
-BI-BIP-INV;2537150;7;[CVE-2018-2408] Falsche Sitzungsverwaltung in SAP Business Objects - CMC/BI Launchpad/Fiorified BI Launchpad;Programmfehler;Korrektur mit hoher Priorität;11.05.2018
-BC-FES-BUS-DSK;2622660;17;Sicherheitsupdates für Webbrowser-Controls von Drittanbietern in SAP Business Client;Programmfehler;HotNews;10.05.2018
-BC-JAS-WEB;2550202;8;[CVE-2018-2415] Schwachstelle im Zusammenhang mit Content-Spoofing in Web-Container und HTTP-Service von SAP NetWeaver Java AS;Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-FES-IGS;2620744;5;[CVE-2018-2423] Denial-of-Service im RFC-Listener von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-DB-SDB-DBA;2610231;8;[CVE-2018-2418] Code-Injection-Schwachstelle in SAP-MaxDB-ODBC-Treiber;Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-FES-IGS;2617553;4;[CVE-2018-2422] Denial-of-Service im Portwatcher von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-FES-IGS;2616599;3;[CVE-2018-2421] Denial-of-Service im Portwatcher von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-FES-IGS;2615635;5;[CVE-2018-2420] Unbeschränkter Datei-Upload in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-IAM-IDM;2597875;4;[CVE-2018-2416] Schwachstelle im Zusammenhang mit fehlender XML-Prüfung in SAP Identity Management;Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-BC-IAM-IDM;2601492;7;[CVE-2018-2417] Offenlegung von Informationen in Laufzeitkomponente von SAP Identity Management;Programmfehler;Korrektur mit mittlerer Priorität;08.05.2018
-IS-B-BCA-MD;2596627;7;[CVE-2018-2419] Fehlende Berechtigungsprüfung in SAP-Enterprise-Finanzdienstleistungen;Programmfehler;Korrektur mit niedriger Priorität;08.05.2018
-CA-WUI-UI-TAG;2588567;1;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;07.05.2018
-EHS-MGM-FND;2187594;1;Code injection vulnerability in EHS-MGM-FND;Programmfehler;Korrektur mit mittlerer Priorität;26.04.2018
-BC-WD-ABA;2081029;2;Potentially false redirection of Web site content in Web Dynpro ABAP application;Programmfehler;Korrektur mit mittlerer Priorität;17.04.2018
-BC-CST-GW;2190621;4;SAP NetWeaver SAL: fehlerhafte Protokollierung von Adressen;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2018
-XX-CSC-BR-NFE;2497027;2;Missing Authorization check in XX-CSC-BR-NFE;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2018
-XX-CSC-BR-NFEIN;2497000;1;Missing Authorization check in XX-CSC-BR-NFEIN;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2018
-EP-VC-04S;2376081;6;Code-Injection-Schwachstelle in iViews des Visual Composer 04s;Programmfehler;Korrektur mit hoher Priorität;10.04.2018
-SV-SMG-SUP;2372688;5;"[CVE-2018-2405] Cross-Site Scripting im SAP Solution Manager Work Center ""Incident Management""";Programmfehler;Korrektur mit mittlerer Priorität;10.04.2018
-BI-RA-CR;2560132;6;"[CVE-2018-2406] Nicht kommentierte Microsoft-Windows-Suchpfadschwachstelle in SAP Crystal Reports Server, OEM Edition";Programmfehler;Korrektur mit mittlerer Priorität;10.04.2018
-EP-VC-04S;2552318;4;Aktualisierung 1 zu Sicherheitshinweis 2376081;Programmfehler;Korrektur mit hoher Priorität;10.04.2018
-FI-CF-INF;2608312;1;Schaltbare Berechtigungsprüfungen in Central Finance;Programmfehler;Korrektur mit niedriger Priorität;10.04.2018
-SBO-CRO-SEC;2582870;4;[CVE-2018-2410] Cross-Site-Scripting-Schwachstelle (XSS) im Browserzugriff von SAP Business One;Programmfehler;Korrektur mit mittlerer Priorität;10.04.2018
-BC-MID-SCC;2614141;7;[CVE-2018-2409] Falsche Session-Management bei Verwendung von SAP CP Connectivity Service und SAP Cloud Connector;Programmfehler;Korrektur mit mittlerer Priorität;10.04.2018
-BC-SYB-ASE;2598687;9;Schwachstelle in SAP Control Center und SAP Cockpit Framework aufgrund fehlender XML-Validierung;Programmfehler;Korrektur mit mittlerer Priorität;10.04.2018
-EPM-DSM-GEN;2595800;14;[CVE-2018-2403] Multiple Security Vulnerabilities in SAP Disclosure Management;Beratung;Korrektur mit mittlerer Priorität;10.04.2018
-SBO-CRO-SEC;2587985;8;Denial-of-Service-Schwachstelle (DoS) in SAP Business One;Programmfehler;Korrektur mit hoher Priorität;10.04.2018
-FS-CMS-MD;2473452;2;Missing Authorization check in FS-CMS;Programmfehler;Korrektur mit mittlerer Priorität;07.04.2018
-FI-CF-INF;2495144;4;Switchable Authorization checks for RFC in Central Finance;Programmfehler;Korrektur mit mittlerer Priorität;28.03.2018
-EP-PIN-AI;2169722;5;Whitelist based Clickjacking Framing Protection in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;22.03.2018
-BC-SYB-PB;2201710;20;"Behebung von Logjam- und ""Alternative Chains Certificate Forgery""-Schwachstellen in mehreren SAP-Sybase-Produkten";Programmfehler;Korrektur mit mittlerer Priorität;19.03.2018
-XX-CSC-RU-FI;1906841;1;Potential disclosure of persisted data in XX-CSC-RU;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-XX-CSC-RU;2331141;3;SQL-Injection-Schwachstelle in FI-LOC-FI-RU;Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-SV-SMG-DVM;2051336;4;Mögliche Offenlegung von persistierten Daten in SV-SMG-DVM;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-XX-PART-REDWOOD-BPA;2555667;6;[CVE-2018-2366] Directory-Traversal-Schwachstelle in SAP Business Process Automation by Redwood;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-BI-BIP-CMC;2550538;4;[CVE-2018-2397] Cross-Site-Scripting-Schwachstelle (XSS) in SAP BI Central Management Console;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-BC-FES-BUS-DSK;2580967;4;[CVE-2018-2398] Offenlegung von Informationen in SAP Business Client;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-OPU-GW-JAV;2604541;2;Denial-of-Service-Angriff (DoS) in GWJPO;Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-BC-INS-TLS;2597543;2;Directory-Traversal-Schwachstelle in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-XX-PART-REDWOOD-CPS;2596766;4;[CVE-2018-2401] XML-External-Entity-Schwachstelle in SAP BPA BY REDWOOD;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-XX-PART-REDWOOD-BPA;2596535;3;[CVE-2018-2400] Offenlegung von Informationen in SAP BPA BY REDWOOD;Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-CA-WUI-UI;2595262;1;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-BC-SRV-PMI;2592807;5;[CVE-2018-2399] Cross-Site-Scripting-Schwachstelle (XSS) in Process Monitoring Infrastructure;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-BC-FES-IGS;2538829;11;Open Source Software: Sicherheitslücken in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-FS-RI;2509307;1;Fest programmierte Anmeldeinformationen in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-FS-RI;2509215;1;SQL-Injection-Schwachstelle in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;13.03.2018
-HAN-CPT-CPT2-CNR;2587369;10;[CVE-2018-2402] Potenzielle Offenlegung von Informationen in der Trace-Datei zu SAP HANA Capture and Replay;Programmfehler;Korrektur mit hoher Priorität;13.03.2018
-BC-WD-ABA;2142551;11;Whitelist-Service für Clickjacking-Framing-Schutz in AS ABAP;Programmfehler;Korrektur mit mittlerer Priorität;07.03.2018
-SV-SMG-CM;2591244;3;ChaRM users are able to access changes they are not involved in;FAQ;Korrektur mit niedriger Priorität;06.03.2018
-FS-BA;2609847;4;DPP Blocking and Masking;Programmfehler;Korrektur mit niedriger Priorität;28.02.2018
-CRM-ANA-PS;1696317;2;Unberechtigte Modifikation angezeigter Inhalte in CRM-ANA-PS;Programmfehler;Korrektur mit mittlerer Priorität;27.02.2018
-LO-MD-BP-CM;2536422;3;Information Disclosure in Customer factsheet;Programmfehler;Korrektur mit mittlerer Priorität;27.02.2018
-HAN-DB-SEC;2572940;6;[CVE-2018-2369] Offenlegung von Informationen in Berechtigungsfunktion von SAP HANA;Programmfehler;Korrektur mit mittlerer Priorität;27.02.2018
-FI-CAX-FS;2531131;2;Switchable Authorization checks for RFC BCA_DIM_WRITE_OFF in Loans (FI-CAX-FS);Programmfehler;Korrektur mit mittlerer Priorität;27.02.2018
-PA-ER;2458919;1;Missing Authorization check in HCM E-recruiting;Programmfehler;Korrektur mit mittlerer Priorität;27.02.2018
-IS-OIL-PRA-REP;2174147;2;Directory Traversal vulnerability in IS-OIL-PRA-REP-TAX and IS-OIL-PRA-REP-ROY;Programmfehler;Korrektur mit mittlerer Priorität;15.02.2018
-BW-SYS-DB-DB4;1974016;2;Fehlende Berechtigungsprüfung in Funktionsbausteinen von BW-SYS-DB-DB4;Programmfehler;Korrektur mit mittlerer Priorität;15.02.2018
-BC-XS-RT;2589129;18;[CVE-2018-2374] Sicherheitsschwachstellen in Erweiterte Anwendungsservices von SAP HANA;Programmfehler;Korrektur mit hoher Priorität;13.02.2018
-BC-DWB-AIE-SRC;2592069;1;Fehlende Berechtigungsprüfung in ABAP in Eclipse;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-BC-CCM-SLD;2565622;4;[CVE-2018-2368] Fehlende Berechtigungsprüfung in SAP NetWeaver System Landscape Directory;Programmfehler;Korrektur mit hoher Priorität;13.02.2018
-BC-ABA-LA;2562089;8;[CVE-2018-2367] Directory-Traversal-Schwachstelle in ABAP File Interface;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-BC-JAS-SEC-SML;2560741;5;[CVE-2018-2371] Cross-Site Scripting (XSS) Vulnerability in SAML 2.0 Service Provider of AS Java;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-BC-WD-JAV;2547977;5;[CVE-2018-2365] Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-CRM-ISA;2547431;8;[CVE-2018-2380] Directory Traversal vulnerability in Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-FI-GL-IS;2545842;5;[CVE-2018-2381] Fehlende Berechtigungsprüfung im SAP-ERP-Finanzinformationssystem;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-CA-WUI-UI;2541700;5;[CVE-2018-2364] Cross-Site-Scripting-Schwachstelle (XSS) in SAP CRM WebClient UI;Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-BC-FES-IGS;2525222;17;[CVE-2018-2395] Sicherheitslücken in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit hoher Priorität;13.02.2018
-BI-BIP-INV;2493727;9;"[CVE-2018-2370] Server-Side-Request-Forgery-Schwachstelle (SSRF) in Central Management Console, BI Launchpad und SAP Fiori BI Launchpad";Programmfehler;Korrektur mit mittlerer Priorität;13.02.2018
-BC-UPG;1514066;9;Überschreiben von Dateien bei Upgrade oder EHPI;Programmfehler;Korrektur mit mittlerer Priorität;06.02.2018
-BC-UPG;1584573;2;Securty Verdict in SUGM SAUS SUGM_UPG_TYPE_PLUS_DEL_XML;Programmfehler;Korrektur mit hoher Priorität;06.02.2018
-BC-UPG-TLS-TLA;1977547;2;Aktualisierung 1 zu Sicherheitshinweis 1584573;Programmfehler;Korrektur mit hoher Priorität;06.02.2018
-CA-RT-CAR-OAA;2570335;1;OAA CDS Hardening;Programmfehler;Korrektur mit niedriger Priorität;05.02.2018
-QM;2516864;1;Fehlende Berechtigungsprüfung in QM;Programmfehler;Korrektur mit mittlerer Priorität;02.02.2018
-BC-SYB-SQA;2494184;3;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit mittlerer Priorität;02.02.2018
-SV-SMG-OST;2591323;1;Security Issue when Exporting to CSV in the Solution readiness Dashboard;Programmfehler;Korrektur mit mittlerer Priorität;01.02.2018
-FIN-FSCM-TRM-TM-TR;2512244;3;Missing authorization check in Transaction Management;Programmfehler;Korrektur mit mittlerer Priorität;30.01.2018
-GRC-RM;2580634;2;Unrestricted File Upload vulnerability in GRC-PC / GRC-RM;Programmfehler;Korrektur mit mittlerer Priorität;22.01.2018
-BC-ABA-SC;2579693;2;Fehlende Berechtigungsprüfung in Dynpro-Verarbeitung;Programmfehler;Korrektur mit mittlerer Priorität;18.01.2018
-LO-MD-BP-CM;2427949;4;Falsche Berechtigungsprüfungen im SAP-ERP-Logistik-Kunden- und Lieferantenstamm;Programmfehler;Korrektur mit mittlerer Priorität;17.01.2018
-BI-RA-AD;2453871;2;Cross-Site Scripting (XSS) vulnerability in SAP BusinessObjects Design Studio;Programmfehler;Korrektur mit niedriger Priorität;17.01.2018
-BC-UPG-NA;2408073;6;Behandlung von digital signierten SAP-Hinweise in SAP Note Assistant;Programmfehler;Korrektur mit mittlerer Priorität;16.01.2018
-IS-HER-CM;2471736;1;Switchable Authorization checks for RFC in Accounts in SLcM;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2018
-BC-MID-RST;2533541;2;SQL Injection vulnerability in Olingo JPA;Programmfehler;Korrektur mit mittlerer Priorität;09.01.2018
-BC-SRV-KPR-DMS;1906212;5;Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.2018
-BC-SRV-KPR-DMS;2278931;7;1. Aktualisierung zu SAP-Hinweis 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.2018
-BC-SRV-KPR-DMS;2525392;8;[CVE-2018-2363] Aktualisierung 2 zu 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.2018
-BC-CST-STS;2523961;7;[CVE-2018-2360] Fehlende Berechtigungsprüfung im Startup-Service;Programmfehler;Korrektur mit mittlerer Priorität;09.01.2018
-HAN-DB;2575750;12;[CVE-2018-2362] Offenlegung von Informationen im Startup-Service in SAP HANA;Beratung;Korrektur mit mittlerer Priorität;09.01.2018
-SV-SMG-MON-BPM;2507934;8;[CVE-2018-2361] Fehlerhafte Rollenberechtigungen in SAP Solution Manager 7.2;Customizing;Korrektur mit mittlerer Priorität;09.01.2018
-PP-MRP;2455452;2;Missing Authorization check in production planning;Programmfehler;Korrektur mit mittlerer Priorität;08.01.2018
-MOB-APP-ERP-DSD;2580258;1;Missing Authorization check in SAP Direct Store Delivery;Programmfehler;Korrektur mit mittlerer Priorität;20.12.2017
-MFG-PCO;2529480;7;[CVE-2017-16690] DLL-Preload-Attack auf NwSapSetup und selbstextrahierendes Installationsprogramm für SAP Plant Connectivity möglich;Programmfehler;Korrektur mit mittlerer Priorität;18.12.2017
-CEC-MKT-BF;2462261;1;Missing Authorization check in Hybris Marketing;Programmfehler;Korrektur mit mittlerer Priorität;15.12.2017
-BC-WD-JAV;2286679;3;Whitelist-Service-API für Clickjacking-Framing-Schutz in JAVA auf Framework- oder Anwendungsebene erforderlich;Sonderentwicklungen;Korrektur mit mittlerer Priorität;14.12.2017
-BW-BEX-UDI;2537545;7;[CVE-2017-16685] Schwachstelle im Cross-Site-Scripting (XSS) in SAP BW Universal Data Integration;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BC-UPG-NA;2546220;6;[CVE-2017-16691] SNOTE: Prüfung der digitalen Signatur bei der Hinweisdateiextraktion;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BI-BIP-SRV;2531656;6;[CVE-2017-16683] Denial-of-Service (DoS) in SAP-BusinessObjects-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BC-CST-DP;2552295;1;Denial-of-Service (DoS) in ABAP System Dispatcher;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-HAN-AS-XS;2549983;6;"[CVE-2017-16687] Offenlegung von Informationen in SAP HANA XS classic, Benutzer-Self-Service";Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BI-BIP-LCM;2537152;7;[CVE-2017-16684] Fehlende Authentifizierungsprüfung in SAP-BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit hoher Priorität;12.12.2017
-BC-FES-ITS;2526781;5;[CVE-2017-16682] Code-Injection-Schwachstelle in SAP NetWeaver/ITS;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BI-BIP-LCM;2523913;4;[CVE-2017-16681] Cross-Site-Scripting-Schwachstelle (XSS) in BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BC-XS-RT;2522510;9;[CVE-2017-16680] Potenzielle Audit-Log-Injection-Schwachstelle in SAP HANA XS Advanced;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BC-MID-RFC;2449757;7;[CVE-2017-16689] Zusätzliche Berechtigungsprüfung in Trusted RFC im selben System;Programmfehler;Korrektur mit hoher Priorität;12.12.2017
-BC-CST-STS;2520995;8;[CVE-2017-16679] URL-Umleitungsschwachstelle in Startup-Service;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-EP-KM-FWK-CF;2457562;11;[CVE-2017-16678] Server Side Request Forgery (SSRF) vulnerability in SAP NetWeaver Knowledge Management Configuration Service;Programmfehler;Korrektur mit mittlerer Priorität;12.12.2017
-BC-XI-IBC;2174651;1;Mögliche Offenlegung von Informationen bezüglich PI Integration Directory;Programmfehler;Korrektur mit mittlerer Priorität;07.12.2017
-BI-BIP-INV;2026174;5;SBOP-Lösung für Apache Struts1.x: Schwachstelle CVE-2014-0094;Programmfehler;Korrektur mit hoher Priorität;24.11.2017
-BC-VCM-LVM;2531241;6;Offenlegung von Informationen in LVM 2.1 und LaMa 3.0;Programmfehler;HotNews;14.11.2017
-BC-VCM-LVM;2520772;7;Offenlegung von Informationen in LaMa 3.0;Programmfehler;HotNews;14.11.2017
-BC-XS-RT;2508673;6;Offenlegung von Informationen in Erweiterte Anwendungsservices von SAP HANA (XS Advanced);Fehler in der Dokumentation;Korrektur mit mittlerer Priorität;14.11.2017
-PE-LSO-CP;2492999;8;Mehrere Sicherheitsschwachstellen in SAP ERP Learning Solution Content Player;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-CA-WUI-UI-TAG;2541610;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-BC-FES-INS;2535629;7;DLL-Preload-Attack möglich für NwSapSetup und selbstextrahierendes Installationsprogramm;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-CA-UI5-COR;2374767;5;Schwachstelle in Cross-Site-Scripting (XSS) in SAPUI5;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-MOB-APP-BI-SRV;2514475;7;Directory-Traversal-Schwachstelle in SAP BI Mobile Server;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-EP-KM-TLS-XFB;2464582;4;Cross-Site-Scripting-Schwachstelle (XSS) in XML-Formularen des SAP NetWeaver Knowledge Management;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-BC-ABA;2508767;4;Eskalation von Berechtigungen nach der Installation von SAP-Systemen auf SAP HANA;Beratung;Korrektur mit mittlerer Priorität;14.11.2017
-BC-JAS-SF;2500044;4;Vollzugriff auf SAP Management Console;Programmfehler;Korrektur mit hoher Priorität;14.11.2017
-BC-CCM-MON;2493171;8;Offenlegung von Informationen bei SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-BC-JAS-SEC;2485208;4;Log-Injection-Schwachstelle in SAP NetWeaver AS Java;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-BI-RA-AWB;2473504;7;Schwachstelle des Cross-Site-Scripting (XSS) in SAP-BusinessObjects-Analyse-Edition für OLAP;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-BW-WHM-DBA-MD;2545530;1;InfoObject  Stammdatenpflege / Hierarchiepflege: CSV-Export kann in MS Excel zum Ausführen von Befehlen führen;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-XX-CSC-BR-REP;2469849;1;Missing Authorization check in XX-CSC-BR-REP;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2017
-SCM-APO-INT;1560538;7;Fehlende Berechtigungsprüfung in SCM-APO-INT;Programmfehler;Korrektur mit mittlerer Priorität;13.11.2017
-CRM-MW-MFW;2270084;2;Switchable authorization checks for RFC in CRM-MW-MFW;Programmfehler;Korrektur mit mittlerer Priorität;13.11.2017
-CRM-MW-BDM;2264976;4;CRM_Switchable authorization checks for RFC in CRM-MW-BDM;Programmfehler;Korrektur mit mittlerer Priorität;13.11.2017
-CA-DDF-RT-IF;2542426;1;Missing Authorization check in Image Imports;Programmfehler;Korrektur mit hoher Priorität;03.11.2017
-CA-MDG-ML;2328182;2;Directory Traversal vulnerability in MDG Data Export;Programmfehler;Korrektur mit mittlerer Priorität;03.11.2017
-BC-DWB-JAV-CAF;2400292;7;Schwachstelle: Fehlende XML-Validierung in TranslationSupport-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;02.11.2017
-BC-DWB-JAV-CAF;2372301;6;Fehlende XML-Validierung in Composite Application Framework Authorization Tool;Programmfehler;Korrektur mit mittlerer Priorität;02.11.2017
-EP-BC-UWL;2492658;7;Schwachstelle mit Blick auf fehlende XML-Validierung im SAP NetWeaver Java WorkFlow (JWF);Programmfehler;Korrektur mit mittlerer Priorität;23.10.2017
-PM-WOC-MO;2503107;2;Missing authorization checks in PM-WOC-MO;Programmfehler;Korrektur mit mittlerer Priorität;20.10.2017
-BC-FES-BUS-HTM;2319174;3;Whitelist-basierter Clickjacking-Framing-Schutz in NWBC for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.10.2017
-BC-WD-ABA;2353643;3;Offenlegung von Informationen in der Web-Dynpro-Listen-UIBB: Suchtreffer in unsichtbaren Zellen sind markiert;Programmfehler;Korrektur mit niedriger Priorität;14.10.2017
-BC-DOC-RIT;2371726;6;Code-Injection-Schwachstelle bei der Textumwandlung;Programmfehler;HotNews;13.10.2017
-FS-CML;2491578;2;Fehlende Berechtigungsprüfung in der Darlehensverwaltung;Programmfehler;Korrektur mit mittlerer Priorität;13.10.2017
-BC-FES-ITS;2471209;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAPGUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;12.10.2017
-BC-JAS-WEB;2486657;6;Directory-Traversal Schwachstelle in SAP NetWeaver AS Java Web Container;Programmfehler;Korrektur mit hoher Priorität;10.10.2017
-BI-BIP-AUT;2458021;7;Schwachstelle mit Blick auf Offenlegung von Informationen in LDAP-Authentifizierung für SAP BusinessObjects Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-CCM-SLD-JAV;2527770;6;Offenlegung von Informationen in SAP NetWeaver System Landscape Directory;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-MOB-LAP;2532802;5;Offenlegung von Informationen in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.2017
-XX-PART-ADB-IFM;2236258;8;Schwachstelle mit Blick auf fehlende XML-Validierung in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-IS-PS-CA;2517501;6;Schaltbare Berechtigungsprüfungen für Kontierungen im SAP ERP Haushaltsmanagement;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-MOB-SDK-MAF;2511453;8;Mögliches Entweichen von vertraulichen Daten im SDK 3.0 für SAP Mobile Platform;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-WD-ABA-RUN;2480857;4;Denial-of-Service in SAP NetWeaver Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-CRM-MKT-ML;2519135;3;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP-CRM-Mailformulareditor;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-MOB-LAP;2528284;5;Offenlegung von Informationen in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.2017
-CRM-IC-CHA-EMA;2519622;2;Email Spoofing vulnerability in SAP CRM IC WebClient;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-MOB-LAP;2510269;9;Offenlegung von Informationen: Schwachstelle in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.2017
-BC-CST-STS;2509284;4;Speicherschaden-Schwachstelle in SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-CST-STS;2504129;4;Offenlegung von Informationen bei SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;10.10.2017
-BC-CST-EQ;2476937;7;Mögliche Denial-of-Service-Schwachstelle in SAP Standalone Enqueue-Server;Programmfehler;Korrektur mit hoher Priorität;10.10.2017
-CRM-MW-SRV;2264948;3;Switchable authorization checks for RFC in CRM-MW-SRV;Programmfehler;Korrektur mit mittlerer Priorität;06.10.2017
-CRM-MW-GEN;2264949;3;Switchable authorization checks for RFC in CRM-MW-GEN;Programmfehler;Korrektur mit mittlerer Priorität;06.10.2017
-IS-R-TGM-POS;2528596;11;Fest programmierte Anmeldeinformationen in SAP Point-of-Sale/Store Manager;Programmfehler;Korrektur mit niedriger Priorität;05.10.2017
-PA-PA-US;2457014;1;Missing Authorization check in PA-PA-US;Programmfehler;Korrektur mit mittlerer Priorität;05.10.2017
-BC-JAS-WEB;2314976;2;Content spoofing in AS Java Web container;Programmfehler;Korrektur mit mittlerer Priorität;03.10.2017
-PY-US-TP;2479448;1;Missing Authorization check in PY-US-TP;Programmfehler;Korrektur mit mittlerer Priorität;01.10.2017
-PY-US;2457929;1;Missing Authorization check in PY-US;Programmfehler;Korrektur mit mittlerer Priorität;01.10.2017
-PA-ER;2507798;6;Umgehung der E-Mail-Verifizierung in SAP E-Recruiting;Programmfehler;Korrektur mit mittlerer Priorität;28.09.2017
-BW-BEX-OT-WSP;2389764;5;BW Workspaces: Analyseberechtigung beim Modellieren und Ausführen lokaler Hierarchien;Programmfehler;Korrektur mit mittlerer Priorität;25.09.2017
-BW-SYS-DB;2044018;3;Fehlende Berechtigungsprüfung in BW-SYS-DB;Programmfehler;Korrektur mit mittlerer Priorität;15.09.2017
-BC-CCM-MON-ORA;2051717;2;SQL-Injection-Schwachstelle in SAP Netweaver;Programmfehler;Korrektur mit mittlerer Priorität;15.09.2017
-BC-NWA-XPI;2483143;4;Offenlegung von Informationen in SAP NetWeaver Adapter Engine Cache-Monitor;Programmfehler;Korrektur mit niedriger Priorität;12.09.2017
-SLC-REG;2365450;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver (SLC-Registrierungsseite auf Lieferantenseite);Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-MOB-APP-BI-IOS;2484707;9;Mehrere Schwachstellen in SAP-BI-Mobile-App;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-XX-PROJ-CDP-354;2367269;4;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in elektronischer Ledgerverwaltung für die Türkei 1.0;Programmfehler;Korrektur mit hoher Priorität;12.09.2017
-BC-WD-JAV;2491480;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-BC-TRX;2489196;4;Offenlegung von Informationen in TREX/BWA;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-BC-WD-ABA;2488516;5;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-BC-WD-UR;2469860;5;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro Java;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-BI-BIP-BIW;2464489;4;Cross-Site-Scripting-Schwachstelle (XSS) in BIWorkspace;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-BC-CTS-DI;2444673;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Development Infrastructure Cockpit;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-XX-PART-ADB-IFM;2342974;4;Schwachstelle in Bezug auf beliebiges gültiges Zertifikat in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2017
-CRM-MW-ADM;2261768;2;Switchable authorization checks for RFC in CRM-MW-ADM;Programmfehler;Korrektur mit mittlerer Priorität;07.09.2017
-SV-RDS-PAK;2520885;1;Logout function missing in SAP Best Practices Package Manager for Partner;Exit hinzugefügt;Korrektur mit mittlerer Priorität;06.09.2017
-IS-R-TGM-POS;2476601;11;Fehlende Berechtigungsprüfungen auf Server für SAP Point-of-Sale Xpress (SAP-POS-Xpress-Server);Programmfehler;Korrektur mit hoher Priorität;06.09.2017
-IS-R-TGM-POS;2520064;6;Fehlende Berechtigungsprüfung auf Server für SAP Point-of-Sale Xpress (SAP-POS-Xpress-Server);Programmfehler;Korrektur mit hoher Priorität;06.09.2017
-IS-U-LIB-DE-CL;2432578;5;Fehlende Berechtigungsprüfung in RFC-Funktionsbaustein;Programmfehler;Korrektur mit mittlerer Priorität;04.09.2017
-BC-SYB-ASE;2296722;6;Offenlegung von Informationen: Schwachstelle in SAP ASE Installer;Programmfehler;Korrektur mit mittlerer Priorität;01.09.2017
-BC-SYB-SQA;2374348;9;"Offenlegung von Informationen in DBISQL mit Auswirkungen auf SAP SQL Anywhere, SAP ASE und SAP IQ";Programmfehler;Korrektur mit niedriger Priorität;01.09.2017
-BC-JAS-SEC;2524134;2;1. Aktualisierung zu SAP-Hinweis 2423540: URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.2017
-BC-JAS-SEC;2423540;5;URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.2017
-BC-BMT-WFM-WEB;2132282;1;Möglicher Denial-of-Service in BC-BMT-WFM-WEB;Programmfehler;Korrektur mit mittlerer Priorität;24.08.2017
-BC-FES-BUS-HTM;2189781;3;Unbefugtes Ändern von angezeigten Inhalten in NWBC für HTML;Programmfehler;Korrektur mit mittlerer Priorität;17.08.2017
-GRC-SAC-ARA;2491763;2;SQL Injection vulnerability in GRC Access Controls;Programmfehler;Korrektur mit niedriger Priorität;16.08.2017
-BC-JAS-SEC-LGN;2280932;3;Missing Authorization Check in Security Provider Service;Programmfehler;Korrektur mit mittlerer Priorität;10.08.2017
-CRM-MKT-EAL;2271802;2;Switchable authorization checks for RFC in External List Management (CRM-MKT-EAL);Programmfehler;Korrektur mit mittlerer Priorität;10.08.2017
-BW-SYS-DB;2453642;4;SQL-Injection-Schwachstelle in SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2017
-CA-WUI-UI;2450979;9;SQL-Injection-Schwachstelle in SAP-CRM-WebClient-Benutzungsoberfläche;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-BI-BIP-BIW;2381071;9;Cross-Site-AJAX-Request-Schwachstelle in SAP BusinessObjects;Programmfehler;Korrektur mit hoher Priorität;08.08.2017
-SRM-LA;2493099;5;Mehrere Sicherheitsschwachstellen in SAP SRM Live Auction;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-XX-PART-ADB-IFM;2392719;3;Mögliche Denial-of-Service-Schwachstelle (DoS) in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-BC-JAS-SEC-CPG;2499109;5;Kollisionen bei der UUID-Generierung in SAP NetWeaver Java Server;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-CRM-BF-CFG;2481262;4;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP-CRM-IPC-Preisfindung;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-BC-DWB-TOO-CLA;2463354;6;Fehlende Berechtigungsprüfung in den ABAP Workbench Tools;Programmfehler;Korrektur mit niedriger Priorität;08.08.2017
-BI-RA-WBI-FE-HTM;2428512;4;Server-Side-Request-Forgery-Schwachstelle (SSRF) in Web-Intelligence-BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-CA-WUI-UI;2425744;7;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-BC-FES-BUS-HTM;2417020;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Business Client for HTML;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-BC-WD-CLT-FLX;2393021;1;Adobe-SDK-XSS-Schwachstelle - Flex;Programmfehler;Korrektur mit mittlerer Priorität;08.08.2017
-EP-PIN-WPC-WCM;2394536;4;URL-Redirection-Schwachstelle in SAP NetWeaver K.M. Web Page Composer;Programmfehler;Korrektur mit niedriger Priorität;08.08.2017
-XX-CSC-BR;1786732;2;Directory traversal in J1BA;Programmfehler;Korrektur mit mittlerer Priorität;04.08.2017
-BC-JAS-WEB;2290783;3;Whitelist-basierter Clickjacking-Framing-Schutz für Java Server Pages;Sonderentwicklungen;Korrektur mit mittlerer Priorität;11.07.2017
-BC-CCM-HAG;2442993;5;Böswilliger SAP-Host-Agent-Shutdown ohne Authentifizierung;Programmfehler;Korrektur mit hoher Priorität;11.07.2017
-CRM-ISA;2478964;6;Cross-Site-Scripting-Schwachstelle (XSS) in SAP CRM Internet Sales Administration Console;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-BC-SYB-SQA;2478377;8;Auftreten der Sweet32-Schwachstelle in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit niedriger Priorität;11.07.2017
-GRC-SAC-ARQ;2453640;4;Code-Injection-Schwachstelle in SAP GRC Access Control für SAP Governance Risk and Compliance;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-MDM-FN-CON;2424742;6;Offenlegung von Informationen in SAP NetWeaver Master Data Management;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-BI-BIP-LCM;2409262;4;Cross-Site-Scripting-Schwachstelle (XSS) in BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-BI-DEV-WEB;2398144;5;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP BusinessObjects Titan;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-SCM-BAS-UIF;1920522;1;Unbefugtes Ändern von abgelegten Inhalten in SCM-BAS-UIF;Programmfehler;Korrektur mit niedriger Priorität;11.07.2017
-FIN-SEM-BCS-IS-BW;2100926;1;Schaltbare Berechtigungsprüfungen für RFC in SEM-BCS;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-FS-MCM-FAC;2218598;2;Zusätzliche Berechtigungsprüfungen in Fazilitätskomponente;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-PSM-FM-CL;2184221;1;Schaltbare Berechtigungsprüfungen für Jahresabschlusstransaktionen;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-EP-KM-WD;2158791;1;Caching KM Content in the Portal;Modifikation;Korrektur mit mittlerer Priorität;11.07.2017
-CRM-CHM;1568213;4;PCM - Implementieren von Erweiterung: Zugriff auf WebClient UI beschränken;Programmfehler;Korrektur mit mittlerer Priorität;11.07.2017
-BC-MOB-DOE;2459319;4;Schwache Verschlüsselung in SAP NetWeaver Data Orchestration Engine;Programmfehler;Korrektur mit niedriger Priorität;11.07.2017
-LO-MD-BP-CM;2088593;2;Potential disclosure of persisted data in LO-MD-BP-CM & LO-MD-BP-VM;Programmfehler;Korrektur mit mittlerer Priorität;10.07.2017
-BC-JAS-WEB;2416119;8;Verbesserte Sicherheit für ausgehende HTTPS-Verbindungen in SAP NetWeaver;Customizing;Korrektur mit hoher Priorität;07.07.2017
-CA-MDG-APP-FIN;2185122;3;Switchable authorization checks for RFC in data extraction within CA-MDG-APP-FIN;Programmfehler;Korrektur mit niedriger Priorität;06.07.2017
-IS-U-CA;2253026;1;Fehlende Berechtigungsprüfung in IS-U-CA;Programmfehler;Korrektur mit mittlerer Priorität;23.06.2017
-BC-SRV-ALV;1854252;6;Fehlende Berechtigungsprüfung in BC-SRV-ALV;Programmfehler;Korrektur mit hoher Priorität;22.06.2017
-EPM-BFC-PSI-INS;2422292;3;Cross-Site Scripting (XSS) vulnerability in SAP Business Objects Financial Consolidation;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BI-BIP-INV;2313631;5;Denial-of-Service-Schwachstelle (DoS) in BI-Launchpad und Central Management Console;Programmfehler;Korrektur mit hoher Priorität;13.06.2017
-BC-UPG-NA;2425129;3;Schwachstelle: Fehlende XML-Validierung in SAP Note Assistant;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-IAM-SSO-CCL;2444321;8;Fehlende Zertifikatsverifizierung in CommonCryptoLib;Programmfehler;Korrektur mit hoher Priorität;13.06.2017
-EPM-BPC-NW-AR;2457269;3;Schwachstelle bezüglich fehlender XML-Validierung in Berichten des SAP-Business-Planning-and-Consolidation-Systems;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BI-RA-WBI-FE-HTM;2396544;4;Cross-Site-Scripting-Schwachstelle (XSS) in HTML-Interface von SAP BusinessObjects Web Intelligence;Programmfehler;Korrektur mit hoher Priorität;13.06.2017
-BC-CST-STS;2389181;4;Denial-of-Service (DoS) in Instanz-Agent-Service in SAP NetWeaver;Programmfehler;Korrektur mit hoher Priorität;13.06.2017
-BC-CST-MS;2445071;3;Denial-of-Service (DoS) in SAP NetWeaver Message Server;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-CST-MS;2445033;2;Offenlegung von Informationen in SAP NetWeaver Message Server;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-CST;2430022;6;Denial-of-Service (DOS) in SAP Netweaver AS ABAP;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-DWB-JAV-CAF;2405943;5;Cross-Site-Scripting-Schwachstelle (XSS) in Test-Integration von SAP NetWeaver Composite Application Framework und Business Warehouse;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-EIM-DS-SVR;2472026;9;URL Redirection vulnerability in SAP Data Services Management Console;Vorgezogene Entwicklung;Korrektur mit mittlerer Priorität;13.06.2017
-SCM-FRE-ERP;2457909;6;Missing Authorization check in SCM Forecasting and Replenishment;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-EPM-IC-PSI;2429693;5;Directory Traversal vulnerability in SAP BusinessObjects Intercompany 10.0;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-JAS-SF;2427292;4;Offenlegung von Informationen in SAP MMC Console;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BI-RA-WBI-FE-HTM;2419559;4;Reflected-Cross-Site-Scripting-Schwachstelle (XSS) in Web Intelligence BI Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BC-CST-WDP;2423429;2;Code-Injection-Schwachstelle in SAP Web Dispatcher;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-BI-RA-WBI-FE-HTM;2419524;3;Reflected-Cross-Site-Scripting-Schwachstelle (XSS) in Web Intelligence BI Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.06.2017
-CA-WUI-UI;2373032;6;Cross-Site-Scripting-Schwachstelle (XSS) in WebClient-Benutzungsoberfläche;Programmfehler;Korrektur mit mittlerer Priorität;07.06.2017
-EHS-MGM-INC;1816886;4;Mögliche Offenlegung von Informationen bei Untersuchung;Programmfehler;Korrektur mit mittlerer Priorität;05.06.2017
-BC-DB-DBI;2423486;9;Fehlende Berechtigungsprüfung in SAP NetWeaver ADBC Demo Programs;Programmfehler;Korrektur mit mittlerer Priorität;29.05.2017
-CRM-MKT-MPL-CA;2236654;2;XXE Vulnerability in CRM-MKT-MPL-CA;Programmfehler;Korrektur mit mittlerer Priorität;23.05.2017
-BC-WD-UR;2374661;4;Cross-Site Scripting (XSS) vulnerability in Unified Rendering / SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.05.2017
-BC-FES-ITS;2316723;2;Cross-Site Request Forgery (CSRF) vulnerability in Dynpro Processing in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.05.2017
-FI-RA;2462813;3;SQL Injection Vulnerability in Revenue Accounting;Programmfehler;Korrektur mit mittlerer Priorität;11.05.2017
-BC-UPG-NA;2235515;7;Unzureichende Protokollierung in der Transaktion SNOTE;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-ABA-LA;2433777;3;Fehlende Berechtigungsprüfung in ABAP File Interface;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-FES-BUS-HTM;1812283;3;Unauthorized modification of displayed content in NWBC;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-ESI-WS-JAV-CFG;2406918;4;Schwachstelle: Fehlende XML-Validierung in Web-Services-Konfigurations-UI von SAP NetWeaver;Programmfehler;Korrektur mit niedriger Priorität;09.05.2017
-IS-DFS-MM-LE;2394024;6;Fehlende Berechtigungsprüfung in EA-DFPS;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-FES-IGS;2380277;1;Schwachstelle durch Speicherschaden in IGS;Programmfehler;Korrektur mit hoher Priorität;09.05.2017
-BC-FES-JAV;2448972;5;Verbesserte Berechtigungsprüfungen beim Aufrufen der Verbindung im SAP GUI for Java;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-IS-DFS-BIT-DIS;2376743;3;Fehlende Berechtigungsprüfung in EA-DFPS-Hilfsmittel;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-SEC-LGN-SML;2443586;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver: Authentifizierung und SSO;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-IS-DFS-PM;2442630;8;Fehlende Berechtigungsprüfung in EA-DFPS;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-INS-TLS;2441560;3;Mögliche Denial-of-Service-Schwachstelle (DoS) in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-BC-SRV-GBT-GOS;2424671;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Generic Object Services;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-EP-PIN-PRT;2412897;2;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;09.05.2017
-IS-DFS-MA;1791940;2;Potential modification of persisted data in MDS;Programmfehler;Korrektur mit mittlerer Priorität;19.04.2017
-IS-HER-CM;1830630;1;Unauthorized modification in BSP application in IS-HER-CM;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-XX-CSC-CL-FI;1959110;1;Missing authorization check in Chile Sales Ledger;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-BC-TRX;2419592;4;Code-Injection-Schwachstelle in TREX/BWA;Programmfehler;HotNews;11.04.2017
-BC-CCM-PRN;2421287;4;Sicherheitsschwachstellen in SAPLPD;Programmfehler;Korrektur mit hoher Priorität;11.04.2017
-BC-INS-CTC;2406783;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Central Technical Configuration;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-FIN-SEM-SRM;2426076;8;Mehrere Schwachstellen in SAP ERP Stakeholder Relationship Management;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-BI-BIP-INV;2403010;5;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in BI-Launchpad;Programmfehler;Korrektur mit niedriger Priorität;11.04.2017
-EP-KM-CM-ICE;2387249;6;Missing XML Validation vulnerability in Knowledge Management ICE Service;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-BC-ILM-DAS;2308535;6;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Java Archiving Framework;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-BC-WD-CLT-FLX;2410082;4;Schwachstelle: Fehlende XML-Validierung in Web Dynpro Flash Island;Programmfehler;Korrektur mit hoher Priorität;11.04.2017
-BC-MID-RFC;2417355;3;Fehlende Berechtigungsprüfung in der Konfiguration von RFC-Verbindungen;Programmfehler;Korrektur mit mittlerer Priorität;11.04.2017
-FS-QUO;2446435;1;Information Disclosure in  FS-QUO;Programmfehler;Korrektur mit mittlerer Priorität;10.04.2017
-BC-FES-GUI;2407616;4;Schwachstelle in Bezug auf die Remote-Ausführung von Quelltext in SAP GUI for Windows;Programmfehler;Korrektur mit hoher Priorität;07.04.2017
-FS-BA-RD;2452697;1;Missing Authorization check in RDL;Programmfehler;Korrektur mit mittlerer Priorität;07.04.2017
-BC-DWB-TOO-DBG;2433458;4;Fehlende Berechtigungsprüfung in ABAP Debugger;Programmfehler;Korrektur mit mittlerer Priorität;05.04.2017
-BC-JAS-WEB;1450166;7;Nicht autorisierte Ausführung von Anwendungsfunktionen;Sonderentwicklungen;Korrektur mit hoher Priorität;28.03.2017
-CA-VE-VEV;2391018;8;"Speicherbeschädigungs-Schwachstelle in SAP 3D Visual Enterprise Author, Generator und Viewer";Programmfehler;Korrektur mit hoher Priorität;28.03.2017
-EP-PIN-URL;2323727;2;URL Redirection vulnerability in URL and Generic  iView;Programmfehler;Korrektur mit mittlerer Priorität;28.03.2017
-FS-LOC-GEN;2443232;1;Missing Authorization check in /FSGLO/CN_API_LSAP_SET;Programmfehler;Korrektur mit mittlerer Priorität;17.03.2017
-CO-PA-TO;2318953;1;Directory Traversal vulnerability in CO-PA-TO;Programmfehler;Korrektur mit mittlerer Priorität;15.03.2017
-XX-CSC-CL-FI;1951071;2;Missing authorization check in XX-CSC-CL-FI;Programmfehler;Korrektur mit mittlerer Priorität;15.03.2017
-FS-RI;1716641;5;Fehlende Berechtigungsprüfung in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-CCM-MON-ORA;2319506;3;SQL-Injection-Schwachstelle in Datenbankmonitoren für Oracle;Programmfehler;Korrektur mit hoher Priorität;14.03.2017
-IS-DFS-MM-STO;2381388;4;Fehlende Berechtigungsprüfung in SAP-ERP-Materialwirtschaft;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-IS-DFS-MM;2378999;5;Fehlende Berechtigungsprüfung in SAP-ERP-Materialwirtschaft;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-JAS-ADM-LOG;2372626;4;Schwachstelle zu fehlender XML-Validierung in Log Viewer von SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-HAN-AS-XS;2426260;5;"SQL-Injection-Schwachstelle in den erweiterten Anwendungsservices von SAP HANA, klassisches Modell";Programmfehler;Korrektur mit niedriger Priorität;14.03.2017
-HAN-WDE-XSC;2428811;5;SQL-Injection-Schwachstelle in SAP HANA Web Workbench;Programmfehler;Korrektur mit niedriger Priorität;14.03.2017
-HAN-AS-XS;2424173;3;Schwachstellen in den Benutzer-Self-Service-Tools von SAP HANA;Programmfehler;HotNews;14.03.2017
-HAN-AS-XS;2429069;3;"Schwachstelle bei der Session-Fixierung in denn erweiterte Anwendungsservices von SAP HANA, klassisches Modell";Programmfehler;Korrektur mit hoher Priorität;14.03.2017
-BC-WD-ABA;2332977;4;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-WD-UR;2333845;3;Cross-Site-Scripting-Schwachstelle (XSS) in Unified Rendering;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-FES-ITS;2335272;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BI-RA-WBI-FE-HTM;2386814;5;Cross-Site-Scripting-Schwachstelle (XSS) in HTML-Interface von SAP BusinessObjects Web Intelligence;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-JAS-ADM-MON;2417046;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-Netweaver-Monitoring -Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-ABA-LA;2406841;4;JavaScript-Engine von ABAP Server ist eventuell nicht mehr verfügbar;Programmfehler;Korrektur mit niedriger Priorität;14.03.2017
-BC-CCM-MON-ORA;2418823;3;Aktualisierung 1 zu SAP-Hinweis 2319506;Programmfehler;Korrektur mit hoher Priorität;14.03.2017
-BC-SEC-LGN-SML;2418209;4;Cross-Site-Scripting-Schwachstelle (XSS) in Sicherheitsdiagnosetool;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-EP-PIN-NAV;2408100;9;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal – Komponente GenericSemanticTest;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-FI-TV-COS;2417428;2;Cross-Site-Scripting-Schwachstelle (XSS) in SAP Travel Management;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-ABA-SC;2405918;3;Denial-of-Service (DOS) in SAP Netweaver Dynpro Engine;Programmfehler;Korrektur mit hoher Priorität;14.03.2017
-EP-VC-INF;2399804;5;Denial-of-Service-Schwachstelle (DoS) in Visual Composer;Programmfehler;Korrektur mit hoher Priorität;14.03.2017
-EP-PIN-TOL;2392509;4;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal StyleService;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-CA-VE-VEV-SDK;2360761;13;"Speicherbeschädigungs-Schwachstelle in SAP 3D Visual Enterprise Author, Generator und Viewer";Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-BMT-BPM-DSK;2372188;5;Offenlegung von Informationen in Business Process Management;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-HAN-CPT;2424120;3;Offenlegung von Informationen in SAP HANA Cockpit für die Offline-Administration;Programmfehler;Korrektur mit mittlerer Priorität;14.03.2017
-BC-FES-ITS;2318760;2;Cross-Site Scripting (XSS) vulnerability in ITS / SAP GUI for HTML;Programmfehler;Korrektur mit hoher Priorität;13.03.2017
-BC-DWB-UTL;2368082;2;Offenlegung von Informationen in ABAP-Entwicklungsumgebung;Programmfehler;Korrektur mit niedriger Priorität;09.03.2017
-BC-XI-IS-WKB;2366713;8;Fehlende Validierung der Eingabelänge in der Runtime Workbench;Programmfehler;Korrektur mit mittlerer Priorität;03.03.2017
-FI-AA-AA;2345698;1;Missing Authorization check in FI-AA-AA;Programmfehler;Korrektur mit mittlerer Priorität;01.03.2017
-XX-CSC-RU-FI;2367193;4;Fehlende Berechtigungsprüfung in Geldflussrechnungs-Report;Programmfehler;Korrektur mit mittlerer Priorität;20.02.2017
-BC-FES-ITS;2350276;2;Cross-Site Scripting (XSS) vulnerability in ITS / SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;20.02.2017
-BC-MOB-DOE;2408892;7;Fehlende Berechtigungsprüfungen in SAP NetWeaver Data Orchestration Engine;Programmfehler;Korrektur mit hoher Priorität;14.02.2017
-BC-MOB-DOE;2410061;6;Denial-of-Service (DoS) im Bereich mit den Systemnachrichten im DOE-Administrationsportal;Programmfehler;Korrektur mit hoher Priorität;14.02.2017
-HAN-WDE;2407694;3;SAP Web IDE für SAP HANA: Nicht autorisierte remote Datenmanipulation und DOS-Angriff;Programmfehler;Korrektur mit hoher Priorität;14.02.2017
-EP-KM-CM-UI;2326291;2;Cross-Site-Scripting-Schwachstelle (XSS) in KM-Portalfavoriten;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-BC-SRV-RM;2392860;3;Ausnutzen von Berechtigungen durch kundeneigenen Transaktionscode;Programmfehler;Korrektur mit hoher Priorität;14.02.2017
-BW-BEX-UDI-VC;2386873;4;Missing XML Validation vulnerability in Visual Composer VC70RUNTIME;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-EP-PIN-IVS-UPL;2369541;3;Schwachstelle mit Blick auf fehlende XML-Validierung im Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-EP-VC-CON;2360489;6;Cross-Site Request Forgery (CSRF) vulnerability in Visual Composer 04s iviews.;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-BC-FES-ITS;2197532;5;Sicherheitsschwachstellen in einem zu SAP ITS Mobile gehörigen ICF-Service;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-BC-CTS-ORG;2408558;2;Fehlende Berechtigungsprüfung in der Transaktion GTABKEY;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-BC-CUS-TOL-IMG;2401265;2;Fehlende Berechtigungsprüfung im Funktionsbaustein OBJECT_MAINTENANCE_CALL;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2017
-GRC-SAC-EAM;2413716;3;Einrichtung des Trusted RFC in der Notfallzugriffsverwaltung für SAP Access Control;Programmfehler;Korrektur mit hoher Priorität;14.02.2017
-BI-BIP-LCM;2292351;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;10.02.2017
-BC-FES-ITS;2319172;3;Whitelist-basierter Clickjacking-Framing-Schutz in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;09.02.2017
-BC-SYB-ASE;2407845;3;Mehrere Schwachstellen bei der Verwendung von Java in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;08.02.2017
-BI-BIP-INV;2250817;7;Cross-Site-Scripting-Schwachstelle (XSS) in InfoView - Titan;Programmfehler;Korrektur mit mittlerer Priorität;08.02.2017
-CRM-MKT-MPL-TPM-IMP;2347077;1;Cross-Site Scripting (XSS) vulnerability in IMP planning table / CRM-MKT-MPL-TPM-IMP;Programmfehler;Korrektur mit mittlerer Priorität;25.01.2017
-SD-BIL-IV-CB;2355398;5;Missing Authorization check in RFC function module;Programmfehler;Korrektur mit mittlerer Priorität;25.01.2017
-SD-BIL-IV-CB;2355339;2;Directory Traversal Vulnerability in FSB;Programmfehler;Korrektur mit mittlerer Priorität;25.01.2017
-BC-DOC-TTL;1541716;4;Möglicher Denial of Service in Funktion d. Übersetzungstools;Programmfehler;Korrektur mit mittlerer Priorität;17.01.2017
-FS-OCB-GEN-SEC;2407696;2;Entfernen von DESEncrypt-Klasse aus SAP Online Banking 8.3;Beratung;Korrektur mit mittlerer Priorität;10.01.2017
-BI-BIP-SL-SDK;2361633;4;SQL-Injection-Schwachstelle auf der SAP-Business-Intelligence-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-SV-SMG-SDD;2378090;4;Fehlende Berechtigungsprüfung in SAP Solution Manager;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-BC-ABA-LA;2389578;3;Directory-Traversal-Schwachstelle in File Interface in SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-BC-JAS-ADM-LOG;2370876;2;Directory-Traversal Schwachstelle in SAP NetWeaver Log Viewer;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-EP-PIN-NAV;2369469;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-Enterprise-Portal-Navigation;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-EP-PIN-RTC;2341302;5;Cross-Site-Scripting-Schwachstele (XSS) in SAP Enterprise Portal Real-Time Collaboration;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-BC-DWB-AIE-SRC;2407670;2;Fehlende Berechtigungsprüfung in ABAP Development Tools;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-BC-SYB-SAM;2407862;5;Mehrere Pufferüberläufe in Flexera Flexnet Publisher (CVE-2015-8277) Sybase Asset Management;Programmfehler;HotNews;10.01.2017
-BC-ESI-UDDI;2356504;5;SQL-Injection-Schwachstelle in SAP NetWeaver UDDI Server;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-BC-IAM-SSO-OTP;2389042;6;Denial-of-Service (DoS) in SAP SAP Single Sign-On;Programmfehler;Korrektur mit hoher Priorität;10.01.2017
-EP-VC;2347439;8;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP Netweaver Visual Composer;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-IS-DFS-BIT-DIS;2378448;4;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-EP-PIN-TOL;2377626;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-IS-DFS-BIT;2378417;4;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-IS-DFS-BIT-DIS;2376524;5;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-EP-PIN-TOL;2372204;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-EP-PIN-TOL;2372183;3;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.2017
-CRM-MKT-MPL-CBP;2407351;2;Unrestricted File Upload vulnerability in Customer Business Planning application;Programmfehler;Korrektur mit mittlerer Priorität;05.01.2017
-XX-CSC-BR-REP;1699041;2;IN86: Mögliches Directory-Traversal;Programmfehler;Korrektur mit hoher Priorität;26.12.2016
-CRM-ISA-CAT;2265385;2;Switchable authorization checks for RFC in Product Catalog;Programmfehler;Korrektur mit mittlerer Priorität;22.12.2016
-LO-MD-BP-CM;2179233;1;"Missing authorization check in LO-MD-BP-CM, LO-MD-BP-VM, FI-AP-AP-N, FI-AR-AR-N";Programmfehler;Korrektur mit niedriger Priorität;14.12.2016
-BC-GP;2344524;5;Offenlegung von Informationen in Guided Procedures;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-HAN-AS-XS-ADM;2394445;3;"Offenlegung von Informationen in SAP HANA XS, klassischer Benutzer-Self-Service-Portal";Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BC-JAS-SEC-UME;2310790;2;Directory-Traversal-Schwachstelle in einer Benutzerverwaltungsanwendung;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-HAN-CPT;2351486;4;Offenlegung von Informationen in SAP HANA Cockpit für die Offline-Administration;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BC-SYB-SQA;2359019;6;'FalseConnect': Schwachstelle bei HTTP-Proxy-Authentifizierung mit MobiLink-Client und Relay-Server-Outbound-Enabler;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-IS-DFS-BIT-DIS;2376998;4;Fehlende Berechtigungsprüfung in EA-DFPS-Überwachungswerkzeugen;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-HAN-DB-BAC;2379342;3;Cross-Site-Scripting-Schwachstelle (XSS) in Backup-Funktion von SAP HANA Cockpit;Programmfehler;Korrektur mit niedriger Priorität;13.12.2016
-BI-RA-CR;2336795;4;Port-Scanning über URL-Reporting in SAP BusinessObjects Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BC-GP;2375140;3;Aktualisierung 1 zu Sicherheitshinweis 2344524;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-IS-DFS-MA;2374749;5;Fehlende Berechtigungsprüfung in SAP Mobile Defense & Security 1.6;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BW-PLA-BPS;2374165;5;Missing Authorization check in BW Business Planning and Simulation;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BC-MID-ICF-LGN;2373175;4;Offenlegung von Informationen auf der ABAP-HTTP-Systemanmeldeseite;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BI-RA-WBI-BE-SM;2336393;6;Schwachstelle mit Blick auf Offenlegung von Informationen im SAP BusinessObjects Explorer;Programmfehler;Korrektur mit hoher Priorität;13.12.2016
-BI-BIP-INV;2283666;4;Potenzielle Offenlegung von Informationen zu SAP BusinessObjects Explorer;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BI-BIP-INV;2265964;4;Deserialisierung nicht vertrauenswürdiger Daten in BI-Plattform;Programmfehler;Korrektur mit hoher Priorität;13.12.2016
-BI-RA-AWB;2354254;1;Schwachstelle mit Blick auf Offenlegung von Informationen in SAP BusinessObjects Analysis for OLAP;Programmfehler;Korrektur mit niedriger Priorität;13.12.2016
-SBO-CRO-SEC;2378065;6;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP Business One;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-IS-DFS-BIT-DIS;2377067;4;Fehlende Berechtigungsprüfung in EA-DFPS-Synchronisationsmechanismen;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-EP-PIN-NAV-FFP;2360488;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP Fiori Launchpad im Unternehmensportal;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-BI-BIP-ADM;2288991;3;Directory-Traversal-Schwachstelle in SAP-BusinessObjects-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;13.12.2016
-WEC-FRW;2244161;4;Clickjacking-Gegenmaßnahme in SAP Web Channel Experience Management (Web Channel);Programmfehler;Korrektur mit niedriger Priorität;01.12.2016
-BC-MID-RFC;2245130;3;Potenzielle Umgehung von Unified-Connectivity-Laufzeitprüfungen in BC-MID-RFC;Programmfehler;Korrektur mit mittlerer Priorität;25.11.2016
-BC-UPG-TLS-TLA;1718613;7;Fehlende Berechtigungsprüfung im Funktionsbaustein DD_DB_IMIG_CALL_INSTTOOL;Programmfehler;Korrektur mit hoher Priorität;22.11.2016
-CRM-MKT-MPL-CAL;2378485;1;Cross-Site Scripting (XSS) vulnerability in Integrated Marketing Calendar;Externer Fehler;Korrektur mit mittlerer Priorität;17.11.2016
-XX-CSC-IN-MM;2250863;2;Missing authorization check in XX-CSC-IN-MM;Programmfehler;Korrektur mit niedriger Priorität;16.11.2016
-BC-ESI-UDDI;2101079;6;Mögliche Änderung/Offenlegung von persist. Daten in BC-ESI-UDDI;Programmfehler;Korrektur mit hoher Priorität;14.11.2016
-FI-CAX-INV;2248862;2;Fehlende Berechtigungsprüfung in FI-CA-INV;Programmfehler;Korrektur mit mittlerer Priorität;14.11.2016
-BC-XI-IBC;1434761;10;Ablage der Passwörter der Service Benutzer von XI/PI;Programmfehler;Korrektur mit mittlerer Priorität;10.11.2016
-FS-AM-OM-SO;2368873;3;Fehlende Berechtigungsprüfung in Services für das Bankwesen/Dauerauftrag;Programmfehler;Korrektur mit mittlerer Priorität;08.11.2016
-BC-CST-MS;2358972;6;Denial-of-Service-Schwachstelle (DoS) in Message Server;Programmfehler;Korrektur mit hoher Priorität;08.11.2016
-BC-CCM-SLD;2342940;3;Offenlegung von Informationen in System Landscape Directory;Programmfehler;Korrektur mit mittlerer Priorität;08.11.2016
-BC-DWB-UTL;2376223;1;Missing Authorization check in Dynpro Modeler;Programmfehler;Korrektur mit niedriger Priorität;08.11.2016
-FI-GL-GL-J;2371610;2;Missing Authorization check in Direct-Input posting;Programmfehler;Korrektur mit mittlerer Priorität;08.11.2016
-EPM-BFC-TCL;2368106;5;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP BusinessObjects Financial Consolidation;Fehler in der Dokumentation;Korrektur mit mittlerer Priorität;08.11.2016
-BC-XI-IS-IEN;2366726;3;Cross-Site-Scripting-Schwachstelle (XSS) in PI Integration Engine;Programmfehler;Korrektur mit mittlerer Priorität;08.11.2016
-BC-DB-MSS;2366512;4;Offenlegung von Informationen im SAP Software Update Manager;Info zum Upgrade;Korrektur mit hoher Priorität;08.11.2016
-CA-WUI-APF;2383912;2;Insecure Logoff functionality in CA-WUI-APF;Programmfehler;Korrektur mit mittlerer Priorität;07.11.2016
-CRM-MD-INB;2263882;1;Missing authorization check in CRM-MD-INB;Programmfehler;Korrektur mit mittlerer Priorität;05.11.2016
-FS-AM;2197830;1;Missing authorization check in Account Management;Programmfehler;Korrektur mit mittlerer Priorität;29.10.2016
-BC-BSP;2319192;4;Whitelist-basierter Clickjacking-Framing-Schutz in BSP;Programmfehler;Korrektur mit mittlerer Priorität;27.10.2016
-PA-TM;2358285;1;Cross-Site Scripting (XSS) vulnerability in Flash Island parts used in HCM Webdynpro applications;Programmfehler;Korrektur mit mittlerer Priorität;14.10.2016
-BC-MID-RFC;2078596;10;Weitere Verbesserungen der RFC-Sicherheit;Beratung;Korrektur mit mittlerer Priorität;11.10.2016
-WEC-APP-SRV;2241871;2;Fehlende Berechtigungsprüfung in WEC-APP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BF-CFG;2271018;1;Fehlende Berechtigungsprüfungen in Funktionsbausteinen mit Bezug zu CRM-Wissensdatenbanken für konfigurierbare Produkte;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BTX;2246269;4;Fehlende Berechtigungsprüfung in CRM-BTX;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-CHM;2263132;1;Fehlende Berechtigungsprüfung in CRM-CHM;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BF;2257328;2;Fehlende Berechtigungsprüfungen in CRM-Portal-Content-Funktionsbausteinen;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-ITT-ETC-BTX;2258027;3;Switchable authorization checks for RFC in CRM-Travel&Transportation-Electronic Toll Collection-Business Transaction;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-IT-BTX;2273147;3;Schaltbare Berechtigungsprüfungen für RFC in CRM-IT-BTX;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-LOY;2303421;2;Schaltbare Berechtigungsprüfungen für RFC in Kundenbindungsmanagement (CRM-LOY);Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MW-ADP;2275009;2;Schaltbare Berechtigungsprüfungen für RFC in CRM-MW-ADP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-IM;2276601;1;Switchable authorization checks for RFC in CRM-Sales of Subscription based Series;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CA-UI2-THD;2358849;3;Whitelist-basierender Clickjacking-Framing-Schutz in UI-Theme-Designer im SAP-Portal;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MW-CCO;2266040;1;Switchable authorization checks for RFC in CRM-MW-CCO;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CA-UI2-THD;2349128;1;Whitelist-basierender Clickjacking-Framing-Schutz in UI-Theme-Designer in ABAP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BTX-LEA;2271740;3;Missing authorization check in CRM-BTX-LEA;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BF;2266687;1;Switchable authorization checks for RFC in CRM Counters;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MD-CON-XIF;2272055;1;Switchable authorization checks for RFC in Conditions Master Data;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MW-GWI-GWA;2268252;1;Switchable authorization checks for RFC in CRM-MW-GWI-GWA;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MW-MON;2266967;1;Switchable authorization checks for RFC in CRM-MW-MON;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-LAM;2233831;1;Switchable authorization checks for RFC in Leasing / Account Origination;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-MSA;2262131;1;Switchable authorization checks for RFC in CRM-MSA-ADP and CRM-MT-MAS-ARS;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-IC-HCM-BF;2276488;1;Missing authorization check in CRM-IC-HCM;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-BF-BRF;2255642;2;Switchable authorization checks for RFC in Rule Builder BRFplus;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-ISE;2252568;2;Switchable authorization checks for RFC in Internet Service;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-SV-SMG-SER;2348055;4;SQL-Injection-Schwachstelle in Add-on ST-PI;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-IM-IPM;2248790;2;Switchable authorization checks for RFC in Intellectual Property Management;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-FIN-FSCM-TRM-CRM;2344639;5;Fehlende Berechtigungsprüfung in SAP Commodity Risk Management;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BI-RA-XL;2335427;3;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in BI-Plattform für SAP BOBJ;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BC-XI-IS-WKB;2344441;3;Cross-Site-Scripting-Schwachstelle in PI Message Display Tool;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BC-JAS-ADM-MON;2331908;3;Authentifizierungsprüfung fehlt in Infoservice von Message Server;Programmfehler;Korrektur mit hoher Priorität;11.10.2016
-BC-SYB-SQA;2330422;7;Denial-of-Service (DOS) in v16 des SQL-Anywhere-OData-Servers;Programmfehler;Korrektur mit hoher Priorität;11.10.2016
-CRM-IU;2271839;1;Switchable authorization checks for RFC in CRM-IU;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-ISA;2265976;1;Switchable authorization checks for RFC in Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BC-FES-GUI;2361671;3;Offenlegung von Informationen in SAP GUI for Windows;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BC-XI-IBD;2320703;6;Aktualisierung 1 zu Sicherheitshinweis 1512776;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BI-BIP-INV;2307762;2;Clickjacking-Schwachstelle im BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-BI-RA-CRE;2288310;3;Schwachstelle in SAP-BusinessObjects-Komponenten in Bezug auf Xalan;Programmfehler;Korrektur mit mittlerer Priorität;11.10.2016
-CRM-ISA-R3;2029397;7;Fehlende Berechtigungsprüfungen für RFC in E-Commerce-ERP-Anwendungen;Programmfehler;Korrektur mit mittlerer Priorität;29.09.2016
-XX-PROJ-FI-CA;2251513;1;Fehlende Berechtigungsprüfung in XX-PROJ-FI-CA;Programmfehler;Korrektur mit mittlerer Priorität;27.09.2016
-BC-CCM-MON;1511193;6;XSRF-Schutz für die CCMS Monitoring Console;Programmfehler;Korrektur mit hoher Priorität;22.09.2016
-CRM-SLC;2335687;4;Whitelist based Clickjacking Framing Protection in Solution Sales Configuration;Programmfehler;Korrektur mit mittlerer Priorität;22.09.2016
-SCM-EWM-DLP;2316942;2;Missing Authorization check in EWM for delivery / warehouse request objects;Programmfehler;Korrektur mit mittlerer Priorität;15.09.2016
-BC-XI-IBC;2181460;4;Unbefugte Verwendung von Anwendungsfunktionen in SAP Exchange Infrastructure;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-CA-FIM-FCO;2357695;3;Fehlende Berechtigungsprüfung von Individualkonditionen;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-FS-AM-IM-IT;2353024;3;Fehlende Berechtigungsprüfung in Postenverwaltung;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-CA-FIM-FCO;2357856;3;Fehlende Berechtigungsprüfung von Standardkonditionen;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-BC-SYB-ASE;2358986;6;Unzureichende Fehlerprüfung in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;13.09.2016
-BC-SYB-ASE;2353243;4;SQL-Injection-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;13.09.2016
-BC-SYB-ASE-CE;2350574;6;Sicherheitsschwachstelle der Adresse axis.jar (CVE-2014-3596) in SAP ASE Web-Services-Komponente;Externer Fehler;Korrektur mit mittlerer Priorität;13.09.2016
-BI-BIP-INV;2290548;10;Denial-of-Service-Schwachstelle (DoS) in BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-HAN-LM-INS-DB;2347944;3;Offenlegung von Informationen im CCMS-Agent von SAP HANA;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-EPM-BFC-TCL;2172049;7;DLL-Hijacking in SAP Financial Consolidation;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-BC-CCM-CNF-PFL;2342473;5;Directory-Traversal-Schwachstelle in der Profilpflege;Programmfehler;Korrektur mit mittlerer Priorität;13.09.2016
-GRC-SAC-ARQ;2351352;2;The User Sessions were not handled correctly from End User Login Application.;Programmfehler;Korrektur mit mittlerer Priorität;12.09.2016
-BC-SRV-NBC;1627922;6;Fehlende Berechtigungsprüfung in SAA_REMOTE_OP_TRANSACTION;Programmfehler;Korrektur mit hoher Priorität;06.09.2016
-XX-CSC-RU-FI;2318530;2;Missing authorization check in FI-LOC-SD-RU;Korrektur der gesetzlichen Funktion;Korrektur mit hoher Priorität;05.09.2016
-BC-SEC;2319727;6;Clickjacking-Schutz in SAP NetWeaver AS ABAP und AS Java;Beratung;Korrektur mit mittlerer Priorität;01.09.2016
-BC-JAS-JMS;2294866;7;Fehlende geeignete Berechtigungsprüfungen im JMS Provider Service;Programmfehler;Korrektur mit mittlerer Priorität;31.08.2016
-BW-BEX-ET;2069820;2;Fehlende Berechtigungsprüfung in BW-BEX-ET;Programmfehler;Korrektur mit mittlerer Priorität;19.08.2016
-BC-ABA-LA;2292714;3;Denial-of-Service-Schwachstelle (DoS) in Speicherabzugserstellung;Programmfehler;Korrektur mit mittlerer Priorität;12.08.2016
-BC-SRV-KPR-CMS;2012284;4;Knowledge Provider übergibt falschen Status der Virenprüfung an Content-Server;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-BC-CST-IC;2313835;2;Denial-of-Service-Schwachstelle (DoS) im Internet Communication Manager;Programmfehler;Korrektur mit hoher Priorität;09.08.2016
-BC-XI-IS-WKB;2307947;8;Schwachstelle mit Blick auf Offenlegung von Informationen in Runtime Workbench;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-BC-JAS-COR;2280371;2;Directory-Traversal-Schwachstelle in einem Telnet-Befehl;Programmfehler;Korrektur mit niedriger Priorität;09.08.2016
-BI-BIP-INV;2249634;7;Cross-Site-Scripting-Schwachstelle (XSS) in BIWorkspace;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-BC-INS-TLS;2327384;4;Race-Bedingung bei Dateiberechtigungsänderung in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-FIN-FSCM-TRM-TM;2317096;3;Fehlende Berechtigungsprüfung in Transaction Manager;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-AP-MD-BP;2312966;7;Directory-Traversal-Schwachstelle in Geschäftspartner;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-BC-INS-TLS;2312905;4;Denial-of-Service-Schwachstelle (DoS) in SAPCAR;Programmfehler;Korrektur mit niedriger Priorität;09.08.2016
-BC-BMT-BPM-DSK;2296909;3;Denial-of-Service-Schwachstelle (DoS) im BPM;Programmfehler;Korrektur mit mittlerer Priorität;09.08.2016
-EP-KM-CM;1477597;6;SEC-133: Cross-Site-Scripting SAP NetWeaver EW;Programmfehler;Korrektur mit hoher Priorität;05.08.2016
-EP-KM-CM-SEC;2351001;1;Update 1 to security note 1477597;Programmfehler;Korrektur mit hoher Priorität;05.08.2016
-SCM-YL;2317358;1;Missing Authorization check in SAP Yard Logistics;Programmfehler;Korrektur mit mittlerer Priorität;05.08.2016
-BI-BIP-BIW;1718230;2;Unbefugtes Ändern angezeigter Inhalte in Strategy Builder;Programmfehler;Korrektur mit hoher Priorität;04.08.2016
-EP-PIN-DNT;2224249;7;Unbefugtes Ändern von abgelegten Inhalten in ConfigEditor;Programmfehler;Korrektur mit hoher Priorität;03.08.2016
-EP-PIN-PRT;2194572;6;Unbefugtes Ändern von angezeigten Inhalten in StringBufferPoolMonitor;Programmfehler;Korrektur mit hoher Priorität;28.07.2016
-EP-PIN-CS;2228405;5;Unbefugtes Ändern von abgelegten Inhalten in EPCF Loader Tester;Programmfehler;Korrektur mit hoher Priorität;28.07.2016
-EP-KM-TLS-XFB;2182154;5;Unbefugtes Ändern von abgelegten Inhalten in XMLForms-Vorschau;Programmfehler;Korrektur mit hoher Priorität;28.07.2016
-BC-JAS-ADM-MON;2234971;4;Directory-Traversal in AS Java Monitoring;Programmfehler;Korrektur mit mittlerer Priorität;28.07.2016
-EP-PIN-NAV-AFP;2169391;5;Reflected-File-Download-Schwachstelle in AFP Servlet;Programmfehler;Korrektur mit hoher Priorität;28.07.2016
-SV-SMG-INS-CFG;2301837;9;Code-Injection-Schwachstelle in SAP Solution Manager;Programmfehler;HotNews;26.07.2016
-BC-CCM-SLD-JAV;2240548;1;Unberechtigte Verwendung von Anwendungsfunktionen in SLD;Programmfehler;Korrektur mit mittlerer Priorität;25.07.2016
-BC-CCM-FIL;1542033;5;Aktualisierung 1 zu Sicherheitshinweis 1497003;Programmfehler;Korrektur mit hoher Priorität;22.07.2016
-BC-SEC;1727640;7;Update 1 to security note 1520101;Programmfehler;Korrektur mit hoher Priorität;22.07.2016
-EHS-SAF;1540408;3;Aktualisierung #1 zu Sicherheitshinweis 1505368;Info zur Installation;Korrektur mit niedriger Priorität;22.07.2016
-BC-WD-JAV;1724922;6;1. Aktualisierung zum Sicherheitshinweis 1653474;Programmfehler;Korrektur mit hoher Priorität;22.07.2016
-BC-SRV-KPR;1678072;5;Aktualisierung #1 zu Sicherheitshinweis 1579673;Programmfehler;Korrektur mit hoher Priorität;22.07.2016
-BC-SRV-FP;2218411;2;Mögliches Remote-Beenden von laufenden Prozessen in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;15.07.2016
-HAN-DP-LTR;2321240;5;Fehlende Berechtigungsprüfung in SAP HANA Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-FIN-FSCM-BD;2339167;2;Whitelist-basierende ClickJacking Framing Protection in SAP Biller Direct;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-PE-LSO-CP;2337225;3;Clickjacking vulnerability in LSO Content Player;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-BC-WD-JAV;2170590;4;Whitelist-Service für Clickjacking-Framing-Schutz in AS JAVA;Sonderentwicklungen;Korrektur mit mittlerer Priorität;12.07.2016
-BC-WD-ABA;2303032;1;Cross-Site-Scripting-Schwachstelle (XSS) in CL_WDR_CLIENT_SSR_LS;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-IS-U-CS-ISS;2339506;1;Whitelist-basierend ClickJacking Framing Protection in SAP Utility Customer E-Services;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-MFG-MII;2338446;1;Clickjacking Framing Protection in MII;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-CA-UI2-INT-FE;2333957;2;Whitelist based Clickjacking Framing Protection in SAP Fiori Launchpad for NW AS ABAP;Beratung;Korrektur mit mittlerer Priorität;12.07.2016
-BC-SYB-OS;2330839;3;Denial-of-Service-Angriff (DoS) in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit hoher Priorität;12.07.2016
-BC-SYB-ASE;2329738;2;Unrestricted-File-Creation-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-EP-PDK-HBJ;2263656;1;Whitelist based Clickjacking Framing Protection in HTMLB Java;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-XX-PART-ADB-IFM;2245398;4;Schwachstelle bei Java-Deserialisierung in SAP Interactive Forms by Adobe;Programmfehler;Korrektur mit hoher Priorität;12.07.2016
-CA-UI5-ABA;2245332;1;Automatic usage of Whitelist Service for Clickjacking Framing Protection in SAPUI5 Apps;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-BW-BEX-ET-WJR-RT;2209907;5;Whitelist-basierter Clickjacking-Framing-Schutz in BW-Reports;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-BC-WD-JAV;2169860;3;Whitelist-basierter Clickjacking-Framing-Schutz in Web Dynpro Java;Sonderentwicklungen;Korrektur mit mittlerer Priorität;12.07.2016
-BC-WD-ABA;1872800;2;Whitelist-basierter Clickjacking-Framing-Schutz in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-CA-UI5-COR;2319184;3;Whitelist based Clickjacking Framing Protection in SAPUI5;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-EP-PIN-FPN;2315788;3;Denial-of-Service (DoS) im Enterprise Portal: Portal im Verbund;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-FS-CML;2309079;4;Fehlende Berechtigungsprüfung in Consumer and Mortgage Loans;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-CRM-ISA;2297227;2;Whitelist based Clickjacking Framing Protection in CRM-ISA;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-BC-CST-STS;2295238;3;Speicherschaden-Schwachstelle in Start-Service;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-BI-BIP-INV;2290512;5;Cross-Site-Scripting-Schwachstelle (XSS-Schwachstelle) in BI-Plattform und BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;12.07.2016
-XX-CSC-RO-FI;2157355;2;SQL Injection vulnerability in XX-CSC-RO-FI;Korrektur der gesetzlichen Funktion;Korrektur mit mittlerer Priorität;11.07.2016
-BI-BIP-CMC;2198329;2;Clickjacking issue in CMC- Security Issue;Programmfehler;Korrektur mit mittlerer Priorität;23.06.2016
-BC-JAS-WEB;1445998;5;Deaktivieren des Invoker-Servlets;Programmfehler;HotNews;22.06.2016
-SCM-BAS-UIF;2011652;1;Unauthorized modification of displayed content in SCM-BAS-UIF;Programmfehler;Korrektur mit niedriger Priorität;20.06.2016
-EP-KM-TLS-PP;2254648;3;Cross-Site-Scripting-Schwachstelle (XSS) in KM-Personensuche;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-BI-RA-AD;2255588;2;Cross-Site-Scripting-Schwachstelle (XSS) in SAP BusinessObjects Design Studio;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-BC-TWB-TST-ECA;2256178;3;Cross-Site-Scripting-Schwachstelle (XSS) in ecattping;Programmfehler;Korrektur mit hoher Priorität;14.06.2016
-BW-PLA-IP;2197262;5;Offenlegung von Informationen in BI-Reporting und -Planung;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-BC-JAS-SEC-LGN;2246608;11;Cross-Site-Scripting-Schwachstelle (XSS) in Anmeldeanwendung;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-BC-SYB-SQA;2308778;7;Denial-of-Service (DoS) in Sybase SQL Anywhere MobiLink Synchronization Server;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-CA-SUR;2308217;6;Schwachstelle bezüglich fehlender XML-Validierung in Web Survey;Programmfehler;Korrektur mit hoher Priorität;14.06.2016
-BC-TRX-API;2307494;5;Fehlende Berechtigungsprüfung in TREX ABAP+JAVA API;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-BC-DOC-TER;2306709;3;Code-Injection-Schwachstelle in Dokumentations- und Übersetzungs-Tools;Programmfehler;HotNews;14.06.2016
-EIM-DS;2306571;3;Möglicher Denial-of-Service (DOS) in SAP Data Services;Programmfehler;Korrektur mit hoher Priorität;14.06.2016
-BC-BMT-OPI-PVE;2303386;6;Fehlende Berechtigungsprüfung in SAP Operational Process Intelligence;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-EIM-DS;2300346;4;Directory-Traversal-Schwachstelle in SAP Data Services;Programmfehler;Korrektur mit niedriger Priorität;14.06.2016
-HAN-DB;2293958;8;Fehlende Kommunikationssicherheit für SAP-HANA-Daemon-Service;Programmfehler;Korrektur mit mittlerer Priorität;14.06.2016
-XX-CSC-PT-FIAA;1909843;1;PT-FIAA: Potential Directory Traversal;Programmfehler;Korrektur mit mittlerer Priorität;07.06.2016
-SD-MD-CH;2316249;2;Missing Authorization check in SD-MD-CH;Programmfehler;Korrektur mit mittlerer Priorität;07.06.2016
-EC-PCA-IS;2297003;4;Fehlende Berechtigungsprüfung in EC-PCA-IS;Programmfehler;Korrektur mit mittlerer Priorität;06.06.2016
-BC-MID-RFC;2252312;3;Nicht ausreichende Protokollierung des RFC in SAL;Programmfehler;Korrektur mit mittlerer Priorität;06.06.2016
-BC-WD-CMP-ALV-ABA;2272676;2;FPM-Listen-UIBB-ATS/FPM-Baum-UIBB/WD ALV: Tabellenkalkulationsformel-Injection;Programmfehler;Korrektur mit mittlerer Priorität;06.06.2016
-BC-SRV-KPR-CMS;1590651;3;Lesezugriff auf Tabellen mit Zertifikaten verhindern;Programmfehler;Korrektur mit mittlerer Priorität;30.05.2016
-BI-RA-AD;2222731;1;Unauthorized modification of stored content in DesignStudio SFIN use case;Programmfehler;Korrektur mit mittlerer Priorität;24.05.2016
-CRM-FIO-BTX-TAS;2317756;1;Input length validation missing in CRM Fiori apps;Programmfehler;Korrektur mit mittlerer Priorität;20.05.2016
-FS-CML;2160790;1;Fehlende Berechtigungsprüfung in FS-CML;Programmfehler;Korrektur mit mittlerer Priorität;13.05.2016
-BC-INS-CTC;2260876;10;Mehrere Schwachstellen in LM Configuration Wizard;Programmfehler;Korrektur mit mittlerer Priorität;10.05.2016
-BC-FES-IGS;2254425;7;Clickjacking-Schwachstelle in SAP Internet Graphics Server;Programmfehler;Korrektur mit mittlerer Priorität;10.05.2016
-EP-PIN-CS;2281002;6;Offenlegung von Informationen in Client-Services für SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;10.05.2016
-BI-RA-PA;2307384;2;Deserialisierung nicht vertrauenswürdiger Daten in SAP Predictive Analytics;Programmfehler;Korrektur mit hoher Priorität;10.05.2016
-IS-B-BCA-AM;2298657;7;Fehlende Berechtigungsprüfung in SAP R/3 Enterprise Financial Services;Programmfehler;Korrektur mit mittlerer Priorität;10.05.2016
-BI-RA-CRE;2298367;3;Deserialisierung nicht vertrauenswürdiger Daten in SAP Crystal Reports for Enterprise;Programmfehler;Korrektur mit hoher Priorität;10.05.2016
-BC-SYB-ASE;2297853;3;Fehlende Berechtigungsprüfung in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;10.05.2016
-BC-SYB-ASE;2296023;5;Fehlende Berechtigungsprüfung in SAP ASE XPServer;Programmfehler;HotNews;10.05.2016
-BC-I18;2292487;5;Hartkodierte System-IDs im Code Page Conversion Tool (BC-I18);Programmfehler;Korrektur mit niedriger Priorität;10.05.2016
-LO-SLC;2195409;1;Potential modif./disclosure of persisted data in SAP CPQ Solution Configuration (SME);Programmfehler;Korrektur mit mittlerer Priorität;06.05.2016
-BC-DB-MSS;2236289;3;Fehlende Berechtigungsprüfung in SMSS_GET_DBCON;Programmfehler;Korrektur mit mittlerer Priorität;29.04.2016
-BC-CST-GW;1444282;11;gw/reg_no_conn_info Einstellungen;Customizing;Korrektur mit mittlerer Priorität;29.04.2016
-CRM-CM;1850010;2;Mögliche Änderung/Offenlegung von persist. Daten in CRM-CM;Programmfehler;Korrektur mit mittlerer Priorität;27.04.2016
-XX-CSC-RU-FI;1933375;1;RU ERP for Banking. Missing authorization check. Potentential modification of persisted data;Programmfehler;Korrektur mit mittlerer Priorität;25.04.2016
-SV-SMG-TWB-BCA;2043447;3;Fehlende Berechtigungsprüfung in SV-SMG-BPCA;Programmfehler;Korrektur mit mittlerer Priorität;22.04.2016
-XX-CSC-IN-FI;2201916;1;Missing authorization check in XX-CSC-IN-FI;Programmfehler;Korrektur mit mittlerer Priorität;21.04.2016
-BC-SYB-ASE;2294689;5;SQL-Injection-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;20.04.2016
-CRM-CCI;2289575;3;"Cross-Site Scripting (XSS) vulnerability in SAP Contact Center Infrastructure when handling chats, e-mails, call extra data, scripts, and presence and directory data";Programmfehler;Korrektur mit mittlerer Priorität;19.04.2016
-SV-SMG-SUP;2300197;3;Cross-Site Scripting (XSS) vulnerability in SAP Solution Manager Fiori Apps 'My Incidents' and 'My Business Requirements';Programmfehler;Korrektur mit mittlerer Priorität;15.04.2016
-BC-CUS-TOL-HMT;2284952;4;Aktualisierung 2 zu Sicherheitshinweis 1971238;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-BC-CST-IC;2221657;1;Code-Injection-Schwachstelle in SAP Internet Communication Manager;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-HAN-DP-SDI;2262742;6;Fehlende Berechtigungsprüfung in HANA DP Agent;Programmfehler;Korrektur mit hoher Priorität;12.04.2016
-HAN-DP-SDI;2262710;4;Denial-of-Service-Schwachstelle (DoS) in HANA DP Agent;Programmfehler;Korrektur mit hoher Priorität;12.04.2016
-BC-CST-EQ;2258784;5;Denial-of-Service-Schwachstelle (DoS) im Enqueue-Server;Programmfehler;Korrektur mit hoher Priorität;12.04.2016
-BC-ESI-UDDI;2254389;5;XXE-Schwachstelle in SAP UDDI;Programmfehler;Korrektur mit hoher Priorität;12.04.2016
-BC-XS-JAV;2252191;6;Deserialisierung nicht vertrauenswürdiger Daten in SAP HANA XS Advanced Java Runtime;Externer Fehler;Korrektur mit hoher Priorität;12.04.2016
-BC-WD-UR;2201295;10;Cross-Site-Scripting-Schwachstelle (XSS) in UR Control.;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-HAN-DP-SDI;2280054;5;Offenlegung von Informationen in Data Provisioning Agent;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-BC-CST-GW;2274560;4;Arbitrary-Log-File-Injection-Schwachstelle in SAP Gateway;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-BI-BIP-INV;2274286;6;XSS-Schwachstelle bezüglich Sendeaktion in BI-Dokumenten;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-CRM-ISA-TEC;2273241;10;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-BC-MUS-LP;2267789;8;Fehlende Berechtigungsprüfungen im Report Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-OPU-GW-JAV;2265514;4;Deserialisierung nicht vertrauenswürdiger Daten in Groovy Engine;Programmfehler;Korrektur mit hoher Priorität;12.04.2016
-BC-WD-JAV;2263719;6;Cross-Site-Scripting-Schwachstelle (XSS) in BC-WD-JAV;Programmfehler;Korrektur mit mittlerer Priorität;12.04.2016
-XX-CSC-HU-FI;1951340;1;Missing authorization check in XX-CSC-HU-FI;Programmfehler;Korrektur mit mittlerer Priorität;07.04.2016
-CRM-MKT-EAL;1902162;4;Code-Injection-Schwachstelle in CRM-MKT-EAL;Programmfehler;Korrektur mit hoher Priorität;01.04.2016
-PLM-ECC;2281095;1;Missing authorization check in ECTR;Programmfehler;Korrektur mit mittlerer Priorität;30.03.2016
-XX-CSC-RU-FI;1943280;1;Missing authorization check in XX-CSC-RU-FI;Programmfehler;Korrektur mit mittlerer Priorität;30.03.2016
-LE-WM-VAS;2133144;2;Missing whitelist check in LE-WM-VAS LE-TRM and LE-YM;Programmfehler;Korrektur mit niedriger Priorität;23.03.2016
-BC-CUS-TOL-HMT;2017050;2;Aktualisierung 1 zu Sicherheitshinweis 1971238;Programmfehler;Korrektur mit hoher Priorität;22.03.2016
-BC-JAS-COR;1682613;4;Fehlende Berechtigungsprüfung im Core-Service;Programmfehler;HotNews;17.03.2016
-LO-BM-GBT;2213128;1;Switchable authorization checks for RFCs in GBT integration component GBTRINT in ERP;Programmfehler;Korrektur mit mittlerer Priorität;15.03.2016
-BC-JAS-SF;2259547;6;Potential denial of service in jstart;Programmfehler;Korrektur mit hoher Priorität;14.03.2016
-BC-CST-IC;2256185;2;Potential denial of service in SAP Internet Communication Manager;Programmfehler;Korrektur mit hoher Priorität;14.03.2016
-BC-SYB-ASE;2262645;8;Sicherheitsschwachstelle in Apache Commons Collections Library (wird von mehreren SAP-Sybase-Produkten verwendet);Programmfehler;Korrektur mit hoher Priorität;11.03.2016
-BC-CST-MS;2223688;3;Möglicher Denial-of-Service im Message Server;Programmfehler;Korrektur mit niedriger Priorität;08.03.2016
-BC-CST-MS;2189174;1;Unbefugtes Ändern von angezeigten Inhalten auf dem Message Server;Programmfehler;Korrektur mit niedriger Priorität;08.03.2016
-BI-RA-EXP;2260895;3;Potenzielle Offenlegung von Informationen zum Explorer-Webanwendungsserver;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-BC-INS-TC-CNT;2260344;5;Mögliche Einschleusung eines Betriebssystembefehls in SCTC_*-Funktionsbausteinen;Sonderentwicklungen;HotNews;08.03.2016
-BC-CST-IC;2258786;4;Potenzielle Offenlegung von Informationen zur SAP-Web-Administrations-Oberfläche;Beratung;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-RTC;2255990;2;Potenzielle Offenlegung von Informationen zu Real-Time-Collaboration-Chat (RTC-Chat);Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-RTM;2253850;1;XML-EXternal-Entity-Schwachstelle in RTMF;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-BI-BIP-BIW;2204581;4;Unbefugtes Ändern von angezeigten Inhalten im BI-Arbeitsbereich - benutzerdefinierter JS;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-XX-SER-SAPSMP-SDM;2282338;3;SAP Download Manager: schwache Kennwortverschlüsselung;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-BC-SEC-LGN;2269315;2;Fehlende Berechtigungsprüfung in OAuth2-Serverlaufzeit;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-NAV;2238765;2;Unbefugtes Ändern von angezeigten Inhalten in CacheAPITester und findMerge;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-NAV;2238375;2;Unbefugtes Ändern von angezeigten Inhalten in NavigationURLTester;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-BC-INS-CTC;2235994;4;Parsing nicht vertrauenswürdiger XML-Inhalte im Konfigurationsassistenten möglich;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-PB-PRT;2219896;6;Unbefugtes Ändern von abgelegten Inhalten im Portal Page Builder;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-EP-PIN-NAV-AFP;2210310;3;Unbefugte Verwendung von Anwendungsfunktionen in NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;08.03.2016
-IS-A-DP;2071329;3;Aktualisierung 1 zu Sicherheitshinweis 1676754;Programmfehler;Korrektur mit hoher Priorität;04.03.2016
-FIN-FSCM-TRM-TM;2167807;2;Missing authorization check in Transaction Management;Programmfehler;Korrektur mit mittlerer Priorität;03.03.2016
-IS-A-DP-VMS;1676754;3;Unbefugtes Ändern von BSP in WebDocuments;Programmfehler;Korrektur mit hoher Priorität;03.03.2016
-SCM-IBP-ANA;2279383;3;Unauthorized modification of stored content in SCM IBP;Programmfehler;Korrektur mit mittlerer Priorität;02.03.2016
-BW-BEX-ET-WB-7X;2196420;3;Potential information disclosure relating to BW-BEX-ET-WB-7X;Programmfehler;Korrektur mit niedriger Priorität;28.02.2016
-BW-WHM-DBA;2064501;3;Fehlende Berechtigungsprüfung in BW-WHM-DBA;Programmfehler;Korrektur mit mittlerer Priorität;28.02.2016
-BW-SYS-DB;2069994;1;Potenzielle Offenlegung von Informationen in Bezug auf Benutzer-E-Mails;Programmfehler;Korrektur mit mittlerer Priorität;28.02.2016
-CA-VE-VEV;2281195;7;"Mögliches Remote-Beenden von laufenden Prozessen in SAP 3D Visual Enterprise Author, Generator und Viewer";Programmfehler;HotNews;26.02.2016
-MDM-GDS;1905286;2;Hard-coded credentials in MDM-GDS;Modifikation;Korrektur mit mittlerer Priorität;25.02.2016
-BW-EI-APD;2162829;3;Code-Injection-Schwachstelle in BW-EI-APD;Programmfehler;Korrektur mit hoher Priorität;25.02.2016
-BC-JAS-COR;1771200;1;Potential information disclosure relating to AS Java;Programmfehler;Korrektur mit mittlerer Priorität;20.02.2016
-MFG-MII;2230978;7;Directory-Traversal in MFG-MII;Programmfehler;Korrektur mit hoher Priorität;18.02.2016
-SV-SMG-SDD;2037304;7;Ordnungsgemäße Eingabeprüfung fehlt im SDCC-Download-Funktionsbaustein;Programmfehler;Korrektur mit hoher Priorität;16.02.2016
-BC-JAS-SEC-LGN;1658568;1;Fehlende Zugriffsbeschränkungen;Programmfehler;Korrektur mit mittlerer Priorität;14.02.2016
-XAP-EM;2085214;4;Mgl. Verarb. nicht vertrwürdig. XML-Eingabedaten in SAP Environmental Compliance 3.0;Programmfehler;Korrektur mit mittlerer Priorität;12.02.2016
-BC-SEC;2266565;8;SAPSSOEXT-Prozess stürzt bei Ticketverifikation ab.;Programmfehler;Korrektur mit mittlerer Priorität;09.02.2016
-BC-TRX;2234226;3;TREX/BWA: Potenzielle Offenlegung technischer Informationen/Beeinträchtigung des Hostbetriebssystems;Info zur Installation;Korrektur mit hoher Priorität;09.02.2016
-BC-ABA;2258608;1;Fehlende Authentifizierung in der Transaktion DBCO;Programmfehler;Korrektur mit mittlerer Priorität;09.02.2016
-BI-LUM-DIS;2268810;1;Security vulnerability in Apache Commons Collections library used by multiple SAP Lumira products;Externer Fehler;Korrektur mit hoher Priorität;09.02.2016
-BC-TRX;2273881;4;Aktualisierung 1 zu Sicherheitshinweis 2234226;Info zur Installation;Korrektur mit hoher Priorität;09.02.2016
-BC-JAS-WEB;2235088;3;Directory-Traversal in JSF;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-BC-XI-CON-JPR;2220571;2;Unbefugtes Ändern von angezeigten Inhalten in Java Proxy Runtime;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-EP-BC-UWL;2256846;2;Potenzielle Offenlegung von Informationen zu Benutzernamen;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-BC-CTS-SDIC;2249364;2;Unbefugtes Ändern von angezeigten Inhalten in SDIC;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-BC-XI-IBD;2246851;5;PI SEC: Sicherheitsschwachstellen in Apache Commons Collections Library (verwendet in Enterprise Services Repository) gefunden;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-HAN-AS-XS;2272211;2;Aktualisierung der SAPUI5-Version in SAP HANA aufgrund von Sicherheitshinweis 2204160;Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-XX-PART-WILY;2262104;1;"Sicherheitsschwachstellen in Bibliothek Apache Commons Collections festgestellt, die in CA Introscope verwendet wird";Programmfehler;Korrektur mit hoher Priorität;09.02.2016
-IS-A-VMS;2177403;1;Missing authorization check in IS-A-VMS;Programmfehler;Korrektur mit mittlerer Priorität;03.02.2016
-LO-VC-LOI;2214442;1;Missing authorization check in SCM-APO-INT-MD-PDS;Programmfehler;Korrektur mit mittlerer Priorität;21.01.2016
-FIN-SEM-CPM-BSC;1865646;2;Unbefugtes Ändern von angezeigten Inhalten in FIN-SEM-CP;Programmfehler;Korrektur mit mittlerer Priorität;21.01.2016
-FIN-SEM-BPS-PLA;1590834;2;Aktualisierung #1 zu Sicherheitshinweis 1495333;Programmfehler;Korrektur mit hoher Priorität;21.01.2016
-CRM-ISA;2244346;1;Untrusted XML input parsing possible in CRM-ISA;Programmfehler;Korrektur mit mittlerer Priorität;19.01.2016
-SRM-CAT-MDM;2017651;4;Potenzielle Offenlegung von Informationen zu SRM-EBP-CAT;Programmfehler;Korrektur mit hoher Priorität;15.01.2016
-LE-TRM;2180125;1;Missing authorization check in LE-TRM;Programmfehler;Korrektur mit niedriger Priorität;13.01.2016
-IS-U-EIM;2257327;3;Missing authorization check in IS-U-EIM;Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-HAN-DB;2233136;2;Potenzieller Abbruch laufender Prozesse (ausgelöst durch IMPORT-Anweisung);Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-BC-ABA;2248735;3;Code-Injection-Schwachstelle in System Administration Assistant;Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-HAN-DB;2252941;3;"Potenzielle Offenlegung von Informationen in Bezug auf Dateien, die mit der EXPORT-Anweisung aus SAP HANA exportiert wurden";Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-EP-PIN-NAV-AFP;2193424;2;Potenzielle Offenlegung von Informationen zu NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-HAN-AS-RUL;2221986;5;SAP HANA hdbrole hat zu viele Berechtigungen;Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-HAN-DB;2233550;12;Die Kommunikationsverschlüsselung für HANA-Multi-Tenant-Datenbank-Container funktioniert nicht wie erwartet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-HAN-AS-XS;2241978;2;"Log-Injection und fehlende Größeneinschränkung in ""Erweiterte Anwendungsservices von SAP HANA, klassisches Modell""";Programmfehler;Korrektur mit mittlerer Priorität;12.01.2016
-EP-PIN-TOL;2227310;2;Unbefugtes Ändern von angezeigten Inhalten in com.sap.portal.themes.integrity;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-MOB-UIA-LIB-AUT;2239015;2;Unbefugtes Ändern von angezeigten Inhalten in SAP-Fiori-Login-Klasse;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-WD-JAV;2243373;1;Möglicher Denial-of-Service in BC-WD-JAV;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-EP-PIN-PRT;2249347;1;Sicherheitsschwachstellen in in ep.runtime.common verwendeter Apache-Commons-Collections-Bibliothek ermittelt;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-XI-IBD;2167813;4;Mögliche Offenlegung von Informationen bei Enterprise Services Repository;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-JAS-SEC-UME;2191290;3;Mögliche Offenlegung von Informationen bezüglich AS Java;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-NWA-XPI;2206793;2;Unbefugtes Ändern von angezeigten Inhalten in RWB;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-SRV-PMI;2234918;2;Unbefugtes Ändern von angezeigten Inhalten in PMI;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-XI-IGW;2247644;9;PI SEC: Sicherheitsschwachstellen in Apache Groovy Library in PI Cloud Integration Content;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-DB-ORA-INS;2246277;2;SAP ORACLE: unsicheres Authentifizierungsschema;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-DB-DB6-CCM;2251619;2;Fehlende Berechtigungsprüfung in Audit-Funktionen von DBA Cockpit;Programmfehler;Korrektur mit hoher Priorität;12.01.2016
-BC-EIM-ESH;2185409;4;Potential information disclosure relating to passwords;Programmfehler;Korrektur mit mittlerer Priorität;11.01.2016
-BC-ABA-SC;1973081;2;XSRF-Schwachstelle: externes Starten von Transaktionen mit OKCode;Beratung;Korrektur mit mittlerer Priorität;05.01.2016
+﻿SAP-Komponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn;relevant;Anmerkungen
+BC-DOC-TER;2357141;10;Schwachstelle in Bezug auf die Einschleusung von Betriebssystembefehlen im Report für den Terminologieexport;Programmfehler;HotNews;17.05.18;;
+BI-RA-CR;1999142;2;Mögliche Remote-Ausführung von Code in BI-RA-CR;Programmfehler;Korrektur mit mittlerer Priorität;14.05.18;;
+BI-BIP-INV;2537150;7;[CVE-2018-2408] Falsche Sitzungsverwaltung in SAP Business Objects - CMC/BI Launchpad/Fiorified BI Launchpad;Programmfehler;Korrektur mit hoher Priorität;11.05.18;;
+BC-FES-BUS-DSK;2622660;17;Sicherheitsupdates für Webbrowser-Controls von Drittanbietern in SAP Business Client;Programmfehler;HotNews;10.05.18;;
+BC-JAS-WEB;2550202;8;[CVE-2018-2415] Schwachstelle im Zusammenhang mit Content-Spoofing in Web-Container und HTTP-Service von SAP NetWeaver Java AS;Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-FES-IGS;2620744;5;[CVE-2018-2423] Denial-of-Service im RFC-Listener von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-DB-SDB-DBA;2610231;8;[CVE-2018-2418] Code-Injection-Schwachstelle in SAP-MaxDB-ODBC-Treiber;Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-FES-IGS;2617553;4;[CVE-2018-2422] Denial-of-Service im Portwatcher von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-FES-IGS;2616599;3;[CVE-2018-2421] Denial-of-Service im Portwatcher von SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-FES-IGS;2615635;5;[CVE-2018-2420] Unbeschränkter Datei-Upload in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-IAM-IDM;2597875;4;[CVE-2018-2416] Schwachstelle im Zusammenhang mit fehlender XML-Prüfung in SAP Identity Management;Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+BC-IAM-IDM;2601492;7;[CVE-2018-2417] Offenlegung von Informationen in Laufzeitkomponente von SAP Identity Management;Programmfehler;Korrektur mit mittlerer Priorität;08.05.18;;
+IS-B-BCA-MD;2596627;7;[CVE-2018-2419] Fehlende Berechtigungsprüfung in SAP-Enterprise-Finanzdienstleistungen;Programmfehler;Korrektur mit niedriger Priorität;08.05.18;;
+CA-WUI-UI-TAG;2588567;1;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;07.05.18;;
+EHS-MGM-FND;2187594;1;Code injection vulnerability in EHS-MGM-FND;Programmfehler;Korrektur mit mittlerer Priorität;26.04.18;;
+BC-WD-ABA;2081029;2;Potentially false redirection of Web site content in Web Dynpro ABAP application;Programmfehler;Korrektur mit mittlerer Priorität;17.04.18;;
+BC-CST-GW;2190621;4;SAP NetWeaver SAL: fehlerhafte Protokollierung von Adressen;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
+XX-CSC-BR-NFE;2497027;2;Missing Authorization check in XX-CSC-BR-NFE;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
+XX-CSC-BR-NFEIN;2497000;1;Missing Authorization check in XX-CSC-BR-NFEIN;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
+EP-VC-04S;2376081;6;Code-Injection-Schwachstelle in iViews des Visual Composer 04s;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
+SV-SMG-SUP;2372688;5;"[CVE-2018-2405] Cross-Site Scripting im SAP Solution Manager Work Center ""Incident Management""";Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+BI-RA-CR;2560132;6;[CVE-2018-2406] Nicht kommentierte Microsoft-Windows-Suchpfadschwachstelle in SAP Crystal Reports Server, OEM Edition;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+EP-VC-04S;2552318;4;Aktualisierung 1 zu Sicherheitshinweis 2376081;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
+FI-CF-INF;2608312;1;Schaltbare Berechtigungsprüfungen in Central Finance;Programmfehler;Korrektur mit niedriger Priorität;10.04.18;;
+SBO-CRO-SEC;2582870;4;[CVE-2018-2410] Cross-Site-Scripting-Schwachstelle (XSS) im Browserzugriff von SAP Business One;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+BC-MID-SCC;2614141;7;[CVE-2018-2409] Falsche Session-Management bei Verwendung von SAP CP Connectivity Service und SAP Cloud Connector;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+BC-SYB-ASE;2598687;9;Schwachstelle in SAP Control Center und SAP Cockpit Framework aufgrund fehlender XML-Validierung;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+EPM-DSM-GEN;2595800;14;[CVE-2018-2403] Multiple Security Vulnerabilities in SAP Disclosure Management;Beratung;Korrektur mit mittlerer Priorität;10.04.18;;
+SBO-CRO-SEC;2587985;8;Denial-of-Service-Schwachstelle (DoS) in SAP Business One;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
+FS-CMS-MD;2473452;2;Missing Authorization check in FS-CMS;Programmfehler;Korrektur mit mittlerer Priorität;07.04.18;;
+FI-CF-INF;2495144;4;Switchable Authorization checks for RFC in Central Finance;Programmfehler;Korrektur mit mittlerer Priorität;28.03.18;;
+EP-PIN-AI;2169722;5;Whitelist based Clickjacking Framing Protection in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;22.03.18;;
+BC-SYB-PB;2201710;20;"Behebung von Logjam- und ""Alternative Chains Certificate Forgery""-Schwachstellen in mehreren SAP-Sybase-Produkten";Programmfehler;Korrektur mit mittlerer Priorität;19.03.18;;
+XX-CSC-RU-FI;1906841;1;Potential disclosure of persisted data in XX-CSC-RU;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+XX-CSC-RU;2331141;3;SQL-Injection-Schwachstelle in FI-LOC-FI-RU;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+SV-SMG-DVM;2051336;4;Mögliche Offenlegung von persistierten Daten in SV-SMG-DVM;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+XX-PART-REDWOOD-BPA;2555667;6;[CVE-2018-2366] Directory-Traversal-Schwachstelle in SAP Business Process Automation by Redwood;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+BI-BIP-CMC;2550538;4;[CVE-2018-2397] Cross-Site-Scripting-Schwachstelle (XSS) in SAP BI Central Management Console;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+BC-FES-BUS-DSK;2580967;4;[CVE-2018-2398] Offenlegung von Informationen in SAP Business Client;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+OPU-GW-JAV;2604541;2;Denial-of-Service-Angriff (DoS) in GWJPO;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+BC-INS-TLS;2597543;2;Directory-Traversal-Schwachstelle in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+XX-PART-REDWOOD-CPS;2596766;4;[CVE-2018-2401] XML-External-Entity-Schwachstelle in SAP BPA BY REDWOOD;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+XX-PART-REDWOOD-BPA;2596535;3;[CVE-2018-2400] Offenlegung von Informationen in SAP BPA BY REDWOOD;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+CA-WUI-UI;2595262;1;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+BC-SRV-PMI;2592807;5;[CVE-2018-2399] Cross-Site-Scripting-Schwachstelle (XSS) in Process Monitoring Infrastructure;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+BC-FES-IGS;2538829;11;Open Source Software: Sicherheitslücken in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+FS-RI;2509307;1;Fest programmierte Anmeldeinformationen in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+FS-RI;2509215;1;SQL-Injection-Schwachstelle in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
+HAN-CPT-CPT2-CNR;2587369;10;[CVE-2018-2402] Potenzielle Offenlegung von Informationen in der Trace-Datei zu SAP HANA Capture and Replay;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
+BC-WD-ABA;2142551;11;Whitelist-Service für Clickjacking-Framing-Schutz in AS ABAP;Programmfehler;Korrektur mit mittlerer Priorität;07.03.18;;
+SV-SMG-CM;2591244;3;ChaRM users are able to access changes they are not involved in;FAQ;Korrektur mit niedriger Priorität;06.03.18;;
+FS-BA;2609847;4;DPP Blocking and Masking;Programmfehler;Korrektur mit niedriger Priorität;28.02.18;;
+CRM-ANA-PS;1696317;2;Unberechtigte Modifikation angezeigter Inhalte in CRM-ANA-PS;Programmfehler;Korrektur mit mittlerer Priorität;27.02.18;;
+LO-MD-BP-CM;2536422;3;Information Disclosure in Customer factsheet;Programmfehler;Korrektur mit mittlerer Priorität;27.02.18;;
+HAN-DB-SEC;2572940;6;[CVE-2018-2369] Offenlegung von Informationen in Berechtigungsfunktion von SAP HANA;Programmfehler;Korrektur mit mittlerer Priorität;27.02.18;;
+FI-CAX-FS;2531131;2;Switchable Authorization checks for RFC BCA_DIM_WRITE_OFF in Loans (FI-CAX-FS);Programmfehler;Korrektur mit mittlerer Priorität;27.02.18;;
+PA-ER;2458919;1;Missing Authorization check in HCM E-recruiting;Programmfehler;Korrektur mit mittlerer Priorität;27.02.18;;
+IS-OIL-PRA-REP;2174147;2;Directory Traversal vulnerability in IS-OIL-PRA-REP-TAX and IS-OIL-PRA-REP-ROY;Programmfehler;Korrektur mit mittlerer Priorität;15.02.18;;
+BW-SYS-DB-DB4;1974016;2;Fehlende Berechtigungsprüfung in Funktionsbausteinen von BW-SYS-DB-DB4;Programmfehler;Korrektur mit mittlerer Priorität;15.02.18;;
+BC-XS-RT;2589129;18;[CVE-2018-2374] Sicherheitsschwachstellen in Erweiterte Anwendungsservices von SAP HANA;Programmfehler;Korrektur mit hoher Priorität;13.02.18;;
+BC-DWB-AIE-SRC;2592069;1;Fehlende Berechtigungsprüfung in ABAP in Eclipse;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+BC-CCM-SLD;2565622;4;[CVE-2018-2368] Fehlende Berechtigungsprüfung in SAP NetWeaver System Landscape Directory;Programmfehler;Korrektur mit hoher Priorität;13.02.18;;
+BC-ABA-LA;2562089;8;[CVE-2018-2367] Directory-Traversal-Schwachstelle in ABAP File Interface;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+BC-JAS-SEC-SML;2560741;5;[CVE-2018-2371] Cross-Site Scripting (XSS) Vulnerability in SAML 2.0 Service Provider of AS Java;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+BC-WD-JAV;2547977;5;[CVE-2018-2365] Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+CRM-ISA;2547431;8;[CVE-2018-2380] Directory Traversal vulnerability in Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+FI-GL-IS;2545842;5;[CVE-2018-2381] Fehlende Berechtigungsprüfung im SAP-ERP-Finanzinformationssystem;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+CA-WUI-UI;2541700;5;[CVE-2018-2364] Cross-Site-Scripting-Schwachstelle (XSS) in SAP CRM WebClient UI;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+BC-FES-IGS;2525222;17;[CVE-2018-2395] Sicherheitslücken in SAP Internet Graphics Server (IGS);Programmfehler;Korrektur mit hoher Priorität;13.02.18;;
+BI-BIP-INV;2493727;9;[CVE-2018-2370] Server-Side-Request-Forgery-Schwachstelle (SSRF) in Central Management Console, BI Launchpad und SAP Fiori BI Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.02.18;;
+BC-UPG;1514066;9;Überschreiben von Dateien bei Upgrade oder EHPI;Programmfehler;Korrektur mit mittlerer Priorität;06.02.18;;
+BC-UPG;1584573;2;Securty Verdict in SUGM SAUS SUGM_UPG_TYPE_PLUS_DEL_XML;Programmfehler;Korrektur mit hoher Priorität;06.02.18;;
+BC-UPG-TLS-TLA;1977547;2;Aktualisierung 1 zu Sicherheitshinweis 1584573;Programmfehler;Korrektur mit hoher Priorität;06.02.18;;
+CA-RT-CAR-OAA;2570335;1;OAA CDS Hardening;Programmfehler;Korrektur mit niedriger Priorität;05.02.18;;
+QM;2516864;1;Fehlende Berechtigungsprüfung in QM;Programmfehler;Korrektur mit mittlerer Priorität;02.02.18;;
+BC-SYB-SQA;2494184;3;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit mittlerer Priorität;02.02.18;;
+SV-SMG-OST;2591323;1;Security Issue when Exporting to CSV in the Solution readiness Dashboard;Programmfehler;Korrektur mit mittlerer Priorität;01.02.18;;
+FIN-FSCM-TRM-TM-TR;2512244;3;Missing authorization check in Transaction Management;Programmfehler;Korrektur mit mittlerer Priorität;30.01.18;;
+GRC-RM;2580634;2;Unrestricted File Upload vulnerability in GRC-PC / GRC-RM;Programmfehler;Korrektur mit mittlerer Priorität;22.01.18;;
+BC-ABA-SC;2579693;2;Fehlende Berechtigungsprüfung in Dynpro-Verarbeitung;Programmfehler;Korrektur mit mittlerer Priorität;18.01.18;;
+LO-MD-BP-CM;2427949;4;Falsche Berechtigungsprüfungen im SAP-ERP-Logistik-Kunden- und Lieferantenstamm;Programmfehler;Korrektur mit mittlerer Priorität;17.01.18;;
+BI-RA-AD;2453871;2;Cross-Site Scripting (XSS) vulnerability in SAP BusinessObjects Design Studio;Programmfehler;Korrektur mit niedriger Priorität;17.01.18;;
+BC-UPG-NA;2408073;6;Behandlung von digital signierten SAP-Hinweise in SAP Note Assistant;Programmfehler;Korrektur mit mittlerer Priorität;16.01.18;;
+IS-HER-CM;2471736;1;Switchable Authorization checks for RFC in Accounts in SLcM;Programmfehler;Korrektur mit mittlerer Priorität;10.01.18;;
+BC-MID-RST;2533541;2;SQL Injection vulnerability in Olingo JPA;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+BC-SRV-KPR-DMS;1906212;5;Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+BC-SRV-KPR-DMS;2278931;7;1. Aktualisierung zu SAP-Hinweis 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+BC-SRV-KPR-DMS;2525392;8;[CVE-2018-2363] Aktualisierung 2 zu 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+BC-CST-STS;2523961;7;[CVE-2018-2360] Fehlende Berechtigungsprüfung im Startup-Service;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+HAN-DB;2575750;12;[CVE-2018-2362] Offenlegung von Informationen im Startup-Service in SAP HANA;Beratung;Korrektur mit mittlerer Priorität;09.01.18;;
+SV-SMG-MON-BPM;2507934;8;[CVE-2018-2361] Fehlerhafte Rollenberechtigungen in SAP Solution Manager 7.2;Customizing;Korrektur mit mittlerer Priorität;09.01.18;;
+PP-MRP;2455452;2;Missing Authorization check in production planning;Programmfehler;Korrektur mit mittlerer Priorität;08.01.18;;
+MOB-APP-ERP-DSD;2580258;1;Missing Authorization check in SAP Direct Store Delivery;Programmfehler;Korrektur mit mittlerer Priorität;20.12.17;;
+MFG-PCO;2529480;7;[CVE-2017-16690] DLL-Preload-Attack auf NwSapSetup und selbstextrahierendes Installationsprogramm für SAP Plant Connectivity möglich;Programmfehler;Korrektur mit mittlerer Priorität;18.12.17;;
+CEC-MKT-BF;2462261;1;Missing Authorization check in Hybris Marketing;Programmfehler;Korrektur mit mittlerer Priorität;15.12.17;;
+BC-WD-JAV;2286679;3;Whitelist-Service-API für Clickjacking-Framing-Schutz in JAVA auf Framework- oder Anwendungsebene erforderlich;Sonderentwicklungen;Korrektur mit mittlerer Priorität;14.12.17;;
+BW-BEX-UDI;2537545;7;[CVE-2017-16685] Schwachstelle im Cross-Site-Scripting (XSS) in SAP BW Universal Data Integration;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BC-UPG-NA;2546220;6;[CVE-2017-16691] SNOTE: Prüfung der digitalen Signatur bei der Hinweisdateiextraktion;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BI-BIP-SRV;2531656;6;[CVE-2017-16683] Denial-of-Service (DoS) in SAP-BusinessObjects-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BC-CST-DP;2552295;1;Denial-of-Service (DoS) in ABAP System Dispatcher;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+HAN-AS-XS;2549983;6;[CVE-2017-16687] Offenlegung von Informationen in SAP HANA XS classic, Benutzer-Self-Service;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BI-BIP-LCM;2537152;7;[CVE-2017-16684] Fehlende Authentifizierungsprüfung in SAP-BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit hoher Priorität;12.12.17;;
+BC-FES-ITS;2526781;5;[CVE-2017-16682] Code-Injection-Schwachstelle in SAP NetWeaver/ITS;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BI-BIP-LCM;2523913;4;[CVE-2017-16681] Cross-Site-Scripting-Schwachstelle (XSS) in BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BC-XS-RT;2522510;9;[CVE-2017-16680] Potenzielle Audit-Log-Injection-Schwachstelle in SAP HANA XS Advanced;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BC-MID-RFC;2449757;7;[CVE-2017-16689] Zusätzliche Berechtigungsprüfung in Trusted RFC im selben System;Programmfehler;Korrektur mit hoher Priorität;12.12.17;;
+BC-CST-STS;2520995;8;[CVE-2017-16679] URL-Umleitungsschwachstelle in Startup-Service;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+EP-KM-FWK-CF;2457562;11;[CVE-2017-16678] Server Side Request Forgery (SSRF) vulnerability in SAP NetWeaver Knowledge Management Configuration Service;Programmfehler;Korrektur mit mittlerer Priorität;12.12.17;;
+BC-XI-IBC;2174651;1;Mögliche Offenlegung von Informationen bezüglich PI Integration Directory;Programmfehler;Korrektur mit mittlerer Priorität;07.12.17;;
+BI-BIP-INV;2026174;5;SBOP-Lösung für Apache Struts1.x: Schwachstelle CVE-2014-0094;Programmfehler;Korrektur mit hoher Priorität;24.11.17;;
+BC-VCM-LVM;2531241;6;Offenlegung von Informationen in LVM 2.1 und LaMa 3.0;Programmfehler;HotNews;14.11.17;;
+BC-VCM-LVM;2520772;7;Offenlegung von Informationen in LaMa 3.0;Programmfehler;HotNews;14.11.17;;
+BC-XS-RT;2508673;6;Offenlegung von Informationen in Erweiterte Anwendungsservices von SAP HANA (XS Advanced);Fehler in der Dokumentation;Korrektur mit mittlerer Priorität;14.11.17;;
+PE-LSO-CP;2492999;8;Mehrere Sicherheitsschwachstellen in SAP ERP Learning Solution Content Player;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+CA-WUI-UI-TAG;2541610;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+BC-FES-INS;2535629;7;DLL-Preload-Attack möglich für NwSapSetup und selbstextrahierendes Installationsprogramm;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+CA-UI5-COR;2374767;5;Schwachstelle in Cross-Site-Scripting (XSS) in SAPUI5;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+MOB-APP-BI-SRV;2514475;7;Directory-Traversal-Schwachstelle in SAP BI Mobile Server;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+EP-KM-TLS-XFB;2464582;4;Cross-Site-Scripting-Schwachstelle (XSS) in XML-Formularen des SAP NetWeaver Knowledge Management;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+BC-ABA;2508767;4;Eskalation von Berechtigungen nach der Installation von SAP-Systemen auf SAP HANA;Beratung;Korrektur mit mittlerer Priorität;14.11.17;;
+BC-JAS-SF;2500044;4;Vollzugriff auf SAP Management Console;Programmfehler;Korrektur mit hoher Priorität;14.11.17;;
+BC-CCM-MON;2493171;8;Offenlegung von Informationen bei SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+BC-JAS-SEC;2485208;4;Log-Injection-Schwachstelle in SAP NetWeaver AS Java;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+BI-RA-AWB;2473504;7;Schwachstelle des Cross-Site-Scripting (XSS) in SAP-BusinessObjects-Analyse-Edition für OLAP;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+BW-WHM-DBA-MD;2545530;1;InfoObject  Stammdatenpflege / Hierarchiepflege: CSV-Export kann in MS Excel zum Ausführen von Befehlen führen;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+XX-CSC-BR-REP;2469849;1;Missing Authorization check in XX-CSC-BR-REP;Programmfehler;Korrektur mit mittlerer Priorität;14.11.17;;
+SCM-APO-INT;1560538;7;Fehlende Berechtigungsprüfung in SCM-APO-INT;Programmfehler;Korrektur mit mittlerer Priorität;13.11.17;;
+CRM-MW-MFW;2270084;2;Switchable authorization checks for RFC in CRM-MW-MFW;Programmfehler;Korrektur mit mittlerer Priorität;13.11.17;;
+CRM-MW-BDM;2264976;4;CRM_Switchable authorization checks for RFC in CRM-MW-BDM;Programmfehler;Korrektur mit mittlerer Priorität;13.11.17;;
+CA-DDF-RT-IF;2542426;1;Missing Authorization check in Image Imports;Programmfehler;Korrektur mit hoher Priorität;03.11.17;;
+CA-MDG-ML;2328182;2;Directory Traversal vulnerability in MDG Data Export;Programmfehler;Korrektur mit mittlerer Priorität;03.11.17;;
+BC-DWB-JAV-CAF;2400292;7;Schwachstelle: Fehlende XML-Validierung in TranslationSupport-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;02.11.17;;
+BC-DWB-JAV-CAF;2372301;6;Fehlende XML-Validierung in Composite Application Framework Authorization Tool;Programmfehler;Korrektur mit mittlerer Priorität;02.11.17;;
+EP-BC-UWL;2492658;7;Schwachstelle mit Blick auf fehlende XML-Validierung im SAP NetWeaver Java WorkFlow (JWF);Programmfehler;Korrektur mit mittlerer Priorität;23.10.17;;
+PM-WOC-MO;2503107;2;Missing authorization checks in PM-WOC-MO;Programmfehler;Korrektur mit mittlerer Priorität;20.10.17;;
+BC-FES-BUS-HTM;2319174;3;Whitelist-basierter Clickjacking-Framing-Schutz in NWBC for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.10.17;;
+BC-WD-ABA;2353643;3;Offenlegung von Informationen in der Web-Dynpro-Listen-UIBB: Suchtreffer in unsichtbaren Zellen sind markiert;Programmfehler;Korrektur mit niedriger Priorität;14.10.17;;
+BC-DOC-RIT;2371726;6;Code-Injection-Schwachstelle bei der Textumwandlung;Programmfehler;HotNews;13.10.17;;
+FS-CML;2491578;2;Fehlende Berechtigungsprüfung in der Darlehensverwaltung;Programmfehler;Korrektur mit mittlerer Priorität;13.10.17;;
+BC-FES-ITS;2471209;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAPGUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;12.10.17;;
+BC-JAS-WEB;2486657;6;Directory-Traversal Schwachstelle in SAP NetWeaver AS Java Web Container;Programmfehler;Korrektur mit hoher Priorität;10.10.17;;
+BI-BIP-AUT;2458021;7;Schwachstelle mit Blick auf Offenlegung von Informationen in LDAP-Authentifizierung für SAP BusinessObjects Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-CCM-SLD-JAV;2527770;6;Offenlegung von Informationen in SAP NetWeaver System Landscape Directory;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-MOB-LAP;2532802;5;Offenlegung von Informationen in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.17;;
+XX-PART-ADB-IFM;2236258;8;Schwachstelle mit Blick auf fehlende XML-Validierung in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+IS-PS-CA;2517501;6;Schaltbare Berechtigungsprüfungen für Kontierungen im SAP ERP Haushaltsmanagement;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+MOB-SDK-MAF;2511453;8;Mögliches Entweichen von vertraulichen Daten im SDK 3.0 für SAP Mobile Platform;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-WD-ABA-RUN;2480857;4;Denial-of-Service in SAP NetWeaver Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+CRM-MKT-ML;2519135;3;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP-CRM-Mailformulareditor;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-MOB-LAP;2528284;5;Offenlegung von Informationen in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.17;;
+CRM-IC-CHA-EMA;2519622;2;Email Spoofing vulnerability in SAP CRM IC WebClient;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-MOB-LAP;2510269;9;Offenlegung von Informationen: Schwachstelle in SAP NetWeaver Mobile Client;Programmfehler;Korrektur mit niedriger Priorität;10.10.17;;
+BC-CST-STS;2509284;4;Speicherschaden-Schwachstelle in SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-CST-STS;2504129;4;Offenlegung von Informationen bei SAP NetWeaver Instance Agent Service;Programmfehler;Korrektur mit mittlerer Priorität;10.10.17;;
+BC-CST-EQ;2476937;7;Mögliche Denial-of-Service-Schwachstelle in SAP Standalone Enqueue-Server;Programmfehler;Korrektur mit hoher Priorität;10.10.17;;
+CRM-MW-SRV;2264948;3;Switchable authorization checks for RFC in CRM-MW-SRV;Programmfehler;Korrektur mit mittlerer Priorität;06.10.17;;
+CRM-MW-GEN;2264949;3;Switchable authorization checks for RFC in CRM-MW-GEN;Programmfehler;Korrektur mit mittlerer Priorität;06.10.17;;
+IS-R-TGM-POS;2528596;11;Fest programmierte Anmeldeinformationen in SAP Point-of-Sale/Store Manager;Programmfehler;Korrektur mit niedriger Priorität;05.10.17;;
+PA-PA-US;2457014;1;Missing Authorization check in PA-PA-US;Programmfehler;Korrektur mit mittlerer Priorität;05.10.17;;
+BC-JAS-WEB;2314976;2;Content spoofing in AS Java Web container;Programmfehler;Korrektur mit mittlerer Priorität;03.10.17;;
+PY-US-TP;2479448;1;Missing Authorization check in PY-US-TP;Programmfehler;Korrektur mit mittlerer Priorität;01.10.17;;
+PY-US;2457929;1;Missing Authorization check in PY-US;Programmfehler;Korrektur mit mittlerer Priorität;01.10.17;;
+PA-ER;2507798;6;Umgehung der E-Mail-Verifizierung in SAP E-Recruiting;Programmfehler;Korrektur mit mittlerer Priorität;28.09.17;;
+BW-BEX-OT-WSP;2389764;5;BW Workspaces: Analyseberechtigung beim Modellieren und Ausführen lokaler Hierarchien;Programmfehler;Korrektur mit mittlerer Priorität;25.09.17;;
+BW-SYS-DB;2044018;3;Fehlende Berechtigungsprüfung in BW-SYS-DB;Programmfehler;Korrektur mit mittlerer Priorität;15.09.17;;
+BC-CCM-MON-ORA;2051717;2;SQL-Injection-Schwachstelle in SAP Netweaver;Programmfehler;Korrektur mit mittlerer Priorität;15.09.17;;
+BC-NWA-XPI;2483143;4;Offenlegung von Informationen in SAP NetWeaver Adapter Engine Cache-Monitor;Programmfehler;Korrektur mit niedriger Priorität;12.09.17;;
+SLC-REG;2365450;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver (SLC-Registrierungsseite auf Lieferantenseite);Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+MOB-APP-BI-IOS;2484707;9;Mehrere Schwachstellen in SAP-BI-Mobile-App;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+XX-PROJ-CDP-354;2367269;4;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in elektronischer Ledgerverwaltung für die Türkei 1.0;Programmfehler;Korrektur mit hoher Priorität;12.09.17;;
+BC-WD-JAV;2491480;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+BC-TRX;2489196;4;Offenlegung von Informationen in TREX/BWA;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+BC-WD-ABA;2488516;5;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+BC-WD-UR;2469860;5;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro Java;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+BI-BIP-BIW;2464489;4;Cross-Site-Scripting-Schwachstelle (XSS) in BIWorkspace;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+BC-CTS-DI;2444673;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Development Infrastructure Cockpit;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+XX-PART-ADB-IFM;2342974;4;Schwachstelle in Bezug auf beliebiges gültiges Zertifikat in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;12.09.17;;
+CRM-MW-ADM;2261768;2;Switchable authorization checks for RFC in CRM-MW-ADM;Programmfehler;Korrektur mit mittlerer Priorität;07.09.17;;
+SV-RDS-PAK;2520885;1;Logout function missing in SAP Best Practices Package Manager for Partner;Exit hinzugefügt;Korrektur mit mittlerer Priorität;06.09.17;;
+IS-R-TGM-POS;2476601;11;Fehlende Berechtigungsprüfungen auf Server für SAP Point-of-Sale Xpress (SAP-POS-Xpress-Server);Programmfehler;Korrektur mit hoher Priorität;06.09.17;;
+IS-R-TGM-POS;2520064;6;Fehlende Berechtigungsprüfung auf Server für SAP Point-of-Sale Xpress (SAP-POS-Xpress-Server);Programmfehler;Korrektur mit hoher Priorität;06.09.17;;
+IS-U-LIB-DE-CL;2432578;5;Fehlende Berechtigungsprüfung in RFC-Funktionsbaustein;Programmfehler;Korrektur mit mittlerer Priorität;04.09.17;;
+BC-SYB-ASE;2296722;6;Offenlegung von Informationen: Schwachstelle in SAP ASE Installer;Programmfehler;Korrektur mit mittlerer Priorität;01.09.17;;
+BC-SYB-SQA;2374348;9;Offenlegung von Informationen in DBISQL mit Auswirkungen auf SAP SQL Anywhere, SAP ASE und SAP IQ;Programmfehler;Korrektur mit niedriger Priorität;01.09.17;;
+BC-JAS-SEC;2524134;2;1. Aktualisierung zu SAP-Hinweis 2423540: URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.17;;
+BC-JAS-SEC;2423540;5;URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.17;;
+BC-BMT-WFM-WEB;2132282;1;Möglicher Denial-of-Service in BC-BMT-WFM-WEB;Programmfehler;Korrektur mit mittlerer Priorität;24.08.17;;
+BC-FES-BUS-HTM;2189781;3;Unbefugtes Ändern von angezeigten Inhalten in NWBC für HTML;Programmfehler;Korrektur mit mittlerer Priorität;17.08.17;;
+GRC-SAC-ARA;2491763;2;SQL Injection vulnerability in GRC Access Controls;Programmfehler;Korrektur mit niedriger Priorität;16.08.17;;
+BC-JAS-SEC-LGN;2280932;3;Missing Authorization Check in Security Provider Service;Programmfehler;Korrektur mit mittlerer Priorität;10.08.17;;
+CRM-MKT-EAL;2271802;2;Switchable authorization checks for RFC in External List Management (CRM-MKT-EAL);Programmfehler;Korrektur mit mittlerer Priorität;10.08.17;;
+BW-SYS-DB;2453642;4;SQL-Injection-Schwachstelle in SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;09.08.17;;
+CA-WUI-UI;2450979;9;SQL-Injection-Schwachstelle in SAP-CRM-WebClient-Benutzungsoberfläche;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+BI-BIP-BIW;2381071;9;Cross-Site-AJAX-Request-Schwachstelle in SAP BusinessObjects;Programmfehler;Korrektur mit hoher Priorität;08.08.17;;
+SRM-LA;2493099;5;Mehrere Sicherheitsschwachstellen in SAP SRM Live Auction;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+XX-PART-ADB-IFM;2392719;3;Mögliche Denial-of-Service-Schwachstelle (DoS) in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+BC-JAS-SEC-CPG;2499109;5;Kollisionen bei der UUID-Generierung in SAP NetWeaver Java Server;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+CRM-BF-CFG;2481262;4;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP-CRM-IPC-Preisfindung;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+BC-DWB-TOO-CLA;2463354;6;Fehlende Berechtigungsprüfung in den ABAP Workbench Tools;Programmfehler;Korrektur mit niedriger Priorität;08.08.17;;
+BI-RA-WBI-FE-HTM;2428512;4;Server-Side-Request-Forgery-Schwachstelle (SSRF) in Web-Intelligence-BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+CA-WUI-UI;2425744;7;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-CRM-WebClient-UI;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+BC-FES-BUS-HTM;2417020;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Business Client for HTML;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+BC-WD-CLT-FLX;2393021;1;Adobe-SDK-XSS-Schwachstelle - Flex;Programmfehler;Korrektur mit mittlerer Priorität;08.08.17;;
+EP-PIN-WPC-WCM;2394536;4;URL-Redirection-Schwachstelle in SAP NetWeaver K.M. Web Page Composer;Programmfehler;Korrektur mit niedriger Priorität;08.08.17;;
+XX-CSC-BR;1786732;2;Directory traversal in J1BA;Programmfehler;Korrektur mit mittlerer Priorität;04.08.17;;
+BC-JAS-WEB;2290783;3;Whitelist-basierter Clickjacking-Framing-Schutz für Java Server Pages;Sonderentwicklungen;Korrektur mit mittlerer Priorität;11.07.17;;
+BC-CCM-HAG;2442993;5;Böswilliger SAP-Host-Agent-Shutdown ohne Authentifizierung;Programmfehler;Korrektur mit hoher Priorität;11.07.17;;
+CRM-ISA;2478964;6;Cross-Site-Scripting-Schwachstelle (XSS) in SAP CRM Internet Sales Administration Console;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+BC-SYB-SQA;2478377;8;Auftreten der Sweet32-Schwachstelle in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit niedriger Priorität;11.07.17;;
+GRC-SAC-ARQ;2453640;4;Code-Injection-Schwachstelle in SAP GRC Access Control für SAP Governance Risk and Compliance;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+MDM-FN-CON;2424742;6;Offenlegung von Informationen in SAP NetWeaver Master Data Management;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+BI-BIP-LCM;2409262;4;Cross-Site-Scripting-Schwachstelle (XSS) in BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+BI-DEV-WEB;2398144;5;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP BusinessObjects Titan;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+SCM-BAS-UIF;1920522;1;Unbefugtes Ändern von abgelegten Inhalten in SCM-BAS-UIF;Programmfehler;Korrektur mit niedriger Priorität;11.07.17;;
+FIN-SEM-BCS-IS-BW;2100926;1;Schaltbare Berechtigungsprüfungen für RFC in SEM-BCS;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+FS-MCM-FAC;2218598;2;Zusätzliche Berechtigungsprüfungen in Fazilitätskomponente;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+PSM-FM-CL;2184221;1;Schaltbare Berechtigungsprüfungen für Jahresabschlusstransaktionen;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+EP-KM-WD;2158791;1;Caching KM Content in the Portal;Modifikation;Korrektur mit mittlerer Priorität;11.07.17;;
+CRM-CHM;1568213;4;PCM - Implementieren von Erweiterung: Zugriff auf WebClient UI beschränken;Programmfehler;Korrektur mit mittlerer Priorität;11.07.17;;
+BC-MOB-DOE;2459319;4;Schwache Verschlüsselung in SAP NetWeaver Data Orchestration Engine;Programmfehler;Korrektur mit niedriger Priorität;11.07.17;;
+LO-MD-BP-CM;2088593;2;Potential disclosure of persisted data in LO-MD-BP-CM & LO-MD-BP-VM;Programmfehler;Korrektur mit mittlerer Priorität;10.07.17;;
+BC-JAS-WEB;2416119;8;Verbesserte Sicherheit für ausgehende HTTPS-Verbindungen in SAP NetWeaver;Customizing;Korrektur mit hoher Priorität;07.07.17;;
+CA-MDG-APP-FIN;2185122;3;Switchable authorization checks for RFC in data extraction within CA-MDG-APP-FIN;Programmfehler;Korrektur mit niedriger Priorität;06.07.17;;
+IS-U-CA;2253026;1;Fehlende Berechtigungsprüfung in IS-U-CA;Programmfehler;Korrektur mit mittlerer Priorität;23.06.17;;
+BC-SRV-ALV;1854252;6;Fehlende Berechtigungsprüfung in BC-SRV-ALV;Programmfehler;Korrektur mit hoher Priorität;22.06.17;;
+EPM-BFC-PSI-INS;2422292;3;Cross-Site Scripting (XSS) vulnerability in SAP Business Objects Financial Consolidation;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BI-BIP-INV;2313631;5;Denial-of-Service-Schwachstelle (DoS) in BI-Launchpad und Central Management Console;Programmfehler;Korrektur mit hoher Priorität;13.06.17;;
+BC-UPG-NA;2425129;3;Schwachstelle: Fehlende XML-Validierung in SAP Note Assistant;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-IAM-SSO-CCL;2444321;8;Fehlende Zertifikatsverifizierung in CommonCryptoLib;Programmfehler;Korrektur mit hoher Priorität;13.06.17;;
+EPM-BPC-NW-AR;2457269;3;Schwachstelle bezüglich fehlender XML-Validierung in Berichten des SAP-Business-Planning-and-Consolidation-Systems;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BI-RA-WBI-FE-HTM;2396544;4;Cross-Site-Scripting-Schwachstelle (XSS) in HTML-Interface von SAP BusinessObjects Web Intelligence;Programmfehler;Korrektur mit hoher Priorität;13.06.17;;
+BC-CST-STS;2389181;4;Denial-of-Service (DoS) in Instanz-Agent-Service in SAP NetWeaver;Programmfehler;Korrektur mit hoher Priorität;13.06.17;;
+BC-CST-MS;2445071;3;Denial-of-Service (DoS) in SAP NetWeaver Message Server;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-CST-MS;2445033;2;Offenlegung von Informationen in SAP NetWeaver Message Server;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-CST;2430022;6;Denial-of-Service (DOS) in SAP Netweaver AS ABAP;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-DWB-JAV-CAF;2405943;5;Cross-Site-Scripting-Schwachstelle (XSS) in Test-Integration von SAP NetWeaver Composite Application Framework und Business Warehouse;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+EIM-DS-SVR;2472026;9;URL Redirection vulnerability in SAP Data Services Management Console;Vorgezogene Entwicklung;Korrektur mit mittlerer Priorität;13.06.17;;
+SCM-FRE-ERP;2457909;6;Missing Authorization check in SCM Forecasting and Replenishment;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+EPM-IC-PSI;2429693;5;Directory Traversal vulnerability in SAP BusinessObjects Intercompany 10.0;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-JAS-SF;2427292;4;Offenlegung von Informationen in SAP MMC Console;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BI-RA-WBI-FE-HTM;2419559;4;Reflected-Cross-Site-Scripting-Schwachstelle (XSS) in Web Intelligence BI Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BC-CST-WDP;2423429;2;Code-Injection-Schwachstelle in SAP Web Dispatcher;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+BI-RA-WBI-FE-HTM;2419524;3;Reflected-Cross-Site-Scripting-Schwachstelle (XSS) in Web Intelligence BI Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.06.17;;
+CA-WUI-UI;2373032;6;Cross-Site-Scripting-Schwachstelle (XSS) in WebClient-Benutzungsoberfläche;Programmfehler;Korrektur mit mittlerer Priorität;07.06.17;;
+EHS-MGM-INC;1816886;4;Mögliche Offenlegung von Informationen bei Untersuchung;Programmfehler;Korrektur mit mittlerer Priorität;05.06.17;;
+BC-DB-DBI;2423486;9;Fehlende Berechtigungsprüfung in SAP NetWeaver ADBC Demo Programs;Programmfehler;Korrektur mit mittlerer Priorität;29.05.17;;
+CRM-MKT-MPL-CA;2236654;2;XXE Vulnerability in CRM-MKT-MPL-CA;Programmfehler;Korrektur mit mittlerer Priorität;23.05.17;;
+BC-WD-UR;2374661;4;Cross-Site Scripting (XSS) vulnerability in Unified Rendering / SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.05.17;;
+BC-FES-ITS;2316723;2;Cross-Site Request Forgery (CSRF) vulnerability in Dynpro Processing in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;19.05.17;;
+FI-RA;2462813;3;SQL Injection Vulnerability in Revenue Accounting;Programmfehler;Korrektur mit mittlerer Priorität;11.05.17;;
+BC-UPG-NA;2235515;7;Unzureichende Protokollierung in der Transaktion SNOTE;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-ABA-LA;2433777;3;Fehlende Berechtigungsprüfung in ABAP File Interface;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-FES-BUS-HTM;1812283;3;Unauthorized modification of displayed content in NWBC;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-ESI-WS-JAV-CFG;2406918;4;Schwachstelle: Fehlende XML-Validierung in Web-Services-Konfigurations-UI von SAP NetWeaver;Programmfehler;Korrektur mit niedriger Priorität;09.05.17;;
+IS-DFS-MM-LE;2394024;6;Fehlende Berechtigungsprüfung in EA-DFPS;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-FES-IGS;2380277;1;Schwachstelle durch Speicherschaden in IGS;Programmfehler;Korrektur mit hoher Priorität;09.05.17;;
+BC-FES-JAV;2448972;5;Verbesserte Berechtigungsprüfungen beim Aufrufen der Verbindung im SAP GUI for Java;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+IS-DFS-BIT-DIS;2376743;3;Fehlende Berechtigungsprüfung in EA-DFPS-Hilfsmittel;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-SEC-LGN-SML;2443586;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver: Authentifizierung und SSO;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+IS-DFS-PM;2442630;8;Fehlende Berechtigungsprüfung in EA-DFPS;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-INS-TLS;2441560;3;Mögliche Denial-of-Service-Schwachstelle (DoS) in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+BC-SRV-GBT-GOS;2424671;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Generic Object Services;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+EP-PIN-PRT;2412897;2;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;09.05.17;;
+IS-DFS-MA;1791940;2;Potential modification of persisted data in MDS;Programmfehler;Korrektur mit mittlerer Priorität;19.04.17;;
+IS-HER-CM;1830630;1;Unauthorized modification in BSP application in IS-HER-CM;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+XX-CSC-CL-FI;1959110;1;Missing authorization check in Chile Sales Ledger;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+BC-TRX;2419592;4;Code-Injection-Schwachstelle in TREX/BWA;Programmfehler;HotNews;11.04.17;;
+BC-CCM-PRN;2421287;4;Sicherheitsschwachstellen in SAPLPD;Programmfehler;Korrektur mit hoher Priorität;11.04.17;;
+BC-INS-CTC;2406783;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Central Technical Configuration;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+FIN-SEM-SRM;2426076;8;Mehrere Schwachstellen in SAP ERP Stakeholder Relationship Management;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+BI-BIP-INV;2403010;5;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in BI-Launchpad;Programmfehler;Korrektur mit niedriger Priorität;11.04.17;;
+EP-KM-CM-ICE;2387249;6;Missing XML Validation vulnerability in Knowledge Management ICE Service;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+BC-ILM-DAS;2308535;6;Cross-Site-Scripting-Schwachstelle (XSS) in SAP NetWeaver Java Archiving Framework;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+BC-WD-CLT-FLX;2410082;4;Schwachstelle: Fehlende XML-Validierung in Web Dynpro Flash Island;Programmfehler;Korrektur mit hoher Priorität;11.04.17;;
+BC-MID-RFC;2417355;3;Fehlende Berechtigungsprüfung in der Konfiguration von RFC-Verbindungen;Programmfehler;Korrektur mit mittlerer Priorität;11.04.17;;
+FS-QUO;2446435;1;Information Disclosure in  FS-QUO;Programmfehler;Korrektur mit mittlerer Priorität;10.04.17;;
+BC-FES-GUI;2407616;4;Schwachstelle in Bezug auf die Remote-Ausführung von Quelltext in SAP GUI for Windows;Programmfehler;Korrektur mit hoher Priorität;07.04.17;;
+FS-BA-RD;2452697;1;Missing Authorization check in RDL;Programmfehler;Korrektur mit mittlerer Priorität;07.04.17;;
+BC-DWB-TOO-DBG;2433458;4;Fehlende Berechtigungsprüfung in ABAP Debugger;Programmfehler;Korrektur mit mittlerer Priorität;05.04.17;;
+BC-JAS-WEB;1450166;7;Nicht autorisierte Ausführung von Anwendungsfunktionen;Sonderentwicklungen;Korrektur mit hoher Priorität;28.03.17;;
+CA-VE-VEV;2391018;8;Speicherbeschädigungs-Schwachstelle in SAP 3D Visual Enterprise Author, Generator und Viewer;Programmfehler;Korrektur mit hoher Priorität;28.03.17;;
+EP-PIN-URL;2323727;2;URL Redirection vulnerability in URL and Generic  iView;Programmfehler;Korrektur mit mittlerer Priorität;28.03.17;;
+FS-LOC-GEN;2443232;1;Missing Authorization check in /FSGLO/CN_API_LSAP_SET;Programmfehler;Korrektur mit mittlerer Priorität;17.03.17;;
+CO-PA-TO;2318953;1;Directory Traversal vulnerability in CO-PA-TO;Programmfehler;Korrektur mit mittlerer Priorität;15.03.17;;
+XX-CSC-CL-FI;1951071;2;Missing authorization check in XX-CSC-CL-FI;Programmfehler;Korrektur mit mittlerer Priorität;15.03.17;;
+FS-RI;1716641;5;Fehlende Berechtigungsprüfung in FS-RI;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-CCM-MON-ORA;2319506;3;SQL-Injection-Schwachstelle in Datenbankmonitoren für Oracle;Programmfehler;Korrektur mit hoher Priorität;14.03.17;;
+IS-DFS-MM-STO;2381388;4;Fehlende Berechtigungsprüfung in SAP-ERP-Materialwirtschaft;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+IS-DFS-MM;2378999;5;Fehlende Berechtigungsprüfung in SAP-ERP-Materialwirtschaft;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-JAS-ADM-LOG;2372626;4;Schwachstelle zu fehlender XML-Validierung in Log Viewer von SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+HAN-AS-XS;2426260;5;SQL-Injection-Schwachstelle in den erweiterten Anwendungsservices von SAP HANA, klassisches Modell;Programmfehler;Korrektur mit niedriger Priorität;14.03.17;;
+HAN-WDE-XSC;2428811;5;SQL-Injection-Schwachstelle in SAP HANA Web Workbench;Programmfehler;Korrektur mit niedriger Priorität;14.03.17;;
+HAN-AS-XS;2424173;3;Schwachstellen in den Benutzer-Self-Service-Tools von SAP HANA;Programmfehler;HotNews;14.03.17;;
+HAN-AS-XS;2429069;3;Schwachstelle bei der Session-Fixierung in denn erweiterte Anwendungsservices von SAP HANA, klassisches Modell;Programmfehler;Korrektur mit hoher Priorität;14.03.17;;
+BC-WD-ABA;2332977;4;Cross-Site-Scripting-Schwachstelle (XSS) in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-WD-UR;2333845;3;Cross-Site-Scripting-Schwachstelle (XSS) in Unified Rendering;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-FES-ITS;2335272;3;Cross-Site-Scripting-Schwachstelle (XSS) in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BI-RA-WBI-FE-HTM;2386814;5;Cross-Site-Scripting-Schwachstelle (XSS) in HTML-Interface von SAP BusinessObjects Web Intelligence;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-JAS-ADM-MON;2417046;4;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-Netweaver-Monitoring -Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-ABA-LA;2406841;4;JavaScript-Engine von ABAP Server ist eventuell nicht mehr verfügbar;Programmfehler;Korrektur mit niedriger Priorität;14.03.17;;
+BC-CCM-MON-ORA;2418823;3;Aktualisierung 1 zu SAP-Hinweis 2319506;Programmfehler;Korrektur mit hoher Priorität;14.03.17;;
+BC-SEC-LGN-SML;2418209;4;Cross-Site-Scripting-Schwachstelle (XSS) in Sicherheitsdiagnosetool;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+EP-PIN-NAV;2408100;9;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal – Komponente GenericSemanticTest;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+FI-TV-COS;2417428;2;Cross-Site-Scripting-Schwachstelle (XSS) in SAP Travel Management;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-ABA-SC;2405918;3;Denial-of-Service (DOS) in SAP Netweaver Dynpro Engine;Programmfehler;Korrektur mit hoher Priorität;14.03.17;;
+EP-VC-INF;2399804;5;Denial-of-Service-Schwachstelle (DoS) in Visual Composer;Programmfehler;Korrektur mit hoher Priorität;14.03.17;;
+EP-PIN-TOL;2392509;4;Cross-Site-Scripting-Schwachstelle (XSS) in Enterprise Portal StyleService;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+CA-VE-VEV-SDK;2360761;13;Speicherbeschädigungs-Schwachstelle in SAP 3D Visual Enterprise Author, Generator und Viewer;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-BMT-BPM-DSK;2372188;5;Offenlegung von Informationen in Business Process Management;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+HAN-CPT;2424120;3;Offenlegung von Informationen in SAP HANA Cockpit für die Offline-Administration;Programmfehler;Korrektur mit mittlerer Priorität;14.03.17;;
+BC-FES-ITS;2318760;2;Cross-Site Scripting (XSS) vulnerability in ITS / SAP GUI for HTML;Programmfehler;Korrektur mit hoher Priorität;13.03.17;;
+BC-DWB-UTL;2368082;2;Offenlegung von Informationen in ABAP-Entwicklungsumgebung;Programmfehler;Korrektur mit niedriger Priorität;09.03.17;;
+BC-XI-IS-WKB;2366713;8;Fehlende Validierung der Eingabelänge in der Runtime Workbench;Programmfehler;Korrektur mit mittlerer Priorität;03.03.17;;
+FI-AA-AA;2345698;1;Missing Authorization check in FI-AA-AA;Programmfehler;Korrektur mit mittlerer Priorität;01.03.17;;
+XX-CSC-RU-FI;2367193;4;Fehlende Berechtigungsprüfung in Geldflussrechnungs-Report;Programmfehler;Korrektur mit mittlerer Priorität;20.02.17;;
+BC-FES-ITS;2350276;2;Cross-Site Scripting (XSS) vulnerability in ITS / SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;20.02.17;;
+BC-MOB-DOE;2408892;7;Fehlende Berechtigungsprüfungen in SAP NetWeaver Data Orchestration Engine;Programmfehler;Korrektur mit hoher Priorität;14.02.17;;
+BC-MOB-DOE;2410061;6;Denial-of-Service (DoS) im Bereich mit den Systemnachrichten im DOE-Administrationsportal;Programmfehler;Korrektur mit hoher Priorität;14.02.17;;
+HAN-WDE;2407694;3;SAP Web IDE für SAP HANA: Nicht autorisierte remote Datenmanipulation und DOS-Angriff;Programmfehler;Korrektur mit hoher Priorität;14.02.17;;
+EP-KM-CM-UI;2326291;2;Cross-Site-Scripting-Schwachstelle (XSS) in KM-Portalfavoriten;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+BC-SRV-RM;2392860;3;Ausnutzen von Berechtigungen durch kundeneigenen Transaktionscode;Programmfehler;Korrektur mit hoher Priorität;14.02.17;;
+BW-BEX-UDI-VC;2386873;4;Missing XML Validation vulnerability in Visual Composer VC70RUNTIME;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+EP-PIN-IVS-UPL;2369541;3;Schwachstelle mit Blick auf fehlende XML-Validierung im Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+EP-VC-CON;2360489;6;Cross-Site Request Forgery (CSRF) vulnerability in Visual Composer 04s iviews.;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+BC-FES-ITS;2197532;5;Sicherheitsschwachstellen in einem zu SAP ITS Mobile gehörigen ICF-Service;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+BC-CTS-ORG;2408558;2;Fehlende Berechtigungsprüfung in der Transaktion GTABKEY;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+BC-CUS-TOL-IMG;2401265;2;Fehlende Berechtigungsprüfung im Funktionsbaustein OBJECT_MAINTENANCE_CALL;Programmfehler;Korrektur mit mittlerer Priorität;14.02.17;;
+GRC-SAC-EAM;2413716;3;Einrichtung des Trusted RFC in der Notfallzugriffsverwaltung für SAP Access Control;Programmfehler;Korrektur mit hoher Priorität;14.02.17;;
+BI-BIP-LCM;2292351;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-BI-Promotion-Management-Anwendung;Programmfehler;Korrektur mit mittlerer Priorität;10.02.17;;
+BC-FES-ITS;2319172;3;Whitelist-basierter Clickjacking-Framing-Schutz in SAP GUI for HTML;Programmfehler;Korrektur mit mittlerer Priorität;09.02.17;;
+BC-SYB-ASE;2407845;3;Mehrere Schwachstellen bei der Verwendung von Java in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;08.02.17;;
+BI-BIP-INV;2250817;7;Cross-Site-Scripting-Schwachstelle (XSS) in InfoView - Titan;Programmfehler;Korrektur mit mittlerer Priorität;08.02.17;;
+CRM-MKT-MPL-TPM-IMP;2347077;1;Cross-Site Scripting (XSS) vulnerability in IMP planning table / CRM-MKT-MPL-TPM-IMP;Programmfehler;Korrektur mit mittlerer Priorität;25.01.17;;
+SD-BIL-IV-CB;2355398;5;Missing Authorization check in RFC function module;Programmfehler;Korrektur mit mittlerer Priorität;25.01.17;;
+SD-BIL-IV-CB;2355339;2;Directory Traversal Vulnerability in FSB;Programmfehler;Korrektur mit mittlerer Priorität;25.01.17;;
+BC-DOC-TTL;1541716;4;Möglicher Denial of Service in Funktion d. Übersetzungstools;Programmfehler;Korrektur mit mittlerer Priorität;17.01.17;;
+FS-OCB-GEN-SEC;2407696;2;Entfernen von DESEncrypt-Klasse aus SAP Online Banking 8.3;Beratung;Korrektur mit mittlerer Priorität;10.01.17;;
+BI-BIP-SL-SDK;2361633;4;SQL-Injection-Schwachstelle auf der SAP-Business-Intelligence-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+SV-SMG-SDD;2378090;4;Fehlende Berechtigungsprüfung in SAP Solution Manager;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+BC-ABA-LA;2389578;3;Directory-Traversal-Schwachstelle in File Interface in SAP NetWeaver;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+BC-JAS-ADM-LOG;2370876;2;Directory-Traversal Schwachstelle in SAP NetWeaver Log Viewer;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+EP-PIN-NAV;2369469;5;Cross-Site-Scripting-Schwachstelle (XSS) in SAP-Enterprise-Portal-Navigation;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+EP-PIN-RTC;2341302;5;Cross-Site-Scripting-Schwachstele (XSS) in SAP Enterprise Portal Real-Time Collaboration;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+BC-DWB-AIE-SRC;2407670;2;Fehlende Berechtigungsprüfung in ABAP Development Tools;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+BC-SYB-SAM;2407862;5;Mehrere Pufferüberläufe in Flexera Flexnet Publisher (CVE-2015-8277) Sybase Asset Management;Programmfehler;HotNews;10.01.17;;
+BC-ESI-UDDI;2356504;5;SQL-Injection-Schwachstelle in SAP NetWeaver UDDI Server;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+BC-IAM-SSO-OTP;2389042;6;Denial-of-Service (DoS) in SAP SAP Single Sign-On;Programmfehler;Korrektur mit hoher Priorität;10.01.17;;
+EP-VC;2347439;8;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP Netweaver Visual Composer;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+IS-DFS-BIT-DIS;2378448;4;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+EP-PIN-TOL;2377626;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+IS-DFS-BIT;2378417;4;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+IS-DFS-BIT-DIS;2376524;5;Fehlende Berechtigungsprüfung in SAP ERP Defense Forces & Public Security;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+EP-PIN-TOL;2372204;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+EP-PIN-TOL;2372183;3;Cross-Site-Scripting-Schwachstelle (XSS) im SAP-Enterprise-Portal-Motiveditor;Programmfehler;Korrektur mit mittlerer Priorität;10.01.17;;
+CRM-MKT-MPL-CBP;2407351;2;Unrestricted File Upload vulnerability in Customer Business Planning application;Programmfehler;Korrektur mit mittlerer Priorität;05.01.17;;
+XX-CSC-BR-REP;1699041;2;IN86: Mögliches Directory-Traversal;Programmfehler;Korrektur mit hoher Priorität;26.12.16;;
+CRM-ISA-CAT;2265385;2;Switchable authorization checks for RFC in Product Catalog;Programmfehler;Korrektur mit mittlerer Priorität;22.12.16;;
+LO-MD-BP-CM;2179233;1;Missing authorization check in LO-MD-BP-CM, LO-MD-BP-VM, FI-AP-AP-N, FI-AR-AR-N;Programmfehler;Korrektur mit niedriger Priorität;14.12.16;;
+BC-GP;2344524;5;Offenlegung von Informationen in Guided Procedures;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+HAN-AS-XS-ADM;2394445;3;Offenlegung von Informationen in SAP HANA XS, klassischer Benutzer-Self-Service-Portal;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BC-JAS-SEC-UME;2310790;2;Directory-Traversal-Schwachstelle in einer Benutzerverwaltungsanwendung;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+HAN-CPT;2351486;4;Offenlegung von Informationen in SAP HANA Cockpit für die Offline-Administration;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BC-SYB-SQA;2359019;6;'FalseConnect': Schwachstelle bei HTTP-Proxy-Authentifizierung mit MobiLink-Client und Relay-Server-Outbound-Enabler;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+IS-DFS-BIT-DIS;2376998;4;Fehlende Berechtigungsprüfung in EA-DFPS-Überwachungswerkzeugen;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+HAN-DB-BAC;2379342;3;Cross-Site-Scripting-Schwachstelle (XSS) in Backup-Funktion von SAP HANA Cockpit;Programmfehler;Korrektur mit niedriger Priorität;13.12.16;;
+BI-RA-CR;2336795;4;Port-Scanning über URL-Reporting in SAP BusinessObjects Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BC-GP;2375140;3;Aktualisierung 1 zu Sicherheitshinweis 2344524;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+IS-DFS-MA;2374749;5;Fehlende Berechtigungsprüfung in SAP Mobile Defense & Security 1.6;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BW-PLA-BPS;2374165;5;Missing Authorization check in BW Business Planning and Simulation;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BC-MID-ICF-LGN;2373175;4;Offenlegung von Informationen auf der ABAP-HTTP-Systemanmeldeseite;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BI-RA-WBI-BE-SM;2336393;6;Schwachstelle mit Blick auf Offenlegung von Informationen im SAP BusinessObjects Explorer;Programmfehler;Korrektur mit hoher Priorität;13.12.16;;
+BI-BIP-INV;2283666;4;Potenzielle Offenlegung von Informationen zu SAP BusinessObjects Explorer;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BI-BIP-INV;2265964;4;Deserialisierung nicht vertrauenswürdiger Daten in BI-Plattform;Programmfehler;Korrektur mit hoher Priorität;13.12.16;;
+BI-RA-AWB;2354254;1;Schwachstelle mit Blick auf Offenlegung von Informationen in SAP BusinessObjects Analysis for OLAP;Programmfehler;Korrektur mit niedriger Priorität;13.12.16;;
+SBO-CRO-SEC;2378065;6;Schwachstelle mit Blick auf fehlende XML-Validierung in SAP Business One;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+IS-DFS-BIT-DIS;2377067;4;Fehlende Berechtigungsprüfung in EA-DFPS-Synchronisationsmechanismen;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+EP-PIN-NAV-FFP;2360488;5;Cross-Site-Scripting-Schwachstelle (XSS) im SAP Fiori Launchpad im Unternehmensportal;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+BI-BIP-ADM;2288991;3;Directory-Traversal-Schwachstelle in SAP-BusinessObjects-Plattform;Programmfehler;Korrektur mit mittlerer Priorität;13.12.16;;
+WEC-FRW;2244161;4;Clickjacking-Gegenmaßnahme in SAP Web Channel Experience Management (Web Channel);Programmfehler;Korrektur mit niedriger Priorität;01.12.16;;
+BC-MID-RFC;2245130;3;Potenzielle Umgehung von Unified-Connectivity-Laufzeitprüfungen in BC-MID-RFC;Programmfehler;Korrektur mit mittlerer Priorität;25.11.16;;
+BC-UPG-TLS-TLA;1718613;7;Fehlende Berechtigungsprüfung im Funktionsbaustein DD_DB_IMIG_CALL_INSTTOOL;Programmfehler;Korrektur mit hoher Priorität;22.11.16;;
+CRM-MKT-MPL-CAL;2378485;1;Cross-Site Scripting (XSS) vulnerability in Integrated Marketing Calendar;Externer Fehler;Korrektur mit mittlerer Priorität;17.11.16;;
+XX-CSC-IN-MM;2250863;2;Missing authorization check in XX-CSC-IN-MM;Programmfehler;Korrektur mit niedriger Priorität;16.11.16;;
+BC-ESI-UDDI;2101079;6;Mögliche Änderung/Offenlegung von persist. Daten in BC-ESI-UDDI;Programmfehler;Korrektur mit hoher Priorität;14.11.16;;
+FI-CAX-INV;2248862;2;Fehlende Berechtigungsprüfung in FI-CA-INV;Programmfehler;Korrektur mit mittlerer Priorität;14.11.16;;
+BC-XI-IBC;1434761;10;Ablage der Passwörter der Service Benutzer von XI/PI;Programmfehler;Korrektur mit mittlerer Priorität;10.11.16;;
+FS-AM-OM-SO;2368873;3;Fehlende Berechtigungsprüfung in Services für das Bankwesen/Dauerauftrag;Programmfehler;Korrektur mit mittlerer Priorität;08.11.16;;
+BC-CST-MS;2358972;6;Denial-of-Service-Schwachstelle (DoS) in Message Server;Programmfehler;Korrektur mit hoher Priorität;08.11.16;;
+BC-CCM-SLD;2342940;3;Offenlegung von Informationen in System Landscape Directory;Programmfehler;Korrektur mit mittlerer Priorität;08.11.16;;
+BC-DWB-UTL;2376223;1;Missing Authorization check in Dynpro Modeler;Programmfehler;Korrektur mit niedriger Priorität;08.11.16;;
+FI-GL-GL-J;2371610;2;Missing Authorization check in Direct-Input posting;Programmfehler;Korrektur mit mittlerer Priorität;08.11.16;;
+EPM-BFC-TCL;2368106;5;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP BusinessObjects Financial Consolidation;Fehler in der Dokumentation;Korrektur mit mittlerer Priorität;08.11.16;;
+BC-XI-IS-IEN;2366726;3;Cross-Site-Scripting-Schwachstelle (XSS) in PI Integration Engine;Programmfehler;Korrektur mit mittlerer Priorität;08.11.16;;
+BC-DB-MSS;2366512;4;Offenlegung von Informationen im SAP Software Update Manager;Info zum Upgrade;Korrektur mit hoher Priorität;08.11.16;;
+CA-WUI-APF;2383912;2;Insecure Logoff functionality in CA-WUI-APF;Programmfehler;Korrektur mit mittlerer Priorität;07.11.16;;
+CRM-MD-INB;2263882;1;Missing authorization check in CRM-MD-INB;Programmfehler;Korrektur mit mittlerer Priorität;05.11.16;;
+FS-AM;2197830;1;Missing authorization check in Account Management;Programmfehler;Korrektur mit mittlerer Priorität;29.10.16;;
+BC-BSP;2319192;4;Whitelist-basierter Clickjacking-Framing-Schutz in BSP;Programmfehler;Korrektur mit mittlerer Priorität;27.10.16;;
+PA-TM;2358285;1;Cross-Site Scripting (XSS) vulnerability in Flash Island parts used in HCM Webdynpro applications;Programmfehler;Korrektur mit mittlerer Priorität;14.10.16;;
+BC-MID-RFC;2078596;10;Weitere Verbesserungen der RFC-Sicherheit;Beratung;Korrektur mit mittlerer Priorität;11.10.16;;
+WEC-APP-SRV;2241871;2;Fehlende Berechtigungsprüfung in WEC-APP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BF-CFG;2271018;1;Fehlende Berechtigungsprüfungen in Funktionsbausteinen mit Bezug zu CRM-Wissensdatenbanken für konfigurierbare Produkte;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BTX;2246269;4;Fehlende Berechtigungsprüfung in CRM-BTX;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-CHM;2263132;1;Fehlende Berechtigungsprüfung in CRM-CHM;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BF;2257328;2;Fehlende Berechtigungsprüfungen in CRM-Portal-Content-Funktionsbausteinen;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-ITT-ETC-BTX;2258027;3;Switchable authorization checks for RFC in CRM-Travel&Transportation-Electronic Toll Collection-Business Transaction;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-IT-BTX;2273147;3;Schaltbare Berechtigungsprüfungen für RFC in CRM-IT-BTX;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-LOY;2303421;2;Schaltbare Berechtigungsprüfungen für RFC in Kundenbindungsmanagement (CRM-LOY);Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MW-ADP;2275009;2;Schaltbare Berechtigungsprüfungen für RFC in CRM-MW-ADP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-IM;2276601;1;Switchable authorization checks for RFC in CRM-Sales of Subscription based Series;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CA-UI2-THD;2358849;3;Whitelist-basierender Clickjacking-Framing-Schutz in UI-Theme-Designer im SAP-Portal;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MW-CCO;2266040;1;Switchable authorization checks for RFC in CRM-MW-CCO;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CA-UI2-THD;2349128;1;Whitelist-basierender Clickjacking-Framing-Schutz in UI-Theme-Designer in ABAP;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BTX-LEA;2271740;3;Missing authorization check in CRM-BTX-LEA;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BF;2266687;1;Switchable authorization checks for RFC in CRM Counters;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MD-CON-XIF;2272055;1;Switchable authorization checks for RFC in Conditions Master Data;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MW-GWI-GWA;2268252;1;Switchable authorization checks for RFC in CRM-MW-GWI-GWA;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MW-MON;2266967;1;Switchable authorization checks for RFC in CRM-MW-MON;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-LAM;2233831;1;Switchable authorization checks for RFC in Leasing / Account Origination;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-MSA;2262131;1;Switchable authorization checks for RFC in CRM-MSA-ADP and CRM-MT-MAS-ARS;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-IC-HCM-BF;2276488;1;Missing authorization check in CRM-IC-HCM;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-BF-BRF;2255642;2;Switchable authorization checks for RFC in Rule Builder BRFplus;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-ISE;2252568;2;Switchable authorization checks for RFC in Internet Service;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+SV-SMG-SER;2348055;4;SQL-Injection-Schwachstelle in Add-on ST-PI;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-IM-IPM;2248790;2;Switchable authorization checks for RFC in Intellectual Property Management;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+FIN-FSCM-TRM-CRM;2344639;5;Fehlende Berechtigungsprüfung in SAP Commodity Risk Management;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BI-RA-XL;2335427;3;Cross-Site-Request-Forgery-Schwachstelle (CSRF) in BI-Plattform für SAP BOBJ;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BC-XI-IS-WKB;2344441;3;Cross-Site-Scripting-Schwachstelle in PI Message Display Tool;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BC-JAS-ADM-MON;2331908;3;Authentifizierungsprüfung fehlt in Infoservice von Message Server;Programmfehler;Korrektur mit hoher Priorität;11.10.16;;
+BC-SYB-SQA;2330422;7;Denial-of-Service (DOS) in v16 des SQL-Anywhere-OData-Servers;Programmfehler;Korrektur mit hoher Priorität;11.10.16;;
+CRM-IU;2271839;1;Switchable authorization checks for RFC in CRM-IU;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-ISA;2265976;1;Switchable authorization checks for RFC in Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BC-FES-GUI;2361671;3;Offenlegung von Informationen in SAP GUI for Windows;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BC-XI-IBD;2320703;6;Aktualisierung 1 zu Sicherheitshinweis 1512776;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BI-BIP-INV;2307762;2;Clickjacking-Schwachstelle im BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+BI-RA-CRE;2288310;3;Schwachstelle in SAP-BusinessObjects-Komponenten in Bezug auf Xalan;Programmfehler;Korrektur mit mittlerer Priorität;11.10.16;;
+CRM-ISA-R3;2029397;7;Fehlende Berechtigungsprüfungen für RFC in E-Commerce-ERP-Anwendungen;Programmfehler;Korrektur mit mittlerer Priorität;29.09.16;;
+XX-PROJ-FI-CA;2251513;1;Fehlende Berechtigungsprüfung in XX-PROJ-FI-CA;Programmfehler;Korrektur mit mittlerer Priorität;27.09.16;;
+BC-CCM-MON;1511193;6;XSRF-Schutz für die CCMS Monitoring Console;Programmfehler;Korrektur mit hoher Priorität;22.09.16;;
+CRM-SLC;2335687;4;Whitelist based Clickjacking Framing Protection in Solution Sales Configuration;Programmfehler;Korrektur mit mittlerer Priorität;22.09.16;;
+SCM-EWM-DLP;2316942;2;Missing Authorization check in EWM for delivery / warehouse request objects;Programmfehler;Korrektur mit mittlerer Priorität;15.09.16;;
+BC-XI-IBC;2181460;4;Unbefugte Verwendung von Anwendungsfunktionen in SAP Exchange Infrastructure;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+CA-FIM-FCO;2357695;3;Fehlende Berechtigungsprüfung von Individualkonditionen;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+FS-AM-IM-IT;2353024;3;Fehlende Berechtigungsprüfung in Postenverwaltung;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+CA-FIM-FCO;2357856;3;Fehlende Berechtigungsprüfung von Standardkonditionen;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+BC-SYB-ASE;2358986;6;Unzureichende Fehlerprüfung in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;13.09.16;;
+BC-SYB-ASE;2353243;4;SQL-Injection-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;13.09.16;;
+BC-SYB-ASE-CE;2350574;6;Sicherheitsschwachstelle der Adresse axis.jar (CVE-2014-3596) in SAP ASE Web-Services-Komponente;Externer Fehler;Korrektur mit mittlerer Priorität;13.09.16;;
+BI-BIP-INV;2290548;10;Denial-of-Service-Schwachstelle (DoS) in BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+HAN-LM-INS-DB;2347944;3;Offenlegung von Informationen im CCMS-Agent von SAP HANA;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+EPM-BFC-TCL;2172049;7;DLL-Hijacking in SAP Financial Consolidation;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+BC-CCM-CNF-PFL;2342473;5;Directory-Traversal-Schwachstelle in der Profilpflege;Programmfehler;Korrektur mit mittlerer Priorität;13.09.16;;
+GRC-SAC-ARQ;2351352;2;The User Sessions were not handled correctly from End User Login Application.;Programmfehler;Korrektur mit mittlerer Priorität;12.09.16;;
+BC-SRV-NBC;1627922;6;Fehlende Berechtigungsprüfung in SAA_REMOTE_OP_TRANSACTION;Programmfehler;Korrektur mit hoher Priorität;06.09.16;;
+XX-CSC-RU-FI;2318530;2;Missing authorization check in FI-LOC-SD-RU;Korrektur der gesetzlichen Funktion;Korrektur mit hoher Priorität;05.09.16;;
+BC-SEC;2319727;6;Clickjacking-Schutz in SAP NetWeaver AS ABAP und AS Java;Beratung;Korrektur mit mittlerer Priorität;01.09.16;;
+BC-JAS-JMS;2294866;7;Fehlende geeignete Berechtigungsprüfungen im JMS Provider Service;Programmfehler;Korrektur mit mittlerer Priorität;31.08.16;;
+BW-BEX-ET;2069820;2;Fehlende Berechtigungsprüfung in BW-BEX-ET;Programmfehler;Korrektur mit mittlerer Priorität;19.08.16;;
+BC-ABA-LA;2292714;3;Denial-of-Service-Schwachstelle (DoS) in Speicherabzugserstellung;Programmfehler;Korrektur mit mittlerer Priorität;12.08.16;;
+BC-SRV-KPR-CMS;2012284;4;Knowledge Provider übergibt falschen Status der Virenprüfung an Content-Server;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+BC-CST-IC;2313835;2;Denial-of-Service-Schwachstelle (DoS) im Internet Communication Manager;Programmfehler;Korrektur mit hoher Priorität;09.08.16;;
+BC-XI-IS-WKB;2307947;8;Schwachstelle mit Blick auf Offenlegung von Informationen in Runtime Workbench;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+BC-JAS-COR;2280371;2;Directory-Traversal-Schwachstelle in einem Telnet-Befehl;Programmfehler;Korrektur mit niedriger Priorität;09.08.16;;
+BI-BIP-INV;2249634;7;Cross-Site-Scripting-Schwachstelle (XSS) in BIWorkspace;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+BC-INS-TLS;2327384;4;Race-Bedingung bei Dateiberechtigungsänderung in SAPCAR;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+FIN-FSCM-TRM-TM;2317096;3;Fehlende Berechtigungsprüfung in Transaction Manager;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+AP-MD-BP;2312966;7;Directory-Traversal-Schwachstelle in Geschäftspartner;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+BC-INS-TLS;2312905;4;Denial-of-Service-Schwachstelle (DoS) in SAPCAR;Programmfehler;Korrektur mit niedriger Priorität;09.08.16;;
+BC-BMT-BPM-DSK;2296909;3;Denial-of-Service-Schwachstelle (DoS) im BPM;Programmfehler;Korrektur mit mittlerer Priorität;09.08.16;;
+EP-KM-CM;1477597;6;SEC-133: Cross-Site-Scripting SAP NetWeaver EW;Programmfehler;Korrektur mit hoher Priorität;05.08.16;;
+EP-KM-CM-SEC;2351001;1;Update 1 to security note 1477597;Programmfehler;Korrektur mit hoher Priorität;05.08.16;;
+SCM-YL;2317358;1;Missing Authorization check in SAP Yard Logistics;Programmfehler;Korrektur mit mittlerer Priorität;05.08.16;;
+BI-BIP-BIW;1718230;2;Unbefugtes Ändern angezeigter Inhalte in Strategy Builder;Programmfehler;Korrektur mit hoher Priorität;04.08.16;;
+EP-PIN-DNT;2224249;7;Unbefugtes Ändern von abgelegten Inhalten in ConfigEditor;Programmfehler;Korrektur mit hoher Priorität;03.08.16;;
+EP-PIN-PRT;2194572;6;Unbefugtes Ändern von angezeigten Inhalten in StringBufferPoolMonitor;Programmfehler;Korrektur mit hoher Priorität;28.07.16;;
+EP-PIN-CS;2228405;5;Unbefugtes Ändern von abgelegten Inhalten in EPCF Loader Tester;Programmfehler;Korrektur mit hoher Priorität;28.07.16;;
+EP-KM-TLS-XFB;2182154;5;Unbefugtes Ändern von abgelegten Inhalten in XMLForms-Vorschau;Programmfehler;Korrektur mit hoher Priorität;28.07.16;;
+BC-JAS-ADM-MON;2234971;4;Directory-Traversal in AS Java Monitoring;Programmfehler;Korrektur mit mittlerer Priorität;28.07.16;;
+EP-PIN-NAV-AFP;2169391;5;Reflected-File-Download-Schwachstelle in AFP Servlet;Programmfehler;Korrektur mit hoher Priorität;28.07.16;;
+SV-SMG-INS-CFG;2301837;9;Code-Injection-Schwachstelle in SAP Solution Manager;Programmfehler;HotNews;26.07.16;;
+BC-CCM-SLD-JAV;2240548;1;Unberechtigte Verwendung von Anwendungsfunktionen in SLD;Programmfehler;Korrektur mit mittlerer Priorität;25.07.16;;
+BC-CCM-FIL;1542033;5;Aktualisierung 1 zu Sicherheitshinweis 1497003;Programmfehler;Korrektur mit hoher Priorität;22.07.16;;
+BC-SEC;1727640;7;Update 1 to security note 1520101;Programmfehler;Korrektur mit hoher Priorität;22.07.16;;
+EHS-SAF;1540408;3;Aktualisierung #1 zu Sicherheitshinweis 1505368;Info zur Installation;Korrektur mit niedriger Priorität;22.07.16;;
+BC-WD-JAV;1724922;6;1. Aktualisierung zum Sicherheitshinweis 1653474;Programmfehler;Korrektur mit hoher Priorität;22.07.16;;
+BC-SRV-KPR;1678072;5;Aktualisierung #1 zu Sicherheitshinweis 1579673;Programmfehler;Korrektur mit hoher Priorität;22.07.16;;
+BC-SRV-FP;2218411;2;Mögliches Remote-Beenden von laufenden Prozessen in Adobe Document Services;Programmfehler;Korrektur mit mittlerer Priorität;15.07.16;;
+HAN-DP-LTR;2321240;5;Fehlende Berechtigungsprüfung in SAP HANA Enterprise;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+FIN-FSCM-BD;2339167;2;Whitelist-basierende ClickJacking Framing Protection in SAP Biller Direct;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+PE-LSO-CP;2337225;3;Clickjacking vulnerability in LSO Content Player;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-WD-JAV;2170590;4;Whitelist-Service für Clickjacking-Framing-Schutz in AS JAVA;Sonderentwicklungen;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-WD-ABA;2303032;1;Cross-Site-Scripting-Schwachstelle (XSS) in CL_WDR_CLIENT_SSR_LS;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+IS-U-CS-ISS;2339506;1;Whitelist-basierend ClickJacking Framing Protection in SAP Utility Customer E-Services;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+MFG-MII;2338446;1;Clickjacking Framing Protection in MII;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+CA-UI2-INT-FE;2333957;2;Whitelist based Clickjacking Framing Protection in SAP Fiori Launchpad for NW AS ABAP;Beratung;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-SYB-OS;2330839;3;Denial-of-Service-Angriff (DoS) in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit hoher Priorität;12.07.16;;
+BC-SYB-ASE;2329738;2;Unrestricted-File-Creation-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+EP-PDK-HBJ;2263656;1;Whitelist based Clickjacking Framing Protection in HTMLB Java;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+XX-PART-ADB-IFM;2245398;4;Schwachstelle bei Java-Deserialisierung in SAP Interactive Forms by Adobe;Programmfehler;Korrektur mit hoher Priorität;12.07.16;;
+CA-UI5-ABA;2245332;1;Automatic usage of Whitelist Service for Clickjacking Framing Protection in SAPUI5 Apps;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+BW-BEX-ET-WJR-RT;2209907;5;Whitelist-basierter Clickjacking-Framing-Schutz in BW-Reports;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-WD-JAV;2169860;3;Whitelist-basierter Clickjacking-Framing-Schutz in Web Dynpro Java;Sonderentwicklungen;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-WD-ABA;1872800;2;Whitelist-basierter Clickjacking-Framing-Schutz in Web Dynpro ABAP;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+CA-UI5-COR;2319184;3;Whitelist based Clickjacking Framing Protection in SAPUI5;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+EP-PIN-FPN;2315788;3;Denial-of-Service (DoS) im Enterprise Portal: Portal im Verbund;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+FS-CML;2309079;4;Fehlende Berechtigungsprüfung in Consumer and Mortgage Loans;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+CRM-ISA;2297227;2;Whitelist based Clickjacking Framing Protection in CRM-ISA;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+BC-CST-STS;2295238;3;Speicherschaden-Schwachstelle in Start-Service;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+BI-BIP-INV;2290512;5;Cross-Site-Scripting-Schwachstelle (XSS-Schwachstelle) in BI-Plattform und BI-Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;12.07.16;;
+XX-CSC-RO-FI;2157355;2;SQL Injection vulnerability in XX-CSC-RO-FI;Korrektur der gesetzlichen Funktion;Korrektur mit mittlerer Priorität;11.07.16;;
+BI-BIP-CMC;2198329;2;Clickjacking issue in CMC- Security Issue;Programmfehler;Korrektur mit mittlerer Priorität;23.06.16;;
+BC-JAS-WEB;1445998;5;Deaktivieren des Invoker-Servlets;Programmfehler;HotNews;22.06.16;;
+SCM-BAS-UIF;2011652;1;Unauthorized modification of displayed content in SCM-BAS-UIF;Programmfehler;Korrektur mit niedriger Priorität;20.06.16;;
+EP-KM-TLS-PP;2254648;3;Cross-Site-Scripting-Schwachstelle (XSS) in KM-Personensuche;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+BI-RA-AD;2255588;2;Cross-Site-Scripting-Schwachstelle (XSS) in SAP BusinessObjects Design Studio;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+BC-TWB-TST-ECA;2256178;3;Cross-Site-Scripting-Schwachstelle (XSS) in ecattping;Programmfehler;Korrektur mit hoher Priorität;14.06.16;;
+BW-PLA-IP;2197262;5;Offenlegung von Informationen in BI-Reporting und -Planung;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+BC-JAS-SEC-LGN;2246608;11;Cross-Site-Scripting-Schwachstelle (XSS) in Anmeldeanwendung;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+BC-SYB-SQA;2308778;7;Denial-of-Service (DoS) in Sybase SQL Anywhere MobiLink Synchronization Server;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+CA-SUR;2308217;6;Schwachstelle bezüglich fehlender XML-Validierung in Web Survey;Programmfehler;Korrektur mit hoher Priorität;14.06.16;;
+BC-TRX-API;2307494;5;Fehlende Berechtigungsprüfung in TREX ABAP+JAVA API;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+BC-DOC-TER;2306709;3;Code-Injection-Schwachstelle in Dokumentations- und Übersetzungs-Tools;Programmfehler;HotNews;14.06.16;;
+EIM-DS;2306571;3;Möglicher Denial-of-Service (DOS) in SAP Data Services;Programmfehler;Korrektur mit hoher Priorität;14.06.16;;
+BC-BMT-OPI-PVE;2303386;6;Fehlende Berechtigungsprüfung in SAP Operational Process Intelligence;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+EIM-DS;2300346;4;Directory-Traversal-Schwachstelle in SAP Data Services;Programmfehler;Korrektur mit niedriger Priorität;14.06.16;;
+HAN-DB;2293958;8;Fehlende Kommunikationssicherheit für SAP-HANA-Daemon-Service;Programmfehler;Korrektur mit mittlerer Priorität;14.06.16;;
+XX-CSC-PT-FIAA;1909843;1;PT-FIAA: Potential Directory Traversal;Programmfehler;Korrektur mit mittlerer Priorität;07.06.16;;
+SD-MD-CH;2316249;2;Missing Authorization check in SD-MD-CH;Programmfehler;Korrektur mit mittlerer Priorität;07.06.16;;
+EC-PCA-IS;2297003;4;Fehlende Berechtigungsprüfung in EC-PCA-IS;Programmfehler;Korrektur mit mittlerer Priorität;06.06.16;;
+BC-MID-RFC;2252312;3;Nicht ausreichende Protokollierung des RFC in SAL;Programmfehler;Korrektur mit mittlerer Priorität;06.06.16;;
+BC-WD-CMP-ALV-ABA;2272676;2;FPM-Listen-UIBB-ATS/FPM-Baum-UIBB/WD ALV: Tabellenkalkulationsformel-Injection;Programmfehler;Korrektur mit mittlerer Priorität;06.06.16;;
+BC-SRV-KPR-CMS;1590651;3;Lesezugriff auf Tabellen mit Zertifikaten verhindern;Programmfehler;Korrektur mit mittlerer Priorität;30.05.16;;
+BI-RA-AD;2222731;1;Unauthorized modification of stored content in DesignStudio SFIN use case;Programmfehler;Korrektur mit mittlerer Priorität;24.05.16;;
+CRM-FIO-BTX-TAS;2317756;1;Input length validation missing in CRM Fiori apps;Programmfehler;Korrektur mit mittlerer Priorität;20.05.16;;
+FS-CML;2160790;1;Fehlende Berechtigungsprüfung in FS-CML;Programmfehler;Korrektur mit mittlerer Priorität;13.05.16;;
+BC-INS-CTC;2260876;10;Mehrere Schwachstellen in LM Configuration Wizard;Programmfehler;Korrektur mit mittlerer Priorität;10.05.16;;
+BC-FES-IGS;2254425;7;Clickjacking-Schwachstelle in SAP Internet Graphics Server;Programmfehler;Korrektur mit mittlerer Priorität;10.05.16;;
+EP-PIN-CS;2281002;6;Offenlegung von Informationen in Client-Services für SAP NetWeaver Portal;Programmfehler;Korrektur mit mittlerer Priorität;10.05.16;;
+BI-RA-PA;2307384;2;Deserialisierung nicht vertrauenswürdiger Daten in SAP Predictive Analytics;Programmfehler;Korrektur mit hoher Priorität;10.05.16;;
+IS-B-BCA-AM;2298657;7;Fehlende Berechtigungsprüfung in SAP R/3 Enterprise Financial Services;Programmfehler;Korrektur mit mittlerer Priorität;10.05.16;;
+BI-RA-CRE;2298367;3;Deserialisierung nicht vertrauenswürdiger Daten in SAP Crystal Reports for Enterprise;Programmfehler;Korrektur mit hoher Priorität;10.05.16;;
+BC-SYB-ASE;2297853;3;Fehlende Berechtigungsprüfung in SAP ASE;Programmfehler;Korrektur mit mittlerer Priorität;10.05.16;;
+BC-SYB-ASE;2296023;5;Fehlende Berechtigungsprüfung in SAP ASE XPServer;Programmfehler;HotNews;10.05.16;;
+BC-I18;2292487;5;Hartkodierte System-IDs im Code Page Conversion Tool (BC-I18);Programmfehler;Korrektur mit niedriger Priorität;10.05.16;;
+LO-SLC;2195409;1;Potential modif./disclosure of persisted data in SAP CPQ Solution Configuration (SME);Programmfehler;Korrektur mit mittlerer Priorität;06.05.16;;
+BC-DB-MSS;2236289;3;Fehlende Berechtigungsprüfung in SMSS_GET_DBCON;Programmfehler;Korrektur mit mittlerer Priorität;29.04.16;;
+BC-CST-GW;1444282;11;gw/reg_no_conn_info Einstellungen;Customizing;Korrektur mit mittlerer Priorität;29.04.16;;
+CRM-CM;1850010;2;Mögliche Änderung/Offenlegung von persist. Daten in CRM-CM;Programmfehler;Korrektur mit mittlerer Priorität;27.04.16;;
+XX-CSC-RU-FI;1933375;1;RU ERP for Banking. Missing authorization check. Potentential modification of persisted data;Programmfehler;Korrektur mit mittlerer Priorität;25.04.16;;
+SV-SMG-TWB-BCA;2043447;3;Fehlende Berechtigungsprüfung in SV-SMG-BPCA;Programmfehler;Korrektur mit mittlerer Priorität;22.04.16;;
+XX-CSC-IN-FI;2201916;1;Missing authorization check in XX-CSC-IN-FI;Programmfehler;Korrektur mit mittlerer Priorität;21.04.16;;
+BC-SYB-ASE;2294689;5;SQL-Injection-Schwachstelle in SAP ASE;Programmfehler;Korrektur mit hoher Priorität;20.04.16;;
+CRM-CCI;2289575;3;Cross-Site Scripting (XSS) vulnerability in SAP Contact Center Infrastructure when handling chats, e-mails, call extra data, scripts, and presence and directory data;Programmfehler;Korrektur mit mittlerer Priorität;19.04.16;;
+SV-SMG-SUP;2300197;3;Cross-Site Scripting (XSS) vulnerability in SAP Solution Manager Fiori Apps 'My Incidents' and 'My Business Requirements';Programmfehler;Korrektur mit mittlerer Priorität;15.04.16;;
+BC-CUS-TOL-HMT;2284952;4;Aktualisierung 2 zu Sicherheitshinweis 1971238;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+BC-CST-IC;2221657;1;Code-Injection-Schwachstelle in SAP Internet Communication Manager;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+HAN-DP-SDI;2262742;6;Fehlende Berechtigungsprüfung in HANA DP Agent;Programmfehler;Korrektur mit hoher Priorität;12.04.16;;
+HAN-DP-SDI;2262710;4;Denial-of-Service-Schwachstelle (DoS) in HANA DP Agent;Programmfehler;Korrektur mit hoher Priorität;12.04.16;;
+BC-CST-EQ;2258784;5;Denial-of-Service-Schwachstelle (DoS) im Enqueue-Server;Programmfehler;Korrektur mit hoher Priorität;12.04.16;;
+BC-ESI-UDDI;2254389;5;XXE-Schwachstelle in SAP UDDI;Programmfehler;Korrektur mit hoher Priorität;12.04.16;;
+BC-XS-JAV;2252191;6;Deserialisierung nicht vertrauenswürdiger Daten in SAP HANA XS Advanced Java Runtime;Externer Fehler;Korrektur mit hoher Priorität;12.04.16;;
+BC-WD-UR;2201295;10;Cross-Site-Scripting-Schwachstelle (XSS) in UR Control.;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+HAN-DP-SDI;2280054;5;Offenlegung von Informationen in Data Provisioning Agent;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+BC-CST-GW;2274560;4;Arbitrary-Log-File-Injection-Schwachstelle in SAP Gateway;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+BI-BIP-INV;2274286;6;XSS-Schwachstelle bezüglich Sendeaktion in BI-Dokumenten;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+CRM-ISA-TEC;2273241;10;Cross-Site-Scripting-(XSS)-Schwachstelle in SAP Internet Sales;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+BC-MUS-LP;2267789;8;Fehlende Berechtigungsprüfungen im Report Launchpad;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+OPU-GW-JAV;2265514;4;Deserialisierung nicht vertrauenswürdiger Daten in Groovy Engine;Programmfehler;Korrektur mit hoher Priorität;12.04.16;;
+BC-WD-JAV;2263719;6;Cross-Site-Scripting-Schwachstelle (XSS) in BC-WD-JAV;Programmfehler;Korrektur mit mittlerer Priorität;12.04.16;;
+XX-CSC-HU-FI;1951340;1;Missing authorization check in XX-CSC-HU-FI;Programmfehler;Korrektur mit mittlerer Priorität;07.04.16;;
+CRM-MKT-EAL;1902162;4;Code-Injection-Schwachstelle in CRM-MKT-EAL;Programmfehler;Korrektur mit hoher Priorität;01.04.16;;
+PLM-ECC;2281095;1;Missing authorization check in ECTR;Programmfehler;Korrektur mit mittlerer Priorität;30.03.16;;
+XX-CSC-RU-FI;1943280;1;Missing authorization check in XX-CSC-RU-FI;Programmfehler;Korrektur mit mittlerer Priorität;30.03.16;;
+LE-WM-VAS;2133144;2;Missing whitelist check in LE-WM-VAS LE-TRM and LE-YM;Programmfehler;Korrektur mit niedriger Priorität;23.03.16;;
+BC-CUS-TOL-HMT;2017050;2;Aktualisierung 1 zu Sicherheitshinweis 1971238;Programmfehler;Korrektur mit hoher Priorität;22.03.16;;
+BC-JAS-COR;1682613;4;Fehlende Berechtigungsprüfung im Core-Service;Programmfehler;HotNews;17.03.16;;
+LO-BM-GBT;2213128;1;Switchable authorization checks for RFCs in GBT integration component GBTRINT in ERP;Programmfehler;Korrektur mit mittlerer Priorität;15.03.16;;
+BC-JAS-SF;2259547;6;Potential denial of service in jstart;Programmfehler;Korrektur mit hoher Priorität;14.03.16;;
+BC-CST-IC;2256185;2;Potential denial of service in SAP Internet Communication Manager;Programmfehler;Korrektur mit hoher Priorität;14.03.16;;
+BC-SYB-ASE;2262645;8;Sicherheitsschwachstelle in Apache Commons Collections Library (wird von mehreren SAP-Sybase-Produkten verwendet);Programmfehler;Korrektur mit hoher Priorität;11.03.16;;
+BC-CST-MS;2223688;3;Möglicher Denial-of-Service im Message Server;Programmfehler;Korrektur mit niedriger Priorität;08.03.16;;
+BC-CST-MS;2189174;1;Unbefugtes Ändern von angezeigten Inhalten auf dem Message Server;Programmfehler;Korrektur mit niedriger Priorität;08.03.16;;
+BI-RA-EXP;2260895;3;Potenzielle Offenlegung von Informationen zum Explorer-Webanwendungsserver;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+BC-INS-TC-CNT;2260344;5;Mögliche Einschleusung eines Betriebssystembefehls in SCTC_*-Funktionsbausteinen;Sonderentwicklungen;HotNews;08.03.16;;
+BC-CST-IC;2258786;4;Potenzielle Offenlegung von Informationen zur SAP-Web-Administrations-Oberfläche;Beratung;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-RTC;2255990;2;Potenzielle Offenlegung von Informationen zu Real-Time-Collaboration-Chat (RTC-Chat);Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-RTM;2253850;1;XML-EXternal-Entity-Schwachstelle in RTMF;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+BI-BIP-BIW;2204581;4;Unbefugtes Ändern von angezeigten Inhalten im BI-Arbeitsbereich - benutzerdefinierter JS;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+XX-SER-SAPSMP-SDM;2282338;3;SAP Download Manager: schwache Kennwortverschlüsselung;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+BC-SEC-LGN;2269315;2;Fehlende Berechtigungsprüfung in OAuth2-Serverlaufzeit;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-NAV;2238765;2;Unbefugtes Ändern von angezeigten Inhalten in CacheAPITester und findMerge;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-NAV;2238375;2;Unbefugtes Ändern von angezeigten Inhalten in NavigationURLTester;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+BC-INS-CTC;2235994;4;Parsing nicht vertrauenswürdiger XML-Inhalte im Konfigurationsassistenten möglich;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-PB-PRT;2219896;6;Unbefugtes Ändern von abgelegten Inhalten im Portal Page Builder;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+EP-PIN-NAV-AFP;2210310;3;Unbefugte Verwendung von Anwendungsfunktionen in NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;08.03.16;;
+IS-A-DP;2071329;3;Aktualisierung 1 zu Sicherheitshinweis 1676754;Programmfehler;Korrektur mit hoher Priorität;04.03.16;;
+FIN-FSCM-TRM-TM;2167807;2;Missing authorization check in Transaction Management;Programmfehler;Korrektur mit mittlerer Priorität;03.03.16;;
+IS-A-DP-VMS;1676754;3;Unbefugtes Ändern von BSP in WebDocuments;Programmfehler;Korrektur mit hoher Priorität;03.03.16;;
+SCM-IBP-ANA;2279383;3;Unauthorized modification of stored content in SCM IBP;Programmfehler;Korrektur mit mittlerer Priorität;02.03.16;;
+BW-BEX-ET-WB-7X;2196420;3;Potential information disclosure relating to BW-BEX-ET-WB-7X;Programmfehler;Korrektur mit niedriger Priorität;28.02.16;;
+BW-WHM-DBA;2064501;3;Fehlende Berechtigungsprüfung in BW-WHM-DBA;Programmfehler;Korrektur mit mittlerer Priorität;28.02.16;;
+BW-SYS-DB;2069994;1;Potenzielle Offenlegung von Informationen in Bezug auf Benutzer-E-Mails;Programmfehler;Korrektur mit mittlerer Priorität;28.02.16;;
+CA-VE-VEV;2281195;7;Mögliches Remote-Beenden von laufenden Prozessen in SAP 3D Visual Enterprise Author, Generator und Viewer;Programmfehler;HotNews;26.02.16;;
+MDM-GDS;1905286;2;Hard-coded credentials in MDM-GDS;Modifikation;Korrektur mit mittlerer Priorität;25.02.16;;
+BW-EI-APD;2162829;3;Code-Injection-Schwachstelle in BW-EI-APD;Programmfehler;Korrektur mit hoher Priorität;25.02.16;;
+BC-JAS-COR;1771200;1;Potential information disclosure relating to AS Java;Programmfehler;Korrektur mit mittlerer Priorität;20.02.16;;
+MFG-MII;2230978;7;Directory-Traversal in MFG-MII;Programmfehler;Korrektur mit hoher Priorität;18.02.16;;
+SV-SMG-SDD;2037304;7;Ordnungsgemäße Eingabeprüfung fehlt im SDCC-Download-Funktionsbaustein;Programmfehler;Korrektur mit hoher Priorität;16.02.16;;
+BC-JAS-SEC-LGN;1658568;1;Fehlende Zugriffsbeschränkungen;Programmfehler;Korrektur mit mittlerer Priorität;14.02.16;;
+XAP-EM;2085214;4;Mgl. Verarb. nicht vertrwürdig. XML-Eingabedaten in SAP Environmental Compliance 3.0;Programmfehler;Korrektur mit mittlerer Priorität;12.02.16;;
+BC-SEC;2266565;8;SAPSSOEXT-Prozess stürzt bei Ticketverifikation ab.;Programmfehler;Korrektur mit mittlerer Priorität;09.02.16;;
+BC-TRX;2234226;3;TREX/BWA: Potenzielle Offenlegung technischer Informationen/Beeinträchtigung des Hostbetriebssystems;Info zur Installation;Korrektur mit hoher Priorität;09.02.16;;
+BC-ABA;2258608;1;Fehlende Authentifizierung in der Transaktion DBCO;Programmfehler;Korrektur mit mittlerer Priorität;09.02.16;;
+BI-LUM-DIS;2268810;1;Security vulnerability in Apache Commons Collections library used by multiple SAP Lumira products;Externer Fehler;Korrektur mit hoher Priorität;09.02.16;;
+BC-TRX;2273881;4;Aktualisierung 1 zu Sicherheitshinweis 2234226;Info zur Installation;Korrektur mit hoher Priorität;09.02.16;;
+BC-JAS-WEB;2235088;3;Directory-Traversal in JSF;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+BC-XI-CON-JPR;2220571;2;Unbefugtes Ändern von angezeigten Inhalten in Java Proxy Runtime;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+EP-BC-UWL;2256846;2;Potenzielle Offenlegung von Informationen zu Benutzernamen;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+BC-CTS-SDIC;2249364;2;Unbefugtes Ändern von angezeigten Inhalten in SDIC;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+BC-XI-IBD;2246851;5;PI SEC: Sicherheitsschwachstellen in Apache Commons Collections Library (verwendet in Enterprise Services Repository) gefunden;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+HAN-AS-XS;2272211;2;Aktualisierung der SAPUI5-Version in SAP HANA aufgrund von Sicherheitshinweis 2204160;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+XX-PART-WILY;2262104;1;Sicherheitsschwachstellen in Bibliothek Apache Commons Collections festgestellt, die in CA Introscope verwendet wird;Programmfehler;Korrektur mit hoher Priorität;09.02.16;;
+IS-A-VMS;2177403;1;Missing authorization check in IS-A-VMS;Programmfehler;Korrektur mit mittlerer Priorität;03.02.16;;
+LO-VC-LOI;2214442;1;Missing authorization check in SCM-APO-INT-MD-PDS;Programmfehler;Korrektur mit mittlerer Priorität;21.01.16;;
+FIN-SEM-CPM-BSC;1865646;2;Unbefugtes Ändern von angezeigten Inhalten in FIN-SEM-CP;Programmfehler;Korrektur mit mittlerer Priorität;21.01.16;;
+FIN-SEM-BPS-PLA;1590834;2;Aktualisierung #1 zu Sicherheitshinweis 1495333;Programmfehler;Korrektur mit hoher Priorität;21.01.16;;
+CRM-ISA;2244346;1;Untrusted XML input parsing possible in CRM-ISA;Programmfehler;Korrektur mit mittlerer Priorität;19.01.16;;
+SRM-CAT-MDM;2017651;4;Potenzielle Offenlegung von Informationen zu SRM-EBP-CAT;Programmfehler;Korrektur mit hoher Priorität;15.01.16;;
+LE-TRM;2180125;1;Missing authorization check in LE-TRM;Programmfehler;Korrektur mit niedriger Priorität;13.01.16;;
+IS-U-EIM;2257327;3;Missing authorization check in IS-U-EIM;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-DB;2233136;2;Potenzieller Abbruch laufender Prozesse (ausgelöst durch IMPORT-Anweisung);Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+BC-ABA;2248735;3;Code-Injection-Schwachstelle in System Administration Assistant;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-DB;2252941;3;Potenzielle Offenlegung von Informationen in Bezug auf Dateien, die mit der EXPORT-Anweisung aus SAP HANA exportiert wurden;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+EP-PIN-NAV-AFP;2193424;2;Potenzielle Offenlegung von Informationen zu NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-AS-RUL;2221986;5;SAP HANA hdbrole hat zu viele Berechtigungen;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-DB;2233550;12;Die Kommunikationsverschlüsselung für HANA-Multi-Tenant-Datenbank-Container funktioniert nicht wie erwartet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-AS-XS;2241978;2;"Log-Injection und fehlende Größeneinschränkung in ""Erweiterte Anwendungsservices von SAP HANA, klassisches Modell""";Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+EP-PIN-TOL;2227310;2;Unbefugtes Ändern von angezeigten Inhalten in com.sap.portal.themes.integrity;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+MOB-UIA-LIB-AUT;2239015;2;Unbefugtes Ändern von angezeigten Inhalten in SAP-Fiori-Login-Klasse;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-WD-JAV;2243373;1;Möglicher Denial-of-Service in BC-WD-JAV;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+EP-PIN-PRT;2249347;1;Sicherheitsschwachstellen in in ep.runtime.common verwendeter Apache-Commons-Collections-Bibliothek ermittelt;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-XI-IBD;2167813;4;Mögliche Offenlegung von Informationen bei Enterprise Services Repository;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-JAS-SEC-UME;2191290;3;Mögliche Offenlegung von Informationen bezüglich AS Java;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-NWA-XPI;2206793;2;Unbefugtes Ändern von angezeigten Inhalten in RWB;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-SRV-PMI;2234918;2;Unbefugtes Ändern von angezeigten Inhalten in PMI;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-XI-IGW;2247644;9;PI SEC: Sicherheitsschwachstellen in Apache Groovy Library in PI Cloud Integration Content;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-DB-ORA-INS;2246277;2;SAP ORACLE: unsicheres Authentifizierungsschema;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-DB-DB6-CCM;2251619;2;Fehlende Berechtigungsprüfung in Audit-Funktionen von DBA Cockpit;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
+BC-EIM-ESH;2185409;4;Potential information disclosure relating to passwords;Programmfehler;Korrektur mit mittlerer Priorität;11.01.16;;
+BC-ABA-SC;1973081;2;XSRF-Schwachstelle: externes Starten von Transaktionen mit OKCode;Beratung;Korrektur mit mittlerer Priorität;05.01.16;;
