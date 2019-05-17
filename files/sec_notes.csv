@@ -635,7 +635,7 @@ HAN-DB;2252941;3;Potenzielle Offenlegung von Informationen in Bezug auf Dateien,
 EP-PIN-NAV-AFP;2193424;2;Potenzielle Offenlegung von Informationen zu NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 HAN-AS-RUL;2221986;5;SAP HANA hdbrole hat zu viele Berechtigungen;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 HAN-DB;2233550;12;Die Kommunikationsverschlüsselung für HANA-Multi-Tenant-Datenbank-Container funktioniert nicht wie erwartet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
-HAN-AS-XS;2241978;2;"Log-Injection und fehlende Größeneinschränkung in ""Erweiterte Anwendungsservices von SAP HANA, klassisches Modell""";Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-AS-XS;2241978;2;Log-Injection und fehlende Größeneinschränkung in Erweiterte Anwendungsservices von SAP HANA, klassisches Modell;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 EP-PIN-TOL;2227310;2;Unbefugtes Ändern von angezeigten Inhalten in com.sap.portal.themes.integrity;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
 MOB-UIA-LIB-AUT;2239015;2;Unbefugtes Ändern von angezeigten Inhalten in SAP-Fiori-Login-Klasse;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
 BC-WD-JAV;2243373;1;Möglicher Denial-of-Service in BC-WD-JAV;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
