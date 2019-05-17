@@ -1,4 +1,4 @@
-﻿SAP-Komponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn;relevant;Anmerkungen
+SAPKomponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn;relevant;Anmerkungen
 BC-DOC-TER;2357141;10;Schwachstelle in Bezug auf die Einschleusung von Betriebssystembefehlen im Report für den Terminologieexport;Programmfehler;HotNews;17.05.18;;
 BI-RA-CR;1999142;2;Mögliche Remote-Ausführung von Code in BI-RA-CR;Programmfehler;Korrektur mit mittlerer Priorität;14.05.18;;
 BI-BIP-INV;2537150;7;[CVE-2018-2408] Falsche Sitzungsverwaltung in SAP Business Objects - CMC/BI Launchpad/Fiorified BI Launchpad;Programmfehler;Korrektur mit hoher Priorität;11.05.18;;
@@ -18,7 +18,8 @@ BC-WD-ABA;2081029;2;Potentially false redirection of Web site content in Web Dyn
 BC-CST-GW;2190621;4;SAP NetWeaver SAL: fehlerhafte Protokollierung von Adressen;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
 XX-CSC-BR-NFE;2497027;2;Missing Authorization check in XX-CSC-BR-NFE;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
 XX-CSC-BR-NFEIN;2497000;1;Missing Authorization check in XX-CSC-BR-NFEIN;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
-EP-VC-04S;2376081;6;Code-Injection-Schwachstelle in iViews des Visual Composer 04s;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
+EP-VC-04S;2376081;6;Code-Injection-Schwachstelle in iViews des Visual Composer 04s;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
+SV-SMG-SUP;2372688;5;"[CVE-2018-2405] Cross-Site Scripting im SAP Solution Manager Work Center ""Incident Management""";Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
 BI-RA-CR;2560132;6;[CVE-2018-2406] Nicht kommentierte Microsoft-Windows-Suchpfadschwachstelle in SAP Crystal Reports Server, OEM Edition;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
 EP-VC-04S;2552318;4;Aktualisierung 1 zu Sicherheitshinweis 2376081;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
 FI-CF-INF;2608312;1;Schaltbare Berechtigungsprüfungen in Central Finance;Programmfehler;Korrektur mit niedriger Priorität;10.04.18;;
@@ -30,7 +31,7 @@ SBO-CRO-SEC;2587985;8;Denial-of-Service-Schwachstelle (DoS) in SAP Business One;
 FS-CMS-MD;2473452;2;Missing Authorization check in FS-CMS;Programmfehler;Korrektur mit mittlerer Priorität;07.04.18;;
 FI-CF-INF;2495144;4;Switchable Authorization checks for RFC in Central Finance;Programmfehler;Korrektur mit mittlerer Priorität;28.03.18;;
 EP-PIN-AI;2169722;5;Whitelist based Clickjacking Framing Protection in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;22.03.18;;
-BC-SYB-PB;2201710;20;Behebung von Logjam- und Alternative Chains Certificate Forgery-Schwachstellen in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit mittlerer Priorität;19.03.18;;
+BC-SYB-PB;2201710;20;"Behebung von Logjam- und ""Alternative Chains Certificate Forgery""-Schwachstellen in mehreren SAP-Sybase-Produkten";Programmfehler;Korrektur mit mittlerer Priorität;19.03.18;;
 XX-CSC-RU-FI;1906841;1;Potential disclosure of persisted data in XX-CSC-RU;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
 XX-CSC-RU;2331141;3;SQL-Injection-Schwachstelle in FI-LOC-FI-RU;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
 SV-SMG-DVM;2051336;4;Mögliche Offenlegung von persistierten Daten in SV-SMG-DVM;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
@@ -84,7 +85,7 @@ BC-UPG-NA;2408073;6;Behandlung von digital signierten SAP-Hinweise in SAP Note A
 IS-HER-CM;2471736;1;Switchable Authorization checks for RFC in Accounts in SLcM;Programmfehler;Korrektur mit mittlerer Priorität;10.01.18;;
 BC-MID-RST;2533541;2;SQL Injection vulnerability in Olingo JPA;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
 BC-SRV-KPR-DMS;1906212;5;Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
-BC-SRV-KPR-DMS;2278931;7;1. Aktualisierung zu SAP-Hinweis 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
+BC-SRV-KPR-DMS;2278931;7;1. Aktualisierung zu SAP-Hinweis 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
 BC-SRV-KPR-DMS;2525392;8;[CVE-2018-2363] Aktualisierung 2 zu 1906212: Code-Injection-Schwachstelle im Knowledge Provider;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
 BC-CST-STS;2523961;7;[CVE-2018-2360] Fehlende Berechtigungsprüfung im Startup-Service;Programmfehler;Korrektur mit mittlerer Priorität;09.01.18;;
 HAN-DB;2575750;12;[CVE-2018-2362] Offenlegung von Informationen im Startup-Service in SAP HANA;Beratung;Korrektur mit mittlerer Priorität;09.01.18;;
@@ -182,7 +183,7 @@ IS-R-TGM-POS;2520064;6;Fehlende Berechtigungsprüfung auf Server für SAP Point-
 IS-U-LIB-DE-CL;2432578;5;Fehlende Berechtigungsprüfung in RFC-Funktionsbaustein;Programmfehler;Korrektur mit mittlerer Priorität;04.09.17;;
 BC-SYB-ASE;2296722;6;Offenlegung von Informationen: Schwachstelle in SAP ASE Installer;Programmfehler;Korrektur mit mittlerer Priorität;01.09.17;;
 BC-SYB-SQA;2374348;9;Offenlegung von Informationen in DBISQL mit Auswirkungen auf SAP SQL Anywhere, SAP ASE und SAP IQ;Programmfehler;Korrektur mit niedriger Priorität;01.09.17;;
-BC-JAS-SEC;2524134;2;1. Aktualisierung zu SAP-Hinweis 2423540: URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.17;;
+BC-JAS-SEC;2524134;2;1. Aktualisierung zu SAP-Hinweis 2423540: URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.17;;
 BC-JAS-SEC;2423540;5;URL-Redirection-Schwachstelle in SAP NetWeaver Logon;Programmfehler;Korrektur mit mittlerer Priorität;29.08.17;;
 BC-BMT-WFM-WEB;2132282;1;Möglicher Denial-of-Service in BC-BMT-WFM-WEB;Programmfehler;Korrektur mit mittlerer Priorität;24.08.17;;
 BC-FES-BUS-HTM;2189781;3;Unbefugtes Ändern von angezeigten Inhalten in NWBC für HTML;Programmfehler;Korrektur mit mittlerer Priorität;17.08.17;;
@@ -634,7 +635,7 @@ HAN-DB;2252941;3;Potenzielle Offenlegung von Informationen in Bezug auf Dateien,
 EP-PIN-NAV-AFP;2193424;2;Potenzielle Offenlegung von Informationen zu NavigationServlet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 HAN-AS-RUL;2221986;5;SAP HANA hdbrole hat zu viele Berechtigungen;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 HAN-DB;2233550;12;Die Kommunikationsverschlüsselung für HANA-Multi-Tenant-Datenbank-Container funktioniert nicht wie erwartet;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
-HAN-AS-XS;2241978;2;Log-Injection und fehlende Größeneinschränkung in Erweiterte Anwendungsservices von SAP HANA, klassisches Modell;Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
+HAN-AS-XS;2241978;2;"Log-Injection und fehlende Größeneinschränkung in ""Erweiterte Anwendungsservices von SAP HANA, klassisches Modell""";Programmfehler;Korrektur mit mittlerer Priorität;12.01.16;;
 EP-PIN-TOL;2227310;2;Unbefugtes Ändern von angezeigten Inhalten in com.sap.portal.themes.integrity;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
 MOB-UIA-LIB-AUT;2239015;2;Unbefugtes Ändern von angezeigten Inhalten in SAP-Fiori-Login-Klasse;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
 BC-WD-JAV;2243373;1;Möglicher Denial-of-Service in BC-WD-JAV;Programmfehler;Korrektur mit hoher Priorität;12.01.16;;
