@@ -31,7 +31,7 @@ SBO-CRO-SEC;2587985;8;Denial-of-Service-Schwachstelle (DoS) in SAP Business One;
 FS-CMS-MD;2473452;2;Missing Authorization check in FS-CMS;Programmfehler;Korrektur mit mittlerer Priorität;07.04.18;;
 FI-CF-INF;2495144;4;Switchable Authorization checks for RFC in Central Finance;Programmfehler;Korrektur mit mittlerer Priorität;28.03.18;;
 EP-PIN-AI;2169722;5;Whitelist based Clickjacking Framing Protection in Enterprise Portal;Programmfehler;Korrektur mit mittlerer Priorität;22.03.18;;
-BC-SYB-PB;2201710;20;"Behebung von Logjam- und ""Alternative Chains Certificate Forgery""-Schwachstellen in mehreren SAP-Sybase-Produkten";Programmfehler;Korrektur mit mittlerer Priorität;19.03.18;;
+BC-SYB-PB;2201710;20;Behebung von Logjam- und Alternative Chains Certificate Forgery-Schwachstellen in mehreren SAP-Sybase-Produkten;Programmfehler;Korrektur mit mittlerer Priorität;19.03.18;;
 XX-CSC-RU-FI;1906841;1;Potential disclosure of persisted data in XX-CSC-RU;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
 XX-CSC-RU;2331141;3;SQL-Injection-Schwachstelle in FI-LOC-FI-RU;Programmfehler;Korrektur mit hoher Priorität;13.03.18;;
 SV-SMG-DVM;2051336;4;Mögliche Offenlegung von persistierten Daten in SV-SMG-DVM;Programmfehler;Korrektur mit mittlerer Priorität;13.03.18;;
