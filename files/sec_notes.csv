@@ -19,7 +19,7 @@ BC-CST-GW;2190621;4;SAP NetWeaver SAL: fehlerhafte Protokollierung von Adressen;
 XX-CSC-BR-NFE;2497027;2;Missing Authorization check in XX-CSC-BR-NFE;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
 XX-CSC-BR-NFEIN;2497000;1;Missing Authorization check in XX-CSC-BR-NFEIN;Programmfehler;Korrektur mit mittlerer Priorität;12.04.18;;
 EP-VC-04S;2376081;6;Code-Injection-Schwachstelle in iViews des Visual Composer 04s;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
-SV-SMG-SUP;2372688;5;"[CVE-2018-2405] Cross-Site Scripting im SAP Solution Manager Work Center ""Incident Management""";Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
+SV-SMG-SUP;2372688;5;[CVE-2018-2405] Cross-Site Scripting im SAP Solution Manager Work Center Incident Management;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
 BI-RA-CR;2560132;6;[CVE-2018-2406] Nicht kommentierte Microsoft-Windows-Suchpfadschwachstelle in SAP Crystal Reports Server, OEM Edition;Programmfehler;Korrektur mit mittlerer Priorität;10.04.18;;
 EP-VC-04S;2552318;4;Aktualisierung 1 zu Sicherheitshinweis 2376081;Programmfehler;Korrektur mit hoher Priorität;10.04.18;;
 FI-CF-INF;2608312;1;Schaltbare Berechtigungsprüfungen in Central Finance;Programmfehler;Korrektur mit niedriger Priorität;10.04.18;;
