@@ -1,4 +1,4 @@
-SAPKomponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn;relevant;Anmerkungen
+-SAPKomponente;Number;Version;Title;Kategorie;Priorität;ReleasedOn;relevant;Anmerkungen
 BC-DOC-TER;2357141;10;Schwachstelle in Bezug auf die Einschleusung von Betriebssystembefehlen im Report für den Terminologieexport;Programmfehler;HotNews;17.05.18;;
 BI-RA-CR;1999142;2;Mögliche Remote-Ausführung von Code in BI-RA-CR;Programmfehler;Korrektur mit mittlerer Priorität;14.05.18;;
 BI-BIP-INV;2537150;7;[CVE-2018-2408] Falsche Sitzungsverwaltung in SAP Business Objects - CMC/BI Launchpad/Fiorified BI Launchpad;Programmfehler;Korrektur mit hoher Priorität;11.05.18;;
